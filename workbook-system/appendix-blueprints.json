@@ -1,0 +1,574 @@
+[
+  {
+    "section": "56.1.1",
+    "country": "Angola",
+    "page": 384,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "LOCAT",
+      "ORT01",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.2",
+    "country": "Bangladesh",
+    "page": 386,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "LOCAT",
+      "PSTLZ",
+      "ORT01",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.3",
+    "country": "Belarus",
+    "page": 389,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "POSTA",
+      "PSTLZ",
+      "ORT01",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.4",
+    "country": "Botswana",
+    "page": 391,
+    "fieldCodes": [
+      "NAME2",
+      "HSNMR",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.5",
+    "country": "Cambodia",
+    "page": 393,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "LOCAT",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.6",
+    "country": "Costa Rica",
+    "page": 395,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.8",
+    "country": "Dominican Republic",
+    "page": 400,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.10",
+    "country": "El Salvador",
+    "page": 404,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "LOCAT",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.11",
+    "country": "Estonia",
+    "page": 406,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.12",
+    "country": "Ghana",
+    "page": 408,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "ORT01",
+      "ORT02",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.13",
+    "country": "Guatemala",
+    "page": 410,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.14",
+    "country": "Honduras",
+    "page": 412,
+    "fieldCodes": [
+      "NAME2",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.15",
+    "country": "Iceland",
+    "page": 414,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "POSTA",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.17",
+    "country": "Isle of Man",
+    "page": 418,
+    "fieldCodes": [
+      "NAME2",
+      "HSNMR",
+      "ORT01",
+      "ORT02",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.18",
+    "country": "Israel",
+    "page": 420,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "LOCAT",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.19",
+    "country": "Jordan",
+    "page": 422,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "LOCAT",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.20",
+    "country": "Kazakhstan",
+    "page": 425,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "LOCAT",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.21",
+    "country": "Kenya",
+    "page": 427,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.22",
+    "country": "Kosovo",
+    "page": 429,
+    "fieldCodes": [
+      "STRAS",
+      "POSTA",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "LAND1",
+      "BLDNG"
+    ]
+  },
+  {
+    "section": "56.1.23",
+    "country": "Latvia",
+    "page": 431,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "POSTA",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "LAND1",
+      "BLDNG"
+    ]
+  },
+  {
+    "section": "56.1.24",
+    "country": "Lebanon",
+    "page": 434,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "LOCAT",
+      "ORT01",
+      "ORT02",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.25",
+    "country": "Lithuania",
+    "page": 436,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "POSTA",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.26",
+    "country": "Luxembourg",
+    "page": 438,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.27",
+    "country": "Malawi",
+    "page": 440,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "ORT01",
+      "STATE",
+      "LAND1",
+      "BLDNG"
+    ]
+  },
+  {
+    "section": "56.1.28",
+    "country": "Malta",
+    "page": 442,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "POSTA",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.29",
+    "country": "Morocco",
+    "page": 444,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "POSTA",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "LAND1",
+      "BLDNG"
+    ]
+  },
+  {
+    "section": "56.1.30",
+    "country": "Mozambique",
+    "page": 446,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "LOCAT",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.31",
+    "country": "Myanmar",
+    "page": 449,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "PSTLZ",
+      "ORT01",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.32",
+    "country": "Namibia",
+    "page": 450,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.33",
+    "country": "Nicaragua",
+    "page": 453,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "LOCAT",
+      "PSTLZ",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.34",
+    "country": "North Macedonia",
+    "page": 455,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.35",
+    "country": "Nigeria",
+    "page": 457,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "LOCAT",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.36",
+    "country": "Pakistan",
+    "page": 459,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.37",
+    "country": "Panama",
+    "page": 462,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "LOCAT",
+      "PSTLZ",
+      "ORT01",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.39",
+    "country": "Puerto Rico",
+    "page": 466,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.40",
+    "country": "Serbia",
+    "page": 468,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "LOCAT",
+      "PSTLZ",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.41",
+    "country": "South Sudan",
+    "page": 470,
+    "fieldCodes": [
+      "STRAS",
+      "POSTA",
+      "ORT01",
+      "LAND1",
+      "BLDNG"
+    ]
+  },
+  {
+    "section": "56.1.44",
+    "country": "Tanzania",
+    "page": 477,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "POSTA",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.45",
+    "country": "Tunisia",
+    "page": 479,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "LOCAT",
+      "PSTLZ",
+      "ORT01",
+      "ORT02",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.46",
+    "country": "Uganda",
+    "page": 481,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "ORT01",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.48",
+    "country": "Vietnam",
+    "page": 485,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "LOCAT",
+      "PSTLZ",
+      "ORT02",
+      "STATE",
+      "LAND1"
+    ]
+  },
+  {
+    "section": "56.1.49",
+    "country": "Zimbabwe",
+    "page": 487,
+    "fieldCodes": [
+      "NAME2",
+      "STRAS",
+      "HSNMR",
+      "LOCAT",
+      "ORT01",
+      "STATE",
+      "LAND1"
+    ]
+  }
+]
