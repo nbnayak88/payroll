@@ -918,10 +918,10 @@
       "country": "United Kingdom",
       "capital": "London",
       "currency": "GBP",
-      "guideCoverage": "companion",
-      "sapEcpCountryVersion": "Not verified — additional existing workbook",
-      "url": "https://nbnayak88.github.io/payroll/UK_ECP_Payroll_Configurator.html",
-      "guidePage": null
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/United_Kingdom.html",
+      "guidePage": 349
     },
     {
       "country": "United States",
