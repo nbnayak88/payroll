@@ -11,3 +11,8 @@ logo=base64.b64encode((ROOT/'successlabs-academy-logo.png').read_bytes()).decode
 html=(ROOT/'hub-template.html').read_text().replace('__FONT__',font).replace('__LOGO__',logo)
 (OUT/'index.html').write_text(html)
 print(f"Hub generated: {len(resources)} resources, {len({r['country'] for r in resources})} countries and regions")
+
+# Apply the shared country case and reflection layer after regeneration.
+import subprocess, sys
+if __name__ == "__main__":
+ subprocess.run([sys.executable,str(ROOT/"enrich_workbooks.py")],check=True)

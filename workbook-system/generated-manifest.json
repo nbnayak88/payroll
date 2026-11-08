@@ -7,8 +7,8 @@
     "sections": 48,
     "guideSection": "chapter 28",
     "guidePage": 202,
-    "sha256": "45803518edf8c8594db928c9cc309f00d42b1ce81c042512242ea489bdca21d0",
-    "gitBlobSha": "4f4eb14b9cae648fc6b212d60a4c847c27887ebd"
+    "sha256": "49df7660a9d005a48a966d6408a8527e034cbfde8c041dc254ed706174e88483",
+    "gitBlobSha": "76121301de368c2d68a98ac81fe3b7a553e0aecb"
   },
   {
     "country": "South Africa",
@@ -18,8 +18,8 @@
     "sections": 48,
     "guideSection": "chapter 43",
     "guidePage": 293,
-    "sha256": "94199bace6b4d7e284c1ce3c0facd90f415539f2b7cdceac6dfc6469c97d0291",
-    "gitBlobSha": "673bed233a0cb443c8f8eaaebc90aa5fc677ef08"
+    "sha256": "18fbf7487e43e27f3c8144e8a4cb060bfd699cfede51d4feb5c30e72d452e21a",
+    "gitBlobSha": "171d8126a8cb3d731300d804a7375cdc1f619369"
   },
   {
     "country": "United Kingdom",
@@ -29,8 +29,8 @@
     "sections": 48,
     "guideSection": "chapter 53",
     "guidePage": 349,
-    "sha256": "9bd91cc0b4c9e24add1998d2260dd7a527c52841c3026f90f632ec3d1e600c8f",
-    "gitBlobSha": "09f6564ec10b9659f8710591a31181d38a70177b"
+    "sha256": "e44d563cd309e7a263ef0b80a6b7e6b817148d91e3c160c2987ff4d382868c5c",
+    "gitBlobSha": "f0676f101213ab57ef70844ab085dc1031865277"
   },
   {
     "country": "Angola",
@@ -40,8 +40,8 @@
     "sections": 12,
     "guideSection": "56.1.1",
     "guidePage": 384,
-    "sha256": "5a0e95dd2f0872ae4a3b262ca086875647fc9cff5d6c5347fdb6ed372a2e405e",
-    "gitBlobSha": "9f2b4e1c3a7f26dacfa7c812c2ceda61aabc8e1e"
+    "sha256": "30582900a5823012367036d5b32b91f63979160ec7ad544cde34f44ca921ffc5",
+    "gitBlobSha": "15339e67b5dacb91071e3273a9726a1e9b62371f"
   },
   {
     "country": "Bangladesh",
@@ -51,8 +51,8 @@
     "sections": 12,
     "guideSection": "56.1.2",
     "guidePage": 386,
-    "sha256": "d356c554fa5108a54e0201c3e99e317687a6bbf8b4a457de6ab21adb80aeccc3",
-    "gitBlobSha": "ab00575b09f6cb233cfb5db77072f95ab3067d92"
+    "sha256": "7a24ecbdc767f0dff03c150d968cf7d43947ef1f4eb35864c53e3b2b810e71fa",
+    "gitBlobSha": "aa2809076e391536570b528c28a2d29dc60f29db"
   },
   {
     "country": "Belarus",
@@ -62,8 +62,8 @@
     "sections": 12,
     "guideSection": "56.1.3",
     "guidePage": 389,
-    "sha256": "05f16b3ff0e5b669d93097049b26f6befef779cdb30c12df07f1d21c0be5b74f",
-    "gitBlobSha": "274013d922549887c473d9a4896989c10f37af46"
+    "sha256": "2c4f51be849e7f9e8ee59f64e54759f4b0ac1db18955976e3862ff62ce25c5e6",
+    "gitBlobSha": "ccfaadd7eef64482431a5558fce17cf1c4270637"
   },
   {
     "country": "Botswana",
@@ -73,8 +73,8 @@
     "sections": 12,
     "guideSection": "56.1.4",
     "guidePage": 391,
-    "sha256": "dcd59ab76d706dc9bcd7c072014a4206b97d046f8ac1e8110783268ce7b39404",
-    "gitBlobSha": "1b2bac06279bd80d1248d58d585b51ab29a8779e"
+    "sha256": "0c0270dedd3113e22cf69b5cec24f3f3a26351069b90d2773ae62597a7169dae",
+    "gitBlobSha": "6e45efb5b0ccda0e21521b830d44796a50470026"
   },
   {
     "country": "Cambodia",
@@ -84,8 +84,8 @@
     "sections": 12,
     "guideSection": "56.1.5",
     "guidePage": 393,
-    "sha256": "f0da3381cb64b53ec556ac9893f97a4716a9e8cab1adce5113b1f23481f2bd91",
-    "gitBlobSha": "4bc02c51f5d1f455a611e94cb74a8e06967ce046"
+    "sha256": "0ba8059ab956b12ff2012cc957156696d9d24a6c5a2cb8a7f5ac25990403606e",
+    "gitBlobSha": "813568b2225594ba1731377a7191f6cc3d9232a2"
   },
   {
     "country": "Costa Rica",
@@ -95,8 +95,8 @@
     "sections": 12,
     "guideSection": "56.1.6",
     "guidePage": 395,
-    "sha256": "8000af1ea2ee4419a89a48b92ec14cc5d0cfd88688455683bfbd9738af82d6e6",
-    "gitBlobSha": "5dba6e7151ae21179ee71b9ccec0606d31b704cf"
+    "sha256": "717ba2ab9c3d548f5aaea97d264035f7add96956d64cb40b6d061c30c1609a77",
+    "gitBlobSha": "1ab63044be693cbb53492f921a90418fdcb4dfd0"
   },
   {
     "country": "Dominican Republic",
@@ -106,8 +106,8 @@
     "sections": 12,
     "guideSection": "56.1.8",
     "guidePage": 400,
-    "sha256": "b41715f75610e97aace03f0d7f312064e4ada69357e66ea7a2e4ed259a802498",
-    "gitBlobSha": "6ee67b912719c75bf556eb29b009da325baafb68"
+    "sha256": "06af8315541c1c141a3ed157d0cd9d50dc79a96b5dbbdf17939b7a12b8f688cd",
+    "gitBlobSha": "f096efaa3c34e87c8b1743848bc18e2b0fcae2b1"
   },
   {
     "country": "El Salvador",
@@ -117,8 +117,8 @@
     "sections": 12,
     "guideSection": "56.1.10",
     "guidePage": 404,
-    "sha256": "19e469154c34abd1050a22a4aea0411798ef24b3a746d2d6b011332675280da6",
-    "gitBlobSha": "0dcdf020ff3b6e95d4a9ea255bc17bb0ad2223c3"
+    "sha256": "1e4b4b4a2903f3033f4393cb80b79e606af2525c756a7b0ae5000181a5cc4820",
+    "gitBlobSha": "62e811d913f55849963a75dd2d16224186f82275"
   },
   {
     "country": "Estonia",
@@ -128,8 +128,8 @@
     "sections": 12,
     "guideSection": "56.1.11",
     "guidePage": 406,
-    "sha256": "eff36e5685a582ca08278f3c4825385136f3b7884935a9eac46d8638ad83b909",
-    "gitBlobSha": "d5606832641a0539f007b180fa2d57cef5495529"
+    "sha256": "d1428afcb3084a7b5e8723fe41bf1cdebdb58c7069ac5ee5004afbf82c06a077",
+    "gitBlobSha": "67a844562949601de94dcaabd1866d38faad0eb9"
   },
   {
     "country": "Ghana",
@@ -139,8 +139,8 @@
     "sections": 12,
     "guideSection": "56.1.12",
     "guidePage": 408,
-    "sha256": "5f23bbf50ba5171d60c959e4859666c31a31206c23e48d0060a85168a1655ddb",
-    "gitBlobSha": "3464a3add9475af958190ff1581359793f29f398"
+    "sha256": "aedc1dd651a694cbcbbba5f75664d93eb42cfd48066b0fec143a08d896e3306c",
+    "gitBlobSha": "a4d71a6040a9585943a18c100c286e3ae871eb4d"
   },
   {
     "country": "Guatemala",
@@ -150,8 +150,8 @@
     "sections": 12,
     "guideSection": "56.1.13",
     "guidePage": 410,
-    "sha256": "2f3594f37e64f619102a90995d9f18a46f579b346730fc4516b9ec010336df74",
-    "gitBlobSha": "0898d67d53485d97ee53f2a258c9d7e7767cc8e4"
+    "sha256": "50c341c579bc0c6496a1da4b650a069f34dff7baba37e06b36faaeb12a8839ed",
+    "gitBlobSha": "3fc8305786b4f41fc14b856c4a564dedb2a13a03"
   },
   {
     "country": "Honduras",
@@ -161,8 +161,8 @@
     "sections": 12,
     "guideSection": "56.1.14",
     "guidePage": 412,
-    "sha256": "578aac76ce1ce7a3338ac627c057aeb964f2ffe86a7495ba2d12fcc1b6261082",
-    "gitBlobSha": "de85147ab8dd6c8b6bdf765c3a810727f1f5b7b2"
+    "sha256": "c74b18fb2984d0b82c74fa7c8fc2943a7a60a98261744ad27e594759ab452cc8",
+    "gitBlobSha": "d05262d0bd959da3b9d35910ba6689686f508dcb"
   },
   {
     "country": "Iceland",
@@ -172,8 +172,8 @@
     "sections": 12,
     "guideSection": "56.1.15",
     "guidePage": 414,
-    "sha256": "e23f168926772d334f3bc459d15c23f2d5f70f029d60974ea862c1518745619c",
-    "gitBlobSha": "0e75fc195c2fddd4bc1c9f8657b16b46d666d21d"
+    "sha256": "5b9bbbf518490b2fb4ab949cac38adac60f98c8bfc2a54238e464a175b22ceae",
+    "gitBlobSha": "bdf31c182440d1068f0ab41bda7f17fe6e6ac383"
   },
   {
     "country": "Isle of Man",
@@ -183,8 +183,8 @@
     "sections": 12,
     "guideSection": "56.1.17",
     "guidePage": 418,
-    "sha256": "54a67fdeba7727c4928cd0bb73fb002504a28ac57c5c6bd224981101ca4da59d",
-    "gitBlobSha": "dbbd5543b49b46a6fbbdc83385d10f0dbae8b986"
+    "sha256": "69e245b75030973fbd704a7d9e9517d522f64060c400c69c1525fb44c90dedca",
+    "gitBlobSha": "40cca1e02138c714648c4ce36b1822413f8085d6"
   },
   {
     "country": "Israel",
@@ -194,8 +194,8 @@
     "sections": 12,
     "guideSection": "56.1.18",
     "guidePage": 420,
-    "sha256": "cf692ef0c464db1d633225656a691c26274c84b27f81e5d011cd3f37db0db615",
-    "gitBlobSha": "23976e8a0c289a08a41a3f1b49830dd2e04aa224"
+    "sha256": "dffff1041ade78a81170cd1feea00584b4db09bd6fb82023943459bccc1430f7",
+    "gitBlobSha": "3ebfa173f8d5e4dc8f1b1f3c38f78eb627c750e3"
   },
   {
     "country": "Jordan",
@@ -205,8 +205,8 @@
     "sections": 12,
     "guideSection": "56.1.19",
     "guidePage": 422,
-    "sha256": "d57555c649744f5af886b6783b5d137d6d892789c832fbeba99b85c8e0e859d4",
-    "gitBlobSha": "a98039a8754a1a492231396e223b8ff9d4aa5b47"
+    "sha256": "b303dbeeed20355c5f4642b6e96b2e5e58dff5e5aa9bf02adde6a9482c9076d3",
+    "gitBlobSha": "1e19d8f5f7bbd92d8d20b2aab323980ed956d9e0"
   },
   {
     "country": "Kazakhstan",
@@ -216,8 +216,8 @@
     "sections": 12,
     "guideSection": "56.1.20",
     "guidePage": 425,
-    "sha256": "1f9f8bac7d5a3d3af7869ea4633ae5b943d6e399a9c67948037adf19eb5e3773",
-    "gitBlobSha": "7b5aed622b598644747e326c56568c4d4d7f091a"
+    "sha256": "9960c06a33aea41fa0f5f747e8f368702d9853b3df10dc5f2355dca6325fd6a0",
+    "gitBlobSha": "818f4c3593c1f6f759587a29bdc8c41085a4820c"
   },
   {
     "country": "Kenya",
@@ -227,8 +227,8 @@
     "sections": 12,
     "guideSection": "56.1.21",
     "guidePage": 427,
-    "sha256": "0ec48d683cabba9e6ecf281bf77209a2f29f4c82a65f480a4deb66321eb8c59f",
-    "gitBlobSha": "5889ba404225b208ff073ab73e7efce83ab73e2c"
+    "sha256": "db3c549ad218ac019e36d055806e33d529ee486f1436c8463716ada1b118b19f",
+    "gitBlobSha": "888f74fd52f1e9a10ce5399705a93d4e009d98a1"
   },
   {
     "country": "Kosovo",
@@ -238,8 +238,8 @@
     "sections": 12,
     "guideSection": "56.1.22",
     "guidePage": 429,
-    "sha256": "86601f7e91391246917341b9fc43a8dc5e0f6a46b74171cfad82cf01bf0c9733",
-    "gitBlobSha": "1f96a8a1f22cc30f9488fcdacb722f6104ab6fd6"
+    "sha256": "0e6b48c3d6901081b3db010e0390ee5f76501b725121b1354e726cafafb52e41",
+    "gitBlobSha": "004cd63e8a4270d2cedda8c56eec577bfd91b7f1"
   },
   {
     "country": "Latvia",
@@ -249,8 +249,8 @@
     "sections": 12,
     "guideSection": "56.1.23",
     "guidePage": 431,
-    "sha256": "a2a765a10475b544ad0aa46dd9ae86b9ca38d31151abdf0bb6eb5b53474719f1",
-    "gitBlobSha": "badf728f3468ff29d85358b6fb554e37579203d7"
+    "sha256": "272787e4e60cc0edcc7baf057bfdf23bee0315957eafd23a2c6c9bea6471bf82",
+    "gitBlobSha": "a35a294dcd981f1b15c56ac4f87b214ea085d23b"
   },
   {
     "country": "Lebanon",
@@ -260,8 +260,8 @@
     "sections": 12,
     "guideSection": "56.1.24",
     "guidePage": 434,
-    "sha256": "19402e68a4b933179c751bef06154114425444dc4643b38094634c62abaa4a58",
-    "gitBlobSha": "8740744e9ceaea666cd6203f43e6550548bb1e68"
+    "sha256": "560f15e847b2f11197fdddc86b513f3da661e1b8f2eaa99678fbfe771c74b1dd",
+    "gitBlobSha": "d380c26d920e30b34115a4413a6fcfbaa956c86e"
   },
   {
     "country": "Lithuania",
@@ -271,8 +271,8 @@
     "sections": 12,
     "guideSection": "56.1.25",
     "guidePage": 436,
-    "sha256": "33c739c4cbc73f82f0d83bb098320cb1c3657f0eae0e5503619a3c2edf3c87e6",
-    "gitBlobSha": "2f61e78ddd773d9b71438e852d2b0e4f83d6e1ad"
+    "sha256": "366ab0070313c68dcf1e1d90a81d5e546161968210c14ab2eaba74bd9564222b",
+    "gitBlobSha": "d0bb0c4b402ce5f10f680d2047f794452567cf50"
   },
   {
     "country": "Luxembourg",
@@ -282,8 +282,8 @@
     "sections": 12,
     "guideSection": "56.1.26",
     "guidePage": 438,
-    "sha256": "5911147ae239f551e3f7c2a0de17cdd9cde45afcae3c8393c7bc3c9ee706f336",
-    "gitBlobSha": "a0fc782bd8e365bce1b4ab6164a8826b50f72777"
+    "sha256": "23f5718995a23c3606ab3350e8d19a43ed106480df811e2b70816b1654b29acb",
+    "gitBlobSha": "159de84778d6ef010f7e00b15d40f000da95cb81"
   },
   {
     "country": "Malawi",
@@ -293,8 +293,8 @@
     "sections": 12,
     "guideSection": "56.1.27",
     "guidePage": 440,
-    "sha256": "0f70df14a7e9aceb6458e9928b7acc4fc5859f5c9607ea4a53c9b013b7b3cb11",
-    "gitBlobSha": "b1b9fe5d984dfd6481f0a458487f05a671cd613a"
+    "sha256": "a330608197369fdc62ad715ccefde415c728b9a0b5762bc59d3da4c8820d7589",
+    "gitBlobSha": "36e0da4520b1fac0b3e9c3a08871dd782a2eb385"
   },
   {
     "country": "Malta",
@@ -304,8 +304,8 @@
     "sections": 12,
     "guideSection": "56.1.28",
     "guidePage": 442,
-    "sha256": "2b9a0bcbf375014eedd90f14c5fdea30f13ea4df48e89b24807e2be31a6b9f25",
-    "gitBlobSha": "8ced31f0d9e7e75a941dfdaccfa5a57168551c0f"
+    "sha256": "c9936411a41ccd4278abf99f8593e806aa21c6a8ae19e2dfba5444d06e54cdbb",
+    "gitBlobSha": "f180b81b6643f791e8893c196251b66a2a657e78"
   },
   {
     "country": "Morocco",
@@ -315,8 +315,8 @@
     "sections": 12,
     "guideSection": "56.1.29",
     "guidePage": 444,
-    "sha256": "a87d9dd5b1e6ac4a30a5430538ad316e58d977bfd3a9a97b76492ee923661454",
-    "gitBlobSha": "13c159ac5eae26c800aaec2c806b4f39f0079aa3"
+    "sha256": "50e99e6adb17dba46b773737d50c13812cf6021135ee84cfa6f9be42a0f8fafd",
+    "gitBlobSha": "40ca1e6fc818eabf03b9b0e912e9ce9f1df72f93"
   },
   {
     "country": "Mozambique",
@@ -326,8 +326,8 @@
     "sections": 12,
     "guideSection": "56.1.30",
     "guidePage": 446,
-    "sha256": "107d96386b458c7afdc137808372d42aae10f3f790dbdb93861d5733db5e74eb",
-    "gitBlobSha": "992d5b5053c4f96f3367933601fc9e94617703c2"
+    "sha256": "5afa060c19a488afc1bf187bac0442e662e63c352878cbea1a8e199e57ac5877",
+    "gitBlobSha": "20b2b6899d818522392509804f174bac9dae64c0"
   },
   {
     "country": "Myanmar",
@@ -337,8 +337,8 @@
     "sections": 12,
     "guideSection": "56.1.31",
     "guidePage": 449,
-    "sha256": "0938943ecd8ba76b25e61f420af92af823ec429112065b656996dccf76df6bba",
-    "gitBlobSha": "a6db43e69d866f5d3ebf0b27f1a5a7266de183e8"
+    "sha256": "dad111c10a7e3f98e5217d8074022302cd81e5184059905bb5514339d3ac0372",
+    "gitBlobSha": "1be8dac086389a52c91ae14c13be84926a740a94"
   },
   {
     "country": "Namibia",
@@ -348,8 +348,8 @@
     "sections": 12,
     "guideSection": "56.1.32",
     "guidePage": 450,
-    "sha256": "7e5ba756defbce3ad5e29fb7eebd1c6992e4846fc962dbdf8a27363a022a334e",
-    "gitBlobSha": "384f2278beef7734ae8e33412f64288bfb298209"
+    "sha256": "efe6430a338eeb6a1c112b624d72abea056285f00320edfd3bc8fbdaef98b296",
+    "gitBlobSha": "9c0703da5e34f738eb66c543579beb70aea90e64"
   },
   {
     "country": "Nicaragua",
@@ -359,8 +359,8 @@
     "sections": 12,
     "guideSection": "56.1.33",
     "guidePage": 453,
-    "sha256": "9747d448586043d69e65fcd79ca6e4570b1ac2cfa7be011c62223dc0ab891be1",
-    "gitBlobSha": "76c9c7e550bf2c98fbd8d7fb9f617334eba1c257"
+    "sha256": "bb4350104d0eb8365e19b43ee95c958a9e2d003f55c2b84cbd4a634320e0869a",
+    "gitBlobSha": "3ff33db7a8880009f23a77f22a5619a65b845a88"
   },
   {
     "country": "North Macedonia",
@@ -370,8 +370,8 @@
     "sections": 12,
     "guideSection": "56.1.34",
     "guidePage": 455,
-    "sha256": "fc288ca48d7a2a65b8b79962e68910143895169b2417b152316c7200003f8b21",
-    "gitBlobSha": "14dbc028dc8a60efa05101c4174cc40ed88f0574"
+    "sha256": "0b9a99fa0de26866d6f2edf7fff14ebf42719e2ec6db558fc3a538a74b06f709",
+    "gitBlobSha": "0dab51e48dc9de010226ff21c59af833b468a324"
   },
   {
     "country": "Nigeria",
@@ -381,8 +381,8 @@
     "sections": 12,
     "guideSection": "56.1.35",
     "guidePage": 457,
-    "sha256": "ac83a8c3acc71d6037f6f8cb3ca12b89f941f384f18a7d7208a9ce5ce6efb15a",
-    "gitBlobSha": "459c81f78c11bd6ad3e741b92d963e47e710a6f8"
+    "sha256": "83f8cf8250924b123af68cb3e05224d005309db8d0c29c1837c4c9b5cdebf224",
+    "gitBlobSha": "3dd321a3b3048dc99361454532842229d49af034"
   },
   {
     "country": "Pakistan",
@@ -392,8 +392,8 @@
     "sections": 12,
     "guideSection": "56.1.36",
     "guidePage": 459,
-    "sha256": "2e95f1d37d6b36a2c414196b7ad106034b9651a0f44ec3bdc288cd5d2279de58",
-    "gitBlobSha": "a77fcc86bca87f2ce0bffcdc8d3e1cf105df8297"
+    "sha256": "39739a4b4ce16cadf5e1b0be5d3053db7491f6f16df965c622d831115f7a1804",
+    "gitBlobSha": "928507643d188fb450372f11172b6e5dd1f9245f"
   },
   {
     "country": "Panama",
@@ -403,8 +403,8 @@
     "sections": 12,
     "guideSection": "56.1.37",
     "guidePage": 462,
-    "sha256": "0649a875ce804b6a606fe2873c7867c36eaf827af6c67f4ffddf7298ac93d764",
-    "gitBlobSha": "fbcd7abab3bd3a316f1d3fc780f576135e2e06f0"
+    "sha256": "03ff37e67afed368c571e984c982f8c73dfd5bce1de25038a46f3c2ae796142b",
+    "gitBlobSha": "34952b77c3caac31ae6c543d75185fdfa737bda7"
   },
   {
     "country": "Puerto Rico",
@@ -414,8 +414,8 @@
     "sections": 12,
     "guideSection": "56.1.39",
     "guidePage": 466,
-    "sha256": "3ea7cd54b8d584db69a65e3de14b2bf6476dd0ff76822c005e3f84c4ffe84a65",
-    "gitBlobSha": "2296a031ff50b5662ba56a1a91cdfd08ec43e376"
+    "sha256": "07d1595280fd61253d7f1e1189ae6ca0a067bea13a4f5e20fa58f10ec43539e8",
+    "gitBlobSha": "2fd31fff12553c4030ea8c76cffb586124e86658"
   },
   {
     "country": "Serbia",
@@ -425,8 +425,8 @@
     "sections": 12,
     "guideSection": "56.1.40",
     "guidePage": 468,
-    "sha256": "cdf2d5288a90321ae41587ed83f2ddac0747dde3b0c28c3026ad2e36e67f43a1",
-    "gitBlobSha": "e4f258ef121ae96bf5d524b5ba9a43ea55e0cfd5"
+    "sha256": "0a80943e3605ea1fcfc3e4286ba6775918d9c3a3ce78069f9b2cd72adc6ca7ec",
+    "gitBlobSha": "348671bc9df1bfc7e951a3a28788114b2aeaf727"
   },
   {
     "country": "South Sudan",
@@ -436,8 +436,8 @@
     "sections": 12,
     "guideSection": "56.1.41",
     "guidePage": 470,
-    "sha256": "30b18559483014d4d3ff48d1510997c0072eff13dea4441a7f3ce739674d5de1",
-    "gitBlobSha": "b8163614d11b6df34f2c334ba8830b223e057c96"
+    "sha256": "d6d64041484c0c2d95e521776b377b2fba4793ac5c7915d883d4972fdbbf9bd9",
+    "gitBlobSha": "591790f5c48caf51ba4c1e67693aeff36c194abd"
   },
   {
     "country": "Tanzania",
@@ -447,8 +447,8 @@
     "sections": 12,
     "guideSection": "56.1.44",
     "guidePage": 477,
-    "sha256": "14be19b597ea043d470602958e5713ef882dac3151e9034b75f758913f2d1e64",
-    "gitBlobSha": "61d5ee52a421b2beaace40f8afc56cf0c22366bf"
+    "sha256": "07b3a70f1b573b7e76ecf48ea14ab43f33f4774ee24eda5f1a1fb5bab20ff4ee",
+    "gitBlobSha": "df23ae446eace73b52b6abede51719c2a5076d95"
   },
   {
     "country": "Tunisia",
@@ -458,8 +458,8 @@
     "sections": 12,
     "guideSection": "56.1.45",
     "guidePage": 479,
-    "sha256": "84571126fc9cc9af43879fb379cedde119273b3db721d28410809df69e8d5ef4",
-    "gitBlobSha": "0ad688ca07307d2c532afe22fe640266f9ad88b9"
+    "sha256": "0ee079e286e43f6918c0b60156c5c4aec5ececab3d20f2a420211dbc7fdcc1a3",
+    "gitBlobSha": "81b0128cc7d9c81b63c92c7da6ab98774fe7948f"
   },
   {
     "country": "Uganda",
@@ -469,8 +469,8 @@
     "sections": 12,
     "guideSection": "56.1.46",
     "guidePage": 481,
-    "sha256": "5665db15cf8f324dbbfccc938ea552616dec7abb951aa1973b252a2508773e38",
-    "gitBlobSha": "4997494535bd1cf26c4fd9fccc561ae94d1e9c68"
+    "sha256": "bd52b09553d4ff2b11f2e19c7993acad5acbcb706fe94a95d9eda6aaa47d900b",
+    "gitBlobSha": "e05c84ef84e79914fb3e8cf1fd7f921291805219"
   },
   {
     "country": "Vietnam",
@@ -480,8 +480,8 @@
     "sections": 12,
     "guideSection": "56.1.48",
     "guidePage": 485,
-    "sha256": "081b5b8b44db0fe7b223319da419382f883071063c8b8d5aea3d25364b144782",
-    "gitBlobSha": "926e509f5a64ced4ed048d91c8984022e7beb563"
+    "sha256": "fe9ce0755fabb7765efae323e734f3eadd5d072121ecf681e7cea8437ea96184",
+    "gitBlobSha": "b65032d1ba2dc36586cf404eff93979202668362"
   },
   {
     "country": "Zimbabwe",
@@ -491,7 +491,7 @@
     "sections": 12,
     "guideSection": "56.1.49",
     "guidePage": 487,
-    "sha256": "0a33b5f2d134a38b0cdf9d5fc4480849b7455cec9fbe2194ba28c27900df7f93",
-    "gitBlobSha": "ba60259b402de93c3f91070cc7b13dc6c623d9a4"
+    "sha256": "cdbb0ef7da174575e9c242218c434e314e5b56d73380b804ec8d9e43a463d3f6",
+    "gitBlobSha": "96c2e8a094e5e0ecb7ceecaec7d1d7a854060ee9"
   }
 ]

@@ -229,3 +229,8 @@ def build():
  (ROOT/'generated-manifest.json').write_text(json.dumps(entries,ensure_ascii=False,indent=2));print(json.dumps({'generated':len(entries),'main':sum(e['kind']=='main' for e in entries),'appendix':sum(e['kind']=='appendix' for e in entries),'javascriptChecks':'passed'}))
 
 if __name__=='__main__':build()
+
+# Apply the shared country case and reflection layer after regeneration.
+import subprocess, sys
+if __name__ == "__main__":
+ subprocess.run([sys.executable,str(ROOT/"enrich_workbooks.py")],check=True)
