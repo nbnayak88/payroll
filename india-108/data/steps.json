@@ -1,0 +1,2494 @@
+{
+  "version": "2026-11-09",
+  "sourceReference": "nbnayak88/claude-cloud-payroll India.html read-only",
+  "note": "Learning navigation data; not statutory certification",
+  "country": "India",
+  "steps": [
+    {
+      "id": 1,
+      "title": "Cover",
+      "category": "Setup",
+      "objective": "Establish the project baseline and its country boundary.",
+      "why": "A clear baseline prevents a learning example from becoming an unapproved production configuration.",
+      "actions": [
+        "Record legal employer, payroll population, product release and implementation owner.",
+        "Identify the controlling statutory sources and their effective dates.",
+        "Separate legal facts, proposed design choices and completed tenant evidence.",
+        "Record the approval and evidence needed before production use."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Country evidence desk and scope baseline",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 2,
+      "title": "Change Log",
+      "category": "Setup",
+      "objective": "Record legal updates and workbook decisions without erasing prior versions.",
+      "why": "A new statutory amount may apply prospectively while an earlier result still needs the historical rule.",
+      "actions": [
+        "Assign a change owner and classify law, design or defect.",
+        "Record publication date separately from effective date.",
+        "List impacted wage types, interfaces, reports and tests.",
+        "Retain approval, transport and regression evidence before activation."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Country evidence desk and scope baseline",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 3,
+      "title": "Contents & Learning Path",
+      "category": "Setup",
+      "objective": "Navigate the full configuration and learning journey.",
+      "why": "A dependency-based journey makes it easier to understand why a downstream payroll result is wrong.",
+      "actions": [
+        "Start with foundation data before calculation rules.",
+        "Read the country evidence desk before choosing rates.",
+        "Build one employee path through calculation, reporting, payment and posting.",
+        "Use the learning tools to explain the decisions in your own words."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Country evidence desk and scope baseline",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 4,
+      "title": "Introduction & Scope",
+      "category": "Setup",
+      "objective": "Define what this country implementation must achieve.",
+      "why": "Country payroll is a chain of legal, employee, payment and accounting decisions; no single rate table describes the entire process.",
+      "actions": [
+        "Identify employee categories and out-of-scope special regimes.",
+        "Agree regular and special-pay frequencies.",
+        "Separate statutory filing from bank payment and GL posting.",
+        "Confirm standard or partner localization and release compatibility."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Country evidence desk and scope baseline",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 5,
+      "title": "Company Structure",
+      "category": "Foundation",
+      "objective": "Connect legal employers, establishments and accounting ownership.",
+      "why": "An employee can be paid correctly while a liability is reported under the wrong legal registration.",
+      "actions": [
+        "Create a legal-entity and establishment inventory.",
+        "Map EC legal entity to the verified ECP enterprise structure.",
+        "Assign accounting currency, Finance company and authority registration.",
+        "Check whether location determines tax or contribution rules."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 6,
+      "title": "Personnel Structure",
+      "category": "Foundation",
+      "objective": "Classify payroll populations before deriving eligibility.",
+      "why": "Worker status, hours and age can change contribution, tax and benefit treatment independently.",
+      "actions": [
+        "Define salaried, hourly, apprentice and director populations only where relevant.",
+        "Record agreement, insurance and pension membership separately.",
+        "Assign an actual payroll area and period parameter in the tenant.",
+        "Test a transfer that changes legal employer or pay frequency."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 7,
+      "title": "Lifecycle Actions",
+      "category": "Foundation",
+      "objective": "Translate employment events into dated payroll changes.",
+      "why": "A hire, transfer or termination can affect multiple infotypes, eligibility rules and authority messages.",
+      "actions": [
+        "Map EC event reasons to approved target actions.",
+        "Preserve effective dates and prior employment identity.",
+        "Identify the required country reporting event.",
+        "Reconcile the first and final pay after replication."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 8,
+      "title": "Personal Information",
+      "category": "Foundation",
+      "objective": "Capture reliable identity and classification data.",
+      "why": "Format-valid identifiers can still belong to the wrong employee or be incompatible with a filing record.",
+      "actions": [
+        "Collect the identifiers required by the authority and product localization.",
+        "Validate identity, birth date, residence and evidence of special status.",
+        "Use supported country-specific fields; confirm actual target infotypes.",
+        "Minimise copied personal data in test evidence."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 9,
+      "title": "Address & Locality",
+      "category": "Foundation",
+      "objective": "Model residence and work location as separate effective-dated records.",
+      "why": "Municipality, region or canton may drive tax, contribution or reporting classification.",
+      "actions": [
+        "Capture residence and work establishment separately.",
+        "Validate the current postal format and official locality reference.",
+        "Identify whether a move changes payroll treatment.",
+        "Preserve the old address for earlier periods and corrections."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 10,
+      "title": "Bank Details",
+      "category": "Foundation",
+      "objective": "Validate employee payment instructions and their approval.",
+      "why": "A successful payroll calculation does not prove that the salary can be paid to the intended beneficiary.",
+      "actions": [
+        "Identify supported domestic or international bank rails.",
+        "Validate account structure through the bank-approved process.",
+        "Require evidence and independent review for account changes.",
+        "Use synthetic bank test data and record bank acknowledgement."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 11,
+      "title": "Date Types",
+      "category": "Configuration",
+      "objective": "Maintain the dates that drive eligibility, calculation and reporting.",
+      "why": "Employment date, earning period and payment date can have different statutory consequences.",
+      "actions": [
+        "Inventory legal and contractual dates for the population.",
+        "Distinguish date storage from a processing trigger.",
+        "Map each date to a supported field or extension.",
+        "Test a boundary across December / January and a mid-period change."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 12,
+      "title": "Replicated Pay Components",
+      "category": "Configuration",
+      "objective": "Map EC compensation into the appropriate target pay records.",
+      "why": "A pay component can replicate successfully yet have the wrong tax, insurance or pension characteristics.",
+      "actions": [
+        "Inventory recurring and one-time components.",
+        "Assign a supported replication route and target infotype.",
+        "Map business meaning before choosing a local wage-type template.",
+        "Trace each component into payroll result, filing, payslip and posting."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 13,
+      "title": "Work Schedules",
+      "category": "Configuration",
+      "objective": "Translate contractual hours, rosters and holidays into payroll inputs.",
+      "why": "Proration, overtime and minimum-pay checks depend on the actual working-time model.",
+      "actions": [
+        "Record contractual weekly hours and the applicable agreement.",
+        "Assign work and holiday calendars by location.",
+        "Distinguish planned hours, recorded hours and payable hours.",
+        "Validate mid-period hire, part-time and rotating-roster cases."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 14,
+      "title": "Time Types & Leave",
+      "category": "Configuration",
+      "objective": "Distinguish absence records from the payment rules they trigger.",
+      "why": "The same absence can involve employee entitlement, employer liability and insurer reimbursement on different timelines.",
+      "actions": [
+        "Define absence categories without assuming all are paid.",
+        "Capture eligibility and supporting documents.",
+        "Map employer-funded, insurer-funded and unpaid segments.",
+        "Reconcile absence dates to payroll and reporting events."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 15,
+      "title": "Payroll Control Record",
+      "category": "Configuration",
+      "objective": "Control the payroll-area run state and correction cycle.",
+      "why": "Run state protects calculation consistency; it must be coordinated with replication and historical changes.",
+      "actions": [
+        "Use the actual payroll-area control record and period.",
+        "Distinguish PA03 area control from employee Payroll Status (0003).",
+        "Review what changes are allowed in the current release and state.",
+        "Test lock behaviour, correction, rerun and exit before handover."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 16,
+      "title": "Payroll Areas & Calendar",
+      "category": "Configuration",
+      "objective": "Build an operational calendar for regular and special runs.",
+      "why": "The bank cutoff, statutory deadline and calculation cutoff are independent dates.",
+      "actions": [
+        "Select payroll frequency and period definition.",
+        "Agree pay-date rules with Treasury and employee contracts.",
+        "Load official holidays before shifting dates.",
+        "Create separate calculation, filing, remittance and posting milestones."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 17,
+      "title": "Wage Type Catalogue",
+      "category": "Configuration",
+      "objective": "Design earning and deduction behaviour across all downstream outputs.",
+      "why": "Taxable, insurable, pensionable, cash and posting treatment are separate decisions.",
+      "actions": [
+        "Select delivered local templates only after tenant verification.",
+        "Document each base and cumulation independently.",
+        "Assign payslip, authority and GL treatment.",
+        "Test changes and retro before releasing a customer wage type."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 18,
+      "title": "Salary Payment Configuration",
+      "category": "Configuration",
+      "objective": "Configure the approved bank instruction and release process.",
+      "why": "A generated payment file is only an instruction; acceptance and settlement need separate evidence.",
+      "actions": [
+        "Obtain the bank-approved file / API specification.",
+        "Map debtor, beneficiary, value date and payment reference.",
+        "Reconcile file control totals to approved cash net.",
+        "Enforce independent Treasury release and reconcile settlement."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 19,
+      "title": "Off-Cycle Payroll",
+      "category": "Configuration",
+      "objective": "Handle urgent or exceptional payments without breaking cumulative balances.",
+      "why": "An off-cycle payment can create an extra tax, reporting and remittance event even when the earning belongs to an earlier month.",
+      "actions": [
+        "Classify the reason: advance, correction, bonus or leaver payment.",
+        "Select the supported country off-cycle process.",
+        "Determine payment-date and earning-period consequences.",
+        "Reconcile regular and off-cycle balances and filing corrections."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 20,
+      "title": "Garnishment Intake",
+      "category": "Configuration",
+      "objective": "Register legal attachment instructions and establish their scope.",
+      "why": "A deduction order needs legal validity, priority, protected pay and a traceable balance.",
+      "actions": [
+        "Validate the issuing authority and employee match.",
+        "Capture order type, priority, valid-from date and balance.",
+        "Identify the current protected-pay rule and dependant evidence.",
+        "Route uncertain orders to the legal / payroll owner before deduction."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 21,
+      "title": "Payslip Configuration",
+      "category": "Configuration",
+      "objective": "Make gross-to-net and employer information understandable and reconcilable.",
+      "why": "The employee, authority and Finance may view different bases; a payslip should expose the distinction clearly.",
+      "actions": [
+        "Confirm legally required fields and delivery language.",
+        "Separate cash earnings from taxable benefits.",
+        "Show employee deductions, net pay and relevant cumulative amounts.",
+        "Test access, correction, accessibility and confidentiality."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 22,
+      "title": "Income Tax & Withholding",
+      "category": "Payroll Rules",
+      "objective": "Configure country withholding from its correct taxable basis.",
+      "why": "A final annual tariff, a tax card and a payroll withholding table are different calculation mechanisms.",
+      "actions": [
+        "Confirm residency, income type and withholding mechanism.",
+        "Load the official 2026 version and its valid-from date.",
+        "Apply allowances, credits, rounding and cumulative rules in statutory order.",
+        "Test boundaries and compare against the authoritative method."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 23,
+      "title": "Social Insurance",
+      "category": "Payroll Rules",
+      "objective": "Derive employee and employer contributions independently.",
+      "why": "Each contribution may have a different base, ceiling, insured category and funding party.",
+      "actions": [
+        "Classify the employee and actual insurer / scheme.",
+        "Load the applicable 2026 rate, base and ceiling by component.",
+        "Calculate employee deductions and employer costs separately.",
+        "Test threshold, low-pay, special-status and retro cases."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 24,
+      "title": "Statutory Reporting",
+      "category": "Payroll Rules",
+      "objective": "Convert approved results into accepted country declarations.",
+      "why": "A transmitted file can still be rejected, incomplete or mismatched to the payment liability.",
+      "actions": [
+        "Inventory every employee, employer and event return.",
+        "Select the correct period-specific format and legal registration.",
+        "Validate counts, bases, liabilities and identifiers before sending.",
+        "Retain acknowledgement and reconcile corrections and remittances."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 25,
+      "title": "Pensions & Enrolment",
+      "category": "Payroll Rules",
+      "objective": "Resolve pension coverage, contribution bases and provider movements.",
+      "why": "Statutory social insurance, occupational pensions and voluntary savings may coexist without sharing a base.",
+      "actions": [
+        "Identify mandatory coverage and any enrolment / opt-out rules.",
+        "Capture provider, plan, membership and effective dates.",
+        "Document pensionable earnings and employee / employer shares.",
+        "Reconcile contributions, joiners, leavers and provider acknowledgements."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 26,
+      "title": "Benefits & Expenses",
+      "category": "Payroll Rules",
+      "objective": "Classify non-cash benefits and reimbursed expenses correctly.",
+      "why": "Tax, social insurance, pension and cash-net treatment can differ for the same benefit.",
+      "actions": [
+        "Inventory each benefit and reimbursement type.",
+        "Obtain the current valuation and exemption conditions.",
+        "Record employee contributions and private / business use.",
+        "Reconcile payroll, expense system and authority reporting."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 27,
+      "title": "Statutory & Absence Pay",
+      "category": "Payroll Rules",
+      "objective": "Model pay entitlements, benefit responsibility and recoveries.",
+      "why": "Leave entitlement does not automatically mean the employer pays full salary for the entire absence.",
+      "actions": [
+        "Identify legal entitlement and the contractual supplement.",
+        "Determine qualifying period, reference earnings and payer.",
+        "Define payroll payment and insurer-recovery flows separately.",
+        "Test the transition between funding parties and return to work."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 28,
+      "title": "Minimum Pay & Agreements",
+      "category": "Payroll Rules",
+      "objective": "Test remuneration against the correct legal or contractual floor.",
+      "why": "An hourly floor, a monthly floor and a collective-agreement minimum cannot be substituted for one another.",
+      "actions": [
+        "Identify the applicable legal, regional and collective-agreement floor.",
+        "Record units, eligible earnings, hours and effective dates.",
+        "Prorate only according to the governing rule.",
+        "Test young workers, part-time, unpaid absence and salary exchange."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 29,
+      "title": "Attachment Calculation & Remittance",
+      "category": "Payroll Rules",
+      "objective": "Apply valid orders while protecting the legally reserved amount.",
+      "why": "Deduction priority, protected earnings and remaining balances must be recalculated consistently.",
+      "actions": [
+        "Determine the legally attachable earning base.",
+        "Apply current protected-pay and dependant rules.",
+        "Resolve competing orders and any permitted fees.",
+        "Reconcile withholding, recipient remittance and remaining order balance."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 30,
+      "title": "Schema & Calculation Sequence",
+      "category": "Payroll Rules",
+      "objective": "Trace the delivered local payroll process before changing it.",
+      "why": "Guessed schema names or copied technical wage types can make a plausible design impossible to implement.",
+      "actions": [
+        "Confirm the licensed local version and support package.",
+        "Inspect the actual delivered schema and calculation log.",
+        "Trace inputs, valuation, bases, tax, social and net processing.",
+        "Use supported customer extensions with regression evidence."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 31,
+      "title": "Retroactive Processing",
+      "category": "Payroll Rules",
+      "objective": "Recalculate history without losing the original result or reporting lineage.",
+      "why": "Historical earning rules and current payment-date obligations may both matter in a single correction.",
+      "actions": [
+        "Identify the effective period and earliest permissible retro date.",
+        "Preserve original results and applied legal versions.",
+        "Determine statutory correction and current-payment consequences.",
+        "Reconcile delta pay, declarations, provider movements and Finance."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 32,
+      "title": "Year-End & New-Year Opening",
+      "category": "Payroll Rules",
+      "objective": "Close annual obligations and prepare a controlled 2027 opening.",
+      "why": "A correct December net does not prove annual certificates, ceilings or January parameters are correct.",
+      "actions": [
+        "Reconcile year-to-date balances to filings, remittances and GL.",
+        "Prepare country certificates and employee summaries.",
+        "Identify current-year and prior-year correction routes.",
+        "Load only validated new-year rules and retest boundaries."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 33,
+      "title": "Authority Updates & Notices",
+      "category": "Payroll Rules",
+      "objective": "Turn an authority notification into a controlled payroll decision.",
+      "why": "A notice may change one employee, one employer registration or an entire statutory rule pack.",
+      "actions": [
+        "Verify the issuer, scope and validity of the update.",
+        "Classify employee instruction, rate change or format change.",
+        "Assess effective date and any historical impact.",
+        "Capture application, review and reconciliation evidence."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll configuration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 34,
+      "title": "EC Data Validation",
+      "category": "Integration",
+      "objective": "Prevent incomplete or inconsistent data from entering payroll.",
+      "why": "Replication success is a technical result; statutory data validity requires additional business checks.",
+      "actions": [
+        "Define mandatory fields by employee population and country.",
+        "Validate combinations and effective dates, not only syntax.",
+        "Route errors to an accountable business owner.",
+        "Reconcile EC population to accepted ECP records before calculation."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 35,
+      "title": "Payment Exceptions",
+      "category": "Integration",
+      "objective": "Recover failed instructions without paying twice.",
+      "why": "Rejection, accepted-but-unsettled and returned-after-settlement states require different responses.",
+      "actions": [
+        "Read the actual bank response and identify the failed stage.",
+        "Separate master-data correction from payment reissue.",
+        "Check original settlement before a replacement instruction.",
+        "Reconcile payroll, bank, GL and employee communication records."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 36,
+      "title": "Finance Posting",
+      "category": "Integration",
+      "objective": "Map payroll expenses and liabilities into reconciled Finance documents.",
+      "why": "Technical wage types and GL accounts must be verified in the tenant; business labels alone do not establish posting correctness.",
+      "actions": [
+        "Agree the chart of accounts and cost-object ownership.",
+        "Map business wage types through the supported symbolic-account design.",
+        "Separate employee liabilities, employer costs and clearing.",
+        "Reconcile posting, remittance and bank settlement by currency and period."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 37,
+      "title": "Replication Triggers & Monitoring",
+      "category": "Integration",
+      "objective": "Move effective-dated employee changes into payroll and prove they arrived.",
+      "why": "A missing or delayed change may be invisible until an employee is paid incorrectly.",
+      "actions": [
+        "Use the supported replication scope and schedule.",
+        "Identify changes to employee, compensation, time and bank data.",
+        "Monitor confirmation status and investigate rejects.",
+        "Replay only with idempotency and a population reconciliation."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 38,
+      "title": "Integration Suite & Extensions",
+      "category": "Integration",
+      "objective": "Use middleware where the chosen interface architecture requires it.",
+      "why": "Standard EC-to-ECP point-to-point master-data replication should not be replaced by an invented mandatory middleware flow.",
+      "actions": [
+        "Confirm standard point-to-point scope and release prerequisites.",
+        "Inventory external bank, benefit, time and Finance integrations.",
+        "Use approved Integration Suite packages or extensions only where needed.",
+        "Define authentication, data minimisation, retry and reconciliation controls."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 39,
+      "title": "Test Scenarios",
+      "category": "Governance",
+      "objective": "Validate calculation and every downstream output with owned evidence.",
+      "why": "A green status without actual execution evidence makes the workbook unreliable as an implementation record.",
+      "actions": [
+        "Define expected results independently of the implementation.",
+        "Use synthetic data and current authority examples.",
+        "Capture result, declaration, payment and posting evidence.",
+        "Leave status Not run until the actual environment has been tested."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll delivery lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 40,
+      "title": "Cutover Plan",
+      "category": "Governance",
+      "objective": "Sequence migration, validation and first live processing by dependency.",
+      "why": "A fixed date is meaningless if employee balances, registrations or payment approvals are not ready.",
+      "actions": [
+        "Choose a go-live period and assign entry criteria.",
+        "Freeze and reconcile legacy master data and balances.",
+        "Complete representative parallel processing and recipient testing.",
+        "Approve first live payroll, then monitor settlement and accepted filings."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll delivery lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 41,
+      "title": "Training & Facilitation",
+      "category": "Governance",
+      "objective": "Turn configuration knowledge into demonstrated operating capability.",
+      "why": "Learners should explain a decision and recover an exception, not merely recognise a screen.",
+      "actions": [
+        "Assign one practical outcome per role.",
+        "Use the country scenario and synthetic employee evidence.",
+        "Ask learners to predict, test, explain and improve.",
+        "Assess the complete flow rather than attendance alone."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll delivery lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 42,
+      "title": "Hypercare & Operations",
+      "category": "Governance",
+      "objective": "Establish an owned service for payroll, reporting and payment exceptions.",
+      "why": "The first live runs need fast triage and complete reconciliation across systems and authorities.",
+      "actions": [
+        "Define severity by employee impact and statutory / cash deadline.",
+        "Assign business, technical and recipient escalation owners.",
+        "Set service targets as contract proposals, not legal deadlines.",
+        "Exit hypercare only after stable cycles and knowledge transfer."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll delivery lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 43,
+      "title": "End-to-End Integration Map",
+      "category": "Integration",
+      "objective": "Trace an employee change through all systems and reconciliations.",
+      "why": "Interface-level success does not guarantee a correct employee, statutory or accounting outcome.",
+      "actions": [
+        "Map source, target, business object and confirmation.",
+        "Separate master data, time, calculation and outputs.",
+        "Identify where an owner accepts each handoff.",
+        "Demonstrate recovery after one intentionally failed handoff."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 44,
+      "title": "Risk Register",
+      "category": "Governance",
+      "objective": "Make uncertain statutory, data and delivery decisions visible and owned.",
+      "why": "A useful risk register links each risk to a preventive control, evidence and decision owner.",
+      "actions": [
+        "Identify the failure and affected employee / obligation.",
+        "Assign impact, likelihood and accountable owner.",
+        "Define prevention, detection and recovery evidence.",
+        "Review residual risk at each release and go-live gate."
+      ],
+      "evidence": [
+        "Decision and effective date recorded",
+        "Country / employee scope stated",
+        "Expected result or acceptance criterion written",
+        "Sandbox / authority / bank evidence linked when actually executed",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll delivery lead",
+      "prerequisite": "Foundation data and the relevant country rule decision",
+      "next": "Explain your decision, record the unresolved assumption and choose the next validation experiment."
+    },
+    {
+      "id": 45,
+      "title": "Statutory Parameter Register",
+      "category": "Payroll Rules",
+      "objective": "Turn country references into a versioned, reviewable parameter inventory.",
+      "why": "A headline tax or contribution rate cannot be activated safely without its basis, scope, valid-from date and rounding rule.",
+      "actions": [
+        "Identify every numeric value, rate table, formula and eligibility input.",
+        "Record legal publication, valid-from / valid-to dates and affected population.",
+        "Attach the precise authority or provider evidence and the actual tenant object.",
+        "Keep published references separate from approved implementation values and executed tests."
+      ],
+      "evidence": [
+        "Source publication and effective date recorded",
+        "Employee, employer and location scope evidenced",
+        "Independent expected outcome documented",
+        "Actual execution result linked only after testing",
+        "Reviewer and unresolved decision owner identified"
+      ],
+      "owner": "Country payroll lead with legal, integration and Finance owners",
+      "prerequisite": "Country evidence desk, employee profile and approved scope",
+      "next": "Explain the evidence, decide the next experiment and retain the prior approved version."
+    },
+    {
+      "id": 46,
+      "title": "Cross-Border & Assignment Scenarios",
+      "category": "Payroll Rules",
+      "objective": "Assess mobile workers using separate tax, insurance, immigration and reporting decisions.",
+      "why": "A passport, work permit or day count alone does not establish every payroll obligation.",
+      "actions": [
+        "Identify legal employer, host entity, duty location, workdays and actual remuneration flows.",
+        "Assess domestic tax law, treaty conditions and residence separately.",
+        "Confirm social-security coverage / agreement evidence and fund enrolment.",
+        "Decide reporting, shadow payroll, clearance and final-pay responsibilities with named reviewers."
+      ],
+      "evidence": [
+        "Source publication and effective date recorded",
+        "Employee, employer and location scope evidenced",
+        "Independent expected outcome documented",
+        "Actual execution result linked only after testing",
+        "Reviewer and unresolved decision owner identified"
+      ],
+      "owner": "Country payroll lead with legal, integration and Finance owners",
+      "prerequisite": "Country evidence desk, employee profile and approved scope",
+      "next": "Explain the evidence, decide the next experiment and retain the prior approved version."
+    },
+    {
+      "id": 47,
+      "title": "Payroll Data & Evidence Controls",
+      "category": "Governance",
+      "objective": "Protect employee data while retaining useful configuration and test evidence.",
+      "why": "Payroll identifiers, family information, earnings and bank data need controls across replication, files, reports and learning backups.",
+      "actions": [
+        "Map each identifier and sensitive field to its purpose, source, recipient and owner.",
+        "Set role access, approval separation and organisation-approved retention controls.",
+        "Use synthetic employees in learning and redact execution evidence.",
+        "Validate secure recipient transfer, backup handling, deletion and incident ownership."
+      ],
+      "evidence": [
+        "Source publication and effective date recorded",
+        "Employee, employer and location scope evidenced",
+        "Independent expected outcome documented",
+        "Actual execution result linked only after testing",
+        "Reviewer and unresolved decision owner identified"
+      ],
+      "owner": "Country payroll lead with legal, integration and Finance owners",
+      "prerequisite": "Country evidence desk, employee profile and approved scope",
+      "next": "Explain the evidence, decide the next experiment and retain the prior approved version."
+    },
+    {
+      "id": 48,
+      "title": "2027 Readiness & Release Plan",
+      "category": "Governance",
+      "objective": "Plan the next statutory release around the actual local year and known future changes.",
+      "why": "New-year operation requires legal, data, product, interface and training readiness, not a copied prior-year parameter set.",
+      "actions": [
+        "Identify confirmed future changes separately from proposals and continuing rules.",
+        "Align tax year, contribution year, local rates and filing formats.",
+        "Run boundary, retro, special-pay and recipient-acceptance comparisons.",
+        "Approve the release and reconcile the first affected run across employees, agencies, bank and Finance."
+      ],
+      "evidence": [
+        "Source publication and effective date recorded",
+        "Employee, employer and location scope evidenced",
+        "Independent expected outcome documented",
+        "Actual execution result linked only after testing",
+        "Reviewer and unresolved decision owner identified"
+      ],
+      "owner": "Country payroll lead with legal, integration and Finance owners",
+      "prerequisite": "Country evidence desk, employee profile and approved scope",
+      "next": "Explain the evidence, decide the next experiment and retain the prior approved version."
+    },
+    {
+      "id": 49,
+      "title": "Gross-to-Net Walkthrough",
+      "category": "Payroll Rules",
+      "objective": "Trace one fictional pay result from gross earnings to net pay, naming the rule, basis and evidence behind every step.",
+      "why": "A net figure can only be explained when each addition, deduction and employer cost has a source, a basis and a position in the calculation sequence.",
+      "actions": [
+        "Start from the dated earnings and the employee scope defined in the earlier sections.",
+        "Order every addition, taxable-base adjustment, deduction and employer cost by its calculation-sequence position.",
+        "Attach the authority evidence for each rule and leave any unverified value visibly pending.",
+        "Compare the independently calculated result with the observed sandbox result and explain every difference."
+      ],
+      "evidence": [
+        "Source publication and effective date recorded",
+        "Employee, employer and location scope evidenced",
+        "Independent expected outcome documented",
+        "Actual execution result linked only after testing",
+        "Reviewer and unresolved decision owner identified"
+      ],
+      "owner": "Country payroll lead with legal, integration and Finance owners",
+      "prerequisite": "Country evidence desk, employee profile and approved scope",
+      "next": "Explain the evidence, decide the next experiment and retain the prior approved version."
+    },
+    {
+      "id": 50,
+      "title": "Termination, Final Pay & Offboarding",
+      "category": "Payroll Rules",
+      "objective": "Design the final-pay, leaver and offboarding process so the last period, entitlements and reports are complete and explainable.",
+      "why": "A leaver touches proration, leave settlement, notice, benefits, tax and insurance reporting, and clearance at the same time, so one missed dependency becomes a correction.",
+      "actions": [
+        "Record the legal termination reason, last working day, last paid day and notice basis.",
+        "Identify final-period proration, outstanding leave, bonus and deduction recoveries under the applicable agreement.",
+        "Decide the statutory reporting, certificates and fund or insurer notifications that the leaver event triggers.",
+        "Reconcile final pay, bank payment and Finance posting, then close access and retain the evidence."
+      ],
+      "evidence": [
+        "Source publication and effective date recorded",
+        "Employee, employer and location scope evidenced",
+        "Independent expected outcome documented",
+        "Actual execution result linked only after testing",
+        "Reviewer and unresolved decision owner identified"
+      ],
+      "owner": "Country payroll lead with legal, integration and Finance owners",
+      "prerequisite": "Country evidence desk, employee profile and approved scope",
+      "next": "Explain the evidence, decide the next experiment and retain the prior approved version."
+    },
+    {
+      "id": 51,
+      "title": "Payroll Reconciliation & Variance Analysis",
+      "category": "Governance",
+      "objective": "Prove that each payroll result agrees across employee, run, bank, Finance and recipient views, and explain variances before release.",
+      "why": "A technically complete run can still be wrong; reconciliation is the evidence that people, amounts, postings and filings agree.",
+      "actions": [
+        "Define the reconciliation layers: employee, payroll run, bank, Finance and authority.",
+        "Set tolerance, owner and explanation rules for each variance type.",
+        "Compare current and prior periods, then investigate headcount, joiner, leaver and one-off movements.",
+        "Record accepted variances, corrections and the sign-off before payment release."
+      ],
+      "evidence": [
+        "Source publication and effective date recorded",
+        "Employee, employer and location scope evidenced",
+        "Independent expected outcome documented",
+        "Actual execution result linked only after testing",
+        "Reviewer and unresolved decision owner identified"
+      ],
+      "owner": "Country payroll lead with legal, integration and Finance owners",
+      "prerequisite": "Country evidence desk, employee profile and approved scope",
+      "next": "Explain the evidence, decide the next experiment and retain the prior approved version."
+    },
+    {
+      "id": 52,
+      "title": "Roles, Access & Segregation of Duties",
+      "category": "Governance",
+      "objective": "Design who may maintain, run, approve, release and review payroll so that no single person controls a payment end to end.",
+      "why": "Payroll combines confidential data with payment authority; separating configuration, execution, approval and review limits both error and misuse.",
+      "actions": [
+        "List every payroll task from master-data change to bank release.",
+        "Assign each task to a role and mark the incompatible role combinations.",
+        "Define approval and emergency-access rules with time limits and logging.",
+        "Test the matrix by attempting an incompatible action and retain the evidence."
+      ],
+      "evidence": [
+        "Source publication and effective date recorded",
+        "Employee, employer and location scope evidenced",
+        "Independent expected outcome documented",
+        "Actual execution result linked only after testing",
+        "Reviewer and unresolved decision owner identified"
+      ],
+      "owner": "Country payroll lead with legal, integration and Finance owners",
+      "prerequisite": "Country evidence desk, employee profile and approved scope",
+      "next": "Explain the evidence, decide the next experiment and retain the prior approved version."
+    },
+    {
+      "id": 53,
+      "title": "Accruals, Provisions & Cost Allocation",
+      "category": "Integration",
+      "objective": "Design how payroll-related liabilities, accruals and cost allocation reach Finance beyond the standard period posting.",
+      "why": "Leave balances, bonuses, employer contributions and period-end timing create liabilities that Finance must recognise even when nothing is paid in the period.",
+      "actions": [
+        "Identify the payroll items that create an accrual or provision, such as leave, bonus, contributions and pay in arrears.",
+        "Define the valuation basis, period and cost-object assignment with the Finance owners.",
+        "Map each item to an account and posting rule, including reversal handling.",
+        "Reconcile accrued liabilities with payroll results and document the approval."
+      ],
+      "evidence": [
+        "Source publication and effective date recorded",
+        "Employee, employer and location scope evidenced",
+        "Independent expected outcome documented",
+        "Actual execution result linked only after testing",
+        "Reviewer and unresolved decision owner identified"
+      ],
+      "owner": "Country payroll lead with legal, integration and Finance owners",
+      "prerequisite": "Country evidence desk, employee profile and approved scope",
+      "next": "Explain the evidence, decide the next experiment and retain the prior approved version."
+    },
+    {
+      "id": 54,
+      "title": "Capstone & Evidence Portfolio",
+      "category": "Governance",
+      "objective": "Assemble your reviewed sections, decisions and test evidence into one portfolio that another practitioner could follow.",
+      "why": "Learning becomes reusable when decisions, assumptions, evidence and open questions are traceable in one place instead of scattered across sections.",
+      "actions": [
+        "Review each completed section and select the decisions you can defend.",
+        "Group the evidence into baseline, design, test and operation themes.",
+        "List the open questions, owners and the next experiment for each.",
+        "Present the portfolio and record peer feedback as learning evidence, not as production approval."
+      ],
+      "evidence": [
+        "Source publication and effective date recorded",
+        "Employee, employer and location scope evidenced",
+        "Independent expected outcome documented",
+        "Actual execution result linked only after testing",
+        "Reviewer and unresolved decision owner identified"
+      ],
+      "owner": "Country payroll lead with legal, integration and Finance owners",
+      "prerequisite": "Country evidence desk, employee profile and approved scope",
+      "next": "Explain the evidence, decide the next experiment and retain the prior approved version."
+    },
+    {
+      "id": 55,
+      "title": "PCC Concepts & Architecture",
+      "category": "Payroll Control Center",
+      "objective": "Understand how the Payroll Control Center divides work between Employee Central (users, permissions, launch) and Employee Central Payroll (processes, validations, results).",
+      "why": "Configuring the wrong layer is the commonest PCC mistake: a tile can exist in Employee Central while the process behind it is missing in the payroll system.",
+      "actions": [
+        "Draw the two layers: Employee Central front end and the Employee Central Payroll back end.",
+        "Name what lives in each: users, roles and system assignment in Employee Central; process definitions, validations, KPIs and alerts in the payroll system.",
+        "Trace one process start from the user interface, through the OData services, to the back-end process engine.",
+        "Record which interface option is used: the Payroll Control Center experience or the classic version meant for older on-premise releases."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Sections 1 to 54 and the India evidence boundary",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 56,
+      "title": "PCC Roles & Applications",
+      "category": "Payroll Control Center",
+      "objective": "Define who uses each Payroll Control Center application and what each role may see and change.",
+      "why": "PCC concentrates payroll visibility. Unclear role design either blocks the payroll team or exposes data to people who should not see it.",
+      "actions": [
+        "List the roles: payroll process manager, payroll administrator, team members and configuration owners.",
+        "Map each role to its applications: My Processes, Manage Processes, Manage Policies, Manage Teams, My Off-Cycles and Manage Configuration.",
+        "Mark which actions change data or start processes and which are read-only.",
+        "Agree the approval needed before a role can start a production process."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 55: PCC Concepts & Architecture",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 57,
+      "title": "Backend Preparation & Declustering of Payroll Results",
+      "category": "Payroll Control Center",
+      "objective": "Prepare the payroll system so Payroll Control Center can read payroll results and store process data.",
+      "why": "Validations, KPIs and analytics compare results between runs. Without declustered results they have nothing reliable to read.",
+      "actions": [
+        "Confirm the Payroll Control Center components are available in the payroll system.",
+        "Enable declustering so payroll results are stored in a readable form.",
+        "Run a test payroll and confirm declustered results exist for the test employees.",
+        "Plan storage and retention for result data with the system owner."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 56: PCC Roles & Applications",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 58,
+      "title": "Business Functions & Switch Framework Checks",
+      "category": "Payroll Control Center",
+      "objective": "Verify the business functions that enable Payroll Control Center capabilities before any configuration begins.",
+      "why": "A missing business function produces silent gaps, such as an application that opens but cannot start a process.",
+      "actions": [
+        "List the PCC business functions your design needs (action log, alerts, simplified configuration, process management).",
+        "Check the activation status of each in the Switch Framework with the system owner.",
+        "Record any function that is inactive and who is responsible for requesting activation.",
+        "Re-check after each support package or release upgrade."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 57: Backend Preparation & Declustering of Payroll Results",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 59,
+      "title": "OData Service Activation for PCC",
+      "category": "Payroll Control Center",
+      "objective": "Activate and test the OData services that carry Payroll Control Center requests between the front end and the payroll system.",
+      "why": "Without the services enabled, starting a process from the front end simply does nothing, which is the first thing to rule out when a process will not start.",
+      "actions": [
+        "List the services the front end calls: configuration, action log viewer, error management and team viewer, and process management.",
+        "Activate each service in the gateway and the internet communication framework with the system owner.",
+        "Test each service with a basic call and record the result.",
+        "Capture the service names and status in the build log."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 58: Business Functions & Switch Framework Checks",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 60,
+      "title": "Configuration Workbench & Manage Configuration",
+      "category": "Payroll Control Center",
+      "objective": "Use the configuration workbench and the no-code Manage Configuration application to maintain PCC content.",
+      "why": "SAP moved PCC configuration from code to a no-code application; choosing the right tool decides who can maintain validations and KPIs.",
+      "actions": [
+        "Open the configuration workbench (PYC_CONFIG_WORKBENCH) and review what it lists.",
+        "Compare it with the Manage Configuration application for validations, alerts and KPIs.",
+        "Decide which content stays in code and which moves to no-code.",
+        "Review the best-practice content note for Manage Configuration and decide what to import."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 59: OData Service Activation for PCC",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 61,
+      "title": "Validation Rules",
+      "category": "Payroll Control Center",
+      "objective": "Design validation rules that test payroll results before they are released.",
+      "why": "A validation is only useful if its rule, threshold, owner and response are clear. Vague rules create alert noise that teams learn to ignore.",
+      "actions": [
+        "Choose a result-based question the payroll team asks every run.",
+        "Define the rule, the employees in scope, the threshold and the severity.",
+        "Decide the response: warn, block the step, or create a task.",
+        "Test the rule with one passing and one failing synthetic result.",
+        "Record the owner who may change the threshold."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 60: Configuration Workbench & Manage Configuration",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 62,
+      "title": "Key Performance Indicators",
+      "category": "Payroll Control Center",
+      "objective": "Define the numbers the payroll team watches each cycle and how PCC calculates them.",
+      "why": "KPIs let the team spot a problem in one glance. A KPI without a definition or comparison period misleads rather than informs.",
+      "actions": [
+        "List the five numbers the payroll team reviews every period.",
+        "Define each KPI with its formula, population and comparison period.",
+        "Decide the thresholds that turn a KPI amber or red.",
+        "Check each KPI against an independent calculation for the test population."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 61: Validation Rules",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 63,
+      "title": "Alerts & Solutions",
+      "category": "Payroll Control Center",
+      "objective": "Connect each validation to an alert and a clear solution so the right person knows what to do.",
+      "why": "An alert without a solution is a question with no answer. A good solution names the cause, the action and the owner.",
+      "actions": [
+        "For each validation, write the alert text a payroll operator will actually read.",
+        "Define the solution: cause, corrective action, who acts and where the evidence goes.",
+        "Assign alerts to teams so work reaches the right people.",
+        "Test the alert and solution with a failing synthetic result."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 62: Key Performance Indicators",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 64,
+      "title": "Analytics Charts",
+      "category": "Payroll Control Center",
+      "objective": "Design the charts that show payroll movement at a glance.",
+      "why": "A chart earns its place only if it answers a question the team asks repeatedly.",
+      "actions": [
+        "List the questions the team asks every period.",
+        "Pick the measure, breakdown and comparison that answers each question.",
+        "Create the chart definition and attach it to the relevant process step.",
+        "Check the chart against the underlying numbers for the test population."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 63: Alerts & Solutions",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 65,
+      "title": "Analytics Groupings",
+      "category": "Payroll Control Center",
+      "objective": "Group payroll data the way the business reads it, such as by area, cost centre or employee group.",
+      "why": "Groupings decide how totals are sliced. A grouping that does not match how the business reports makes charts unusable.",
+      "actions": [
+        "Identify the grouping dimensions the business already uses.",
+        "Define each grouping and its source field in the payroll result.",
+        "Link groupings to the charts that need them.",
+        "Test that totals across a grouping equal the overall total."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 64: Analytics Charts",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 66,
+      "title": "Step Templates",
+      "category": "Payroll Control Center",
+      "objective": "Build reusable step templates that make up a payroll process.",
+      "why": "Steps are the building blocks of every process. Reusable templates keep every payroll run consistent and auditable.",
+      "actions": [
+        "List the steps of one payroll cycle from preparation to post-payroll.",
+        "Define a template for each step type: manual, automated, validation and approval.",
+        "Record inputs, outputs, owner and evidence for each template.",
+        "Reuse the same template across processes where the step is identical."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 65: Analytics Groupings",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 67,
+      "title": "Policy Types & Process Types",
+      "category": "Payroll Control Center",
+      "objective": "Define the categories that group policies and processes, so the structure stays consistent.",
+      "why": "Types are the vocabulary of the PCC. Weak types make every later process harder to organise.",
+      "actions": [
+        "Decide the process types you need, such as periodic payroll, off-cycle and simulation.",
+        "Decide the policy types you need, such as validation policy and approval policy.",
+        "Name each type clearly and record its purpose.",
+        "Check each type against the processes and policies planned in the next two sections."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 66: Step Templates",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 68,
+      "title": "Policies & Processes",
+      "category": "Payroll Control Center",
+      "objective": "Create the policies and processes that tell the payroll team what to do each period.",
+      "why": "A process combines steps, policies, teams and dates. This is the object the payroll team opens every cycle.",
+      "actions": [
+        "Create the policies that set the validation, KPI and alert rules for a process.",
+        "Group policies into a policy group and assign it to the process.",
+        "Create the process from the process type, adding steps, a team and recurrence.",
+        "Restart the process after changing sections, policies, members or recurrence dates so the outcome reflects the change."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 67: Policy Types & Process Types",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 69,
+      "title": "Teams & Team Members",
+      "category": "Payroll Control Center",
+      "objective": "Set up the teams who receive work and alerts, and make sure the right people appear in each team.",
+      "why": "If the team list is wrong, alerts reach the wrong people or nobody. SAP documents cases where the member list shows unexpected employees.",
+      "actions": [
+        "Decide the teams, such as India operations, statutory and payments.",
+        "Assign members using the payroll-system user and employee relationships.",
+        "Check that the member list shows the expected people.",
+        "Define the cover rule for absence."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 68: Policies & Processes",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 70,
+      "title": "Authorizations in the Payroll System",
+      "category": "Payroll Control Center",
+      "objective": "Define the back-end authorizations that let PCC users see and act on payroll data.",
+      "why": "PCC exposes payroll results. Back-end authorizations must match the roles designed in section 56.",
+      "actions": [
+        "Translate each role into the back-end authorizations it needs.",
+        "Create or adjust the roles in the payroll system with the security team.",
+        "Test that each role sees only the intended data.",
+        "Record the approval for each role assignment."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 69: Teams & Team Members",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 71,
+      "title": "Technical Tasks for PCC",
+      "category": "Payroll Control Center",
+      "objective": "Complete the technical tasks that make the configured PCC content usable.",
+      "why": "Technical tasks are small but easy to miss; without them configured content may exist but never run.",
+      "actions": [
+        "List the technical tasks for your release: service activation, declustering, authorizations and role assignment.",
+        "Assign each task to an owner and a system.",
+        "Run each task and record the date and result.",
+        "Re-run the list after any system copy or upgrade."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 70: Authorizations in the Payroll System",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 72,
+      "title": "Employee Central: System-Level Objects",
+      "category": "Payroll Control Center",
+      "objective": "Configure the Employee Central objects that connect the front end to the payroll system.",
+      "why": "These objects tell Employee Central which payroll system serves each user and which PCC experience to show.",
+      "actions": [
+        "In Admin Center, open SAP System Configuration and register the payroll system.",
+        "Open Payroll Control Center Configuration and create or correct the record for your company.",
+        "Choose the classic or new experience.",
+        "Record that an existing configuration record must be corrected, or deleted and recreated, rather than duplicated."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 71: Technical Tasks for PCC",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 73,
+      "title": "Employee Central: Role-Based Permissions",
+      "category": "Payroll Control Center",
+      "objective": "Grant the Employee Central permissions that PCC users and configurators need.",
+      "why": "Role-based permissions in Employee Central decide who can configure PCC and who is merely assigned to a system.",
+      "actions": [
+        "Create or reuse a permission role for PCC configurators.",
+        "Grant Payroll System Assignment and Payroll Control Center Configuration permissions with the correct view and edit rights.",
+        "Create a role for business users who run and monitor processes.",
+        "Test with one user in each role."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 72: Employee Central: System-Level Objects",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 74,
+      "title": "Assigning the Payroll System to Users",
+      "category": "Payroll Control Center",
+      "objective": "Link each PCC user to the payroll system they work in.",
+      "why": "A user with permissions but no assigned system sees nothing. Assignment is the last step before they can work.",
+      "actions": [
+        "List users who need access and the system each should use.",
+        "Assign the payroll system through the Payroll System Assignment permission.",
+        "If a user has several systems, confirm they can switch between them.",
+        "Test by signing in as a user and opening My Processes."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 73: Employee Central: Role-Based Permissions",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 75,
+      "title": "Audit Trail Tile & Action Log Viewer",
+      "category": "Payroll Control Center",
+      "objective": "Make PCC actions visible to auditors through the Action Log Viewer and a custom tile.",
+      "why": "PCC actions, such as starting or closing a step, must be reviewable later. An audit view turns that record into evidence.",
+      "actions": [
+        "Confirm the Action Log Viewer business function and service are active.",
+        "Create the custom tile that opens the audit view for authorised users.",
+        "Define what an auditor should be able to see.",
+        "Test the tile with a reviewer role."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 74: Assigning the Payroll System to Users",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 76,
+      "title": "Making PCC Operational",
+      "category": "Payroll Control Center",
+      "objective": "Move configured PCC content from build to a working, supported production service.",
+      "why": "Configuration is not operation. Transport, activation, ownership and a first live cycle decide whether PCC is actually used.",
+      "actions": [
+        "Transport or move the configured content in the agreed way for your landscape.",
+        "Run a smoke test: sign in, open a process, start a simulation, close an alert.",
+        "Hand over to operations with a run book.",
+        "Review the first live cycle against the plan."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 75: Audit Trail Tile & Action Log Viewer",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 77,
+      "title": "Operating PCC: My Processes & Manage Teams",
+      "category": "Payroll Control Center",
+      "objective": "Run the day-to-day operation using the My Processes and Manage Teams applications.",
+      "why": "Daily operation is where PCC proves its value: progress, status and due dates visible in one place.",
+      "actions": [
+        "Open My Processes and read the active processes, progress, status and due dates.",
+        "Open a process and work through its steps in order.",
+        "Use Manage Teams to adjust membership when people change.",
+        "Record any step that needed manual intervention and why."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 76: Making PCC Operational",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 78,
+      "title": "Payroll Simulation in PCC",
+      "category": "Payroll Control Center",
+      "objective": "Use simulation to find errors before the production run.",
+      "why": "A simulation costs little and reveals data problems, rule gaps and surprises while there is still time to fix them.",
+      "actions": [
+        "Run a simulation process for the target period.",
+        "Review validations, KPIs and alerts that appear.",
+        "Fix master data or configuration causes, not the symptoms.",
+        "Repeat until the alert list is acceptable, then record the final simulation as evidence."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 77: Operating PCC: My Processes & Manage Teams",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 79,
+      "title": "Production Payroll & Confirming Reports",
+      "category": "Payroll Control Center",
+      "objective": "Run production payroll through PCC and confirm the periodic reports.",
+      "why": "The production run is the commitment. Controlled steps and confirmation reports show it was done correctly.",
+      "actions": [
+        "Confirm the pre-run gates: replication complete, simulation accepted, approvals recorded.",
+        "Start the production payroll step in the process.",
+        "Confirm the periodic payroll reports and reconcile to expectations.",
+        "Record sign-off before post-payroll steps start."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 78: Payroll Simulation in PCC",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 80,
+      "title": "Post-Payroll Processing",
+      "category": "Payroll Control Center",
+      "objective": "Complete the steps after payroll: posting to Finance, payments, statutory outputs and closure.",
+      "why": "The payroll is not finished when the run ends. Posting, payment and statutory outputs complete the cycle.",
+      "actions": [
+        "List the post-payroll steps: posting to Finance, payment file, statutory outputs, payslips.",
+        "Order the steps and set owners and due dates.",
+        "Link each step to its evidence and reconciliation.",
+        "Close the period only when every step is complete."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 79: Production Payroll & Confirming Reports",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 81,
+      "title": "Off-Cycle Processes & Error Handling",
+      "category": "Payroll Control Center",
+      "objective": "Run off-cycle payroll through PCC and handle process errors, resets and missing processes.",
+      "why": "Off-cycle runs are higher risk because they bypass the regular rhythm. Error handling decides how quickly the team recovers.",
+      "actions": [
+        "Define the off-cycle process type and when it may be used.",
+        "Use My Off-Cycles to start and monitor an off-cycle run.",
+        "Define the recovery path for a failed or stuck process, including reset.",
+        "Record the cause and prevention of each error."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Payroll Control Center lead with payroll, security and Finance owners",
+      "prerequisite": "Section 80: Post-Payroll Processing",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 82,
+      "title": "P2P Architecture & Data Flow",
+      "category": "EC–ECP Replication",
+      "objective": "Understand how employee data travels from Employee Central to Employee Central Payroll in point-to-point replication.",
+      "why": "A replication fault is easier to find when you know each hop: source query, transfer, mapping, infotype update and status report.",
+      "actions": [
+        "Draw the flow: Employee Central data, Compound Employee API call, payroll-side mapping, infotype update, status.",
+        "Note the separate time-data flow, which uses the Employee Central OData API and its own programs.",
+        "Mark where code values, organisational data and custom logic enter.",
+        "Record which side pulls the data: the payroll system runs the replication program."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Sections 1 to 54 and the India evidence boundary",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 83,
+      "title": "Landscape & Prerequisites",
+      "category": "EC–ECP Replication",
+      "objective": "Confirm the systems, data centre information and approvals required before any replication setup.",
+      "why": "Missing prerequisites cause the longest delays in an integration: wrong data centre, no admin access, no certificate, no payroll-ready test data.",
+      "actions": [
+        "List the Employee Central instance and the Employee Central Payroll system involved.",
+        "Confirm the data centre or API endpoint information required for the connection.",
+        "Confirm the administrator access needed on each side and who provides it.",
+        "Confirm the test data plan and the synthetic employees to use."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 82: P2P Architecture & Data Flow",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 84,
+      "title": "Provisioning: Activate Payroll Integration",
+      "category": "EC–ECP Replication",
+      "objective": "Activate the Employee Central Payroll integration in provisioning.",
+      "why": "Provisioning switches are the foundation. If they are not set, later steps fail in ways that look unrelated.",
+      "actions": [
+        "Open provisioning with the right authority (usually your implementation partner or SAP).",
+        "Activate the Employee Central Payroll integration.",
+        "Record the date, who activated it and which company.",
+        "Verify that the related settings appear in Admin Center."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 83: Landscape & Prerequisites",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 85,
+      "title": "Succession Data Model for Master Data Replication",
+      "category": "EC–ECP Replication",
+      "objective": "Set up the succession data model fields needed for payroll master data replication.",
+      "why": "The data model decides which Employee Central fields can be read for replication. A missing field cannot be replicated.",
+      "actions": [
+        "List the payroll-relevant fields in the Employee Central data model.",
+        "Compare them with the delivered replication content.",
+        "Add or adjust fields with the data model owner.",
+        "Re-test the Compound Employee query after any change."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 84: Provisioning: Activate Payroll Integration",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 86,
+      "title": "Corporate Data Model",
+      "category": "EC–ECP Replication",
+      "objective": "Set up the corporate data model entries used by payroll replication.",
+      "why": "Corporate fields apply to all countries. A mistake here is replicated everywhere.",
+      "actions": [
+        "Review the corporate data model for payroll-relevant elements.",
+        "Plan changes with the global data model owner.",
+        "Apply changes and record the version.",
+        "Test with a synthetic employee from more than one country."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 85: Succession Data Model for Master Data Replication",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 87,
+      "title": "Country-Specific Data Model: India",
+      "category": "EC–ECP Replication",
+      "objective": "Set up the India country-specific data model entries for payroll replication.",
+      "why": "India payroll depends on identifiers and fields that exist only in India. They must be in the country model to replicate.",
+      "actions": [
+        "List the India-specific fields: identifiers, bank details, addresses and statutory elements from the India profile.",
+        "Confirm which are already delivered and which need to be added.",
+        "Add missing fields and set visibility.",
+        "Test with a synthetic India employee."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 86: Corporate Data Model",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 88,
+      "title": "Web Service & Push Replication from Provisioning",
+      "category": "EC–ECP Replication",
+      "objective": "Set up the web service and decide whether push replication from provisioning applies.",
+      "why": "Push and pull replication models behave differently. Choosing without understanding creates monitoring blind spots.",
+      "actions": [
+        "Review the web service setup and note who owns each activation step.",
+        "Decide whether push replication applies in your landscape or if point-to-point pull is used.",
+        "Record the decision and the reason.",
+        "Plan monitoring appropriate to the choice."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 87: Country-Specific Data Model: India",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 89,
+      "title": "Replication Target System & Data Replication Configuration in EC",
+      "category": "EC–ECP Replication",
+      "objective": "Create the replication target system and the data replication configuration in Employee Central.",
+      "why": "These Employee Central objects tell the system which payroll system receives data and under what conditions replication proxies are created.",
+      "actions": [
+        "Create the replication target system for the payroll system.",
+        "Create the data replication configuration that sets the conditions for replication proxies.",
+        "Record how to switch the target system if the payroll system changes.",
+        "Verify the objects are visible and saved."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 88: Web Service & Push Replication from Provisioning",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 90,
+      "title": "IMG: Integration Settings in the Payroll System",
+      "category": "EC–ECP Replication",
+      "objective": "Navigate and use the integration settings in the payroll system configuration.",
+      "why": "Most replication configuration sits under a single IMG branch. Knowing it saves time and avoids missed steps.",
+      "actions": [
+        "Open the configuration tree under Personnel Management, Integration Settings for SuccessFactors Employee Central Payroll.",
+        "List the activities in the branch.",
+        "Mark which are mandatory for your scenario.",
+        "Record the order in which you perform them."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 89: Replication Target System & Data Replication Configuration in EC",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 91,
+      "title": "Connectivity: HRSFEC_PTP_CONFIG",
+      "category": "EC–ECP Replication",
+      "objective": "Configure the connection from the payroll system to Employee Central using the configuration transaction.",
+      "why": "The connection configuration is the single point every replication program depends on. Errors here stop everything.",
+      "actions": [
+        "Open transaction HRSFEC_PTP_CONFIG (program RP_HRSFEC_PTP_CONFIGURATION).",
+        "Choose the authentication option: user ID and password, or X.509 certificate.",
+        "Create the replication target system as the program offers.",
+        "Test the connection and record the result.",
+        "Keep credentials out of notes and exports."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 90: IMG: Integration Settings in the Payroll System",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 92,
+      "title": "Infotype & Country Filtering",
+      "category": "EC–ECP Replication",
+      "objective": "Decide which infotypes and which countries are replicated to the payroll system.",
+      "why": "Replicating more than payroll needs creates noise and risk. Filtering keeps replication focused.",
+      "actions": [
+        "List the infotypes the payroll processes need.",
+        "Set infotype filtering so unneeded infotypes are not updated.",
+        "Set country filtering so only payroll countries are replicated.",
+        "Test with an employee from an excluded country."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 91: Connectivity: HRSFEC_PTP_CONFIG",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 93,
+      "title": "Compound Employee Query & Custom MDF Objects",
+      "category": "EC–ECP Replication",
+      "objective": "Extend the Compound Employee query to include custom objects that payroll needs.",
+      "why": "Custom objects in Employee Central do not replicate by default. A query segment makes them available to the payroll system.",
+      "actions": [
+        "Identify the custom objects payroll needs.",
+        "Add the query segment to the point-to-point configuration.",
+        "Test that the custom object data arrives for a synthetic employee.",
+        "Record the segment and the mapping decision."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 92: Infotype & Country Filtering",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 94,
+      "title": "Code Value Assignment",
+      "category": "EC–ECP Replication",
+      "objective": "Map Employee Central picklist and code values to payroll-system values.",
+      "why": "Employee Central and payroll use different codes. Unmapped values are the most common cause of replication errors.",
+      "actions": [
+        "List the picklists and code fields that payroll uses.",
+        "Map each Employee Central value to the payroll value.",
+        "Include a default or error rule for unmapped values.",
+        "Test with a value that is deliberately unmapped."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 93: Compound Employee Query & Custom MDF Objects",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 95,
+      "title": "Organisational Elements: Jobs, Positions & Org Units",
+      "category": "EC–ECP Replication",
+      "objective": "Replicate jobs, positions and organisational units to the payroll system.",
+      "why": "The point-to-point framework does not maintain the full organisational structure by itself; it needs its own replication.",
+      "actions": [
+        "Decide which organisational objects payroll needs.",
+        "Run the organisational data replication program.",
+        "Check the results in the payroll system.",
+        "Schedule the program to run before employee replication when needed."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 94: Code Value Assignment",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 96,
+      "title": "Wage Types & Pay Component Mapping",
+      "category": "EC–ECP Replication",
+      "objective": "Map Employee Central pay components to payroll wage types.",
+      "why": "Pay components become wage types. A wrong mapping changes pay, tax and reporting.",
+      "actions": [
+        "List the Employee Central pay components in use.",
+        "Map each to a payroll wage type with its purpose.",
+        "Check the mapping against the wage type catalogue (section 17).",
+        "Test with one recurring and one one-time component."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 95: Organisational Elements: Jobs, Positions & Org Units",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 97,
+      "title": "Extensibility: Enhancement Spot & BAdIs",
+      "category": "EC–ECP Replication",
+      "objective": "Use the delivered enhancement spot to adjust replication logic without modifying standard code.",
+      "why": "Some rules cannot be configured. The enhancement spot lets you change mapping behaviour safely.",
+      "actions": [
+        "List the mapping behaviours that configuration cannot handle.",
+        "Open the enhancement spot using transaction HRSFEC_SPOT_EEMDR_CE.",
+        "Design each implementation with a clear purpose and test.",
+        "Document and transport the implementation."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 96: Wage Types & Pay Component Mapping",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 98,
+      "title": "Personnel Numbers & Assignment ID",
+      "category": "EC–ECP Replication",
+      "objective": "Control how personnel numbers are created and linked to Employee Central employments.",
+      "why": "A wrong link between a payroll record and an employment duplicates or merges people.",
+      "actions": [
+        "Decide how personnel numbers relate to Employee Central person and assignment identifiers.",
+        "Describe how new employment is detected, including rehire.",
+        "Define how rules enforce a new employment where needed.",
+        "Test a hire, a rehire and a concurrent employment."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 97: Extensibility: Enhancement Spot & BAdIs",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 99,
+      "title": "Job Information: Infotypes 0000, 0001, 0007, 0008",
+      "category": "EC–ECP Replication",
+      "objective": "Map job and employment information to actions, organisational assignment, working time and basic pay.",
+      "why": "These four infotypes drive whether and how an employee is paid. Errors affect every payroll run.",
+      "actions": [
+        "Map Employee Central job information events to infotype 0000 actions.",
+        "Map organisational assignment to infotype 0001.",
+        "Map working time to infotype 0007 and basic pay to infotype 0008.",
+        "Test hire, change and termination events."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 98: Personnel Numbers & Assignment ID",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 100,
+      "title": "Personal, Biographical, Address, Payment & ID Data",
+      "category": "EC–ECP Replication",
+      "objective": "Map personal, address, payment and national identification information.",
+      "why": "This data is personal and sensitive. Accuracy matters for payslips and payments; privacy matters for everyone.",
+      "actions": [
+        "Map biographical and personal information to infotype 0002.",
+        "Map addresses to infotype 0006 and payment information to infotype 0009.",
+        "Map national identification to the identification infotype.",
+        "Test with synthetic values and mask all identifiers in evidence."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 99: Job Information: Infotypes 0000, 0001, 0007, 0008",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 101,
+      "title": "Pay Components: Infotypes 0008, 0014, 0015",
+      "category": "EC–ECP Replication",
+      "objective": "Map recurring and one-time pay components to the right infotypes.",
+      "why": "Recurring and one-time payments follow different rules. Using the wrong infotype changes how pay is calculated.",
+      "actions": [
+        "Classify each pay component as recurring or one-time.",
+        "Map recurring components to infotype 0008 or 0014 as appropriate.",
+        "Map one-time components to infotype 0015.",
+        "Test with an effective-dated change and a one-time bonus."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 100: Personal, Biographical, Address, Payment & ID Data",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 102,
+      "title": "Contract, Dependents, Cost Distribution, Dates & Email",
+      "category": "EC–ECP Replication",
+      "objective": "Map contract elements, dependents, cost distribution, dates and email addresses.",
+      "why": "These infotypes feed benefits, costing, time and communication. They are easy to forget until a run needs them.",
+      "actions": [
+        "Map contract elements, dependents, cost distribution, dates and email to their infotypes.",
+        "Decide which are needed for payroll in your scenario.",
+        "Test cost distribution splits that sum to one hundred percent.",
+        "Test date types and their effects on payroll."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 101: Pay Components: Infotypes 0008, 0014, 0015",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 103,
+      "title": "Off-Cycle Payments & Higher Duty Assignments",
+      "category": "EC–ECP Replication",
+      "objective": "Replicate additional off-cycle payments and temporary or higher-duty assignments.",
+      "why": "These cases are infrequent but high risk: wrong replication leads to wrong special payments or wrong pay for a temporary role.",
+      "actions": [
+        "Define when an off-cycle payment is created in Employee Central.",
+        "Map it to the off-cycle infotype.",
+        "Map temporary or higher-duty assignments to their infotype.",
+        "Test one of each with predicted records."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 102: Contract, Dependents, Cost Distribution, Dates & Email",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 104,
+      "title": "Time Data Replication: Absences & Working Time",
+      "category": "EC–ECP Replication",
+      "objective": "Replicate absences and working time from Employee Central to the payroll system.",
+      "why": "Time data uses a different interface and programs from employee data. It must be configured and scheduled separately.",
+      "actions": [
+        "Create the data replication configuration objects for time data in Employee Central.",
+        "Use the absence replication program for absence records.",
+        "Use the working time replication program for working time.",
+        "Schedule and monitor both programs."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 103: Off-Cycle Payments & Higher Duty Assignments",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 105,
+      "title": "Scheduling & Running Replication",
+      "category": "EC–ECP Replication",
+      "objective": "Schedule and run the replication jobs and understand their key control tables.",
+      "why": "Replication is a scheduled job. The schedule, full transmission start date and last-run record decide what data moves and when.",
+      "actions": [
+        "Schedule the employee replication program as a background job.",
+        "Schedule the organisational replication job.",
+        "Set the full transmission start date.",
+        "Review and, if needed with expert care, maintain the last-run record."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 104: Time Data Replication: Absences & Working Time",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 106,
+      "title": "Migration & Cutover",
+      "category": "EC–ECP Replication",
+      "objective": "Plan how existing employees are brought into the replication model at go-live.",
+      "why": "Existing employees need a controlled start, otherwise old and new records collide or duplicate.",
+      "actions": [
+        "Decide the full transmission start date and its consequence.",
+        "Decide how existing payroll records link to Employee Central employments.",
+        "Use the key mapping table and its supplied upload program when linking is needed.",
+        "Test the cutover with a small synthetic population."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 105: Scheduling & Running Replication",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 107,
+      "title": "Monitoring & Mapping Check Tools",
+      "category": "EC–ECP Replication",
+      "objective": "Monitor replication and use the mapping check tools to find problems early.",
+      "why": "Replication problems found at payroll run are expensive. Monitoring finds them while they are small.",
+      "actions": [
+        "Review replication status after each run.",
+        "Use the application log and the service utility for deeper errors.",
+        "Use the mapping check tools before a large load.",
+        "Record every error, cause and fix in a replication log."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 106: Migration & Cutover",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    },
+    {
+      "id": 108,
+      "title": "End-to-End Test & Sign-Off",
+      "category": "EC–ECP Replication",
+      "objective": "Prove the whole chain from Employee Central data to a controlled payroll result.",
+      "why": "Each step can pass alone and the chain still fail. The end-to-end test shows the data arrives correctly and payroll uses it.",
+      "actions": [
+        "Create the four synthetic India workers in Employee Central.",
+        "Run organisational and employee replication and review the status.",
+        "Run a simulation in the Payroll Control Center and review alerts.",
+        "Reconcile the result with the independent expectation and sign off or log defects."
+      ],
+      "evidence": [
+        "Source and release/version recorded",
+        "Object names confirmed against your release before use",
+        "Independent expected result written before the test",
+        "Observed result linked only after a real test",
+        "Open questions assigned to a named owner"
+      ],
+      "owner": "Integration lead with Employee Central, payroll and basis owners",
+      "prerequisite": "Section 107: Monitoring & Mapping Check Tools",
+      "next": "Record the decision, link the evidence, name the open question and confirm object names in your own release."
+    }
+  ]
+}
