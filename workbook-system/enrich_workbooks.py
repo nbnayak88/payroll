@@ -99,7 +99,7 @@ def fixture_table(n,c,app=False):
  return {'title':'Synthetic case data · '+str(n),'heads':['Fixture input / check','Case data / expected result'],'rows':common+choices.get(n,controls),'_slaSynthetic':True}
 
 def strip_old_audio(s):
- s=re.sub(r'<div class="musicbar">.*?</div>','<div class="musicbar"><button type="button" data-sla-focus aria-expanded="false">Focus music</button><span>Optional listening · starts only when you choose</span></div>',s,count=1,flags=re.S)
+ s=re.sub(r'<div class="musicbar">.*?</div>','',s,count=1,flags=re.S)
  # Preserve daily quotes, replace the generated melody portion only.
  def brand(m):
   body=m.group(2)
