@@ -35,7 +35,7 @@ For a directory change, edit `payroll-catalog.json`; for its appearance, edit `w
 
 These are independent educational workbooks with fictional examples and explicit source/evidence boundaries. The mapping practice does not execute SAP. No affiliation with SAP or statutory authorities is claimed.
 
-## Synthetic cases, page reflections and focus music
+## Synthetic cases and page reflections
 
 Every country workbook now includes an original fictional country case, four test workers, dated source events, mapping boundary fixtures and section-specific example tables. The UK configuration companion has matching fixtures for its 44 configuration pages. Country case JSON and worker CSV can be exported from each workbook; these exports contain only the deliberately synthetic TEST identifiers. Four contextual reflection statements — Affirmation, Visualization, Gratitude and Intention — follow the selected section or learning tool.
 
@@ -43,4 +43,4 @@ Payroll arithmetic examples are teaching inputs, not wage benchmarks, legal pror
 
 Maintain the case content and page-specific prompts in `workbook-system/enrich_workbooks.py`; maintain shared behavior and appearance in `learning-enhancements.js` and `learning-enhancements.css`. Run `python3 workbook-system/enrich_workbooks.py` after editing these sources. Both main builders also run the enrichment step automatically. The operation is idempotent, embeds its assets in the standalone pages and preserves learner storage keys, source section numbering and existing learning records.
 
-Focus music uses the owner-selected YouTube video through its standard embedded player. No raw video URL is printed in the workbook. The player loads only when the learner opens the focus-music panel, retains YouTube's controls and attribution, and stops when the panel is closed or the tab is hidden. The earlier generated melodies and reflection sound generators have been removed. External playback needs internet access and may depend on YouTube availability and the LMS content policy; no audio file is extracted or redistributed.
+Focus music is disabled by project policy. The hub's embedded player was removed on 8 November 2026. The country-page cleanup is tracked separately in the repository commit history; verify all generated outputs and shared sources before declaring the entire catalogue music-free.
