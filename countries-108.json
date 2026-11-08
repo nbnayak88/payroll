@@ -1,0 +1,981 @@
+{
+  "updated": "2026-11-09",
+  "commonUrl": "https://nbnayak88.github.io/payroll/",
+  "guideUrl": "https://help.sap.com/doc/b24aa110d63d4602830fc57424142556/2611/en-US/SF_ECPAY_CountrySpec.pdf",
+  "disclaimer": "SAP country chapter/appendix coverage is not proof of a supported localized ECP payroll country version. SAP localization status must be verified in SAP official product availability and the tenant/release.",
+  "countryCount": 108,
+  "countries": [
+    {
+      "country": "Angola",
+      "capital": "Luanda",
+      "currency": "AOA",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Angola.html",
+      "guidePage": 384
+    },
+    {
+      "country": "Argentina",
+      "capital": "Buenos Aires",
+      "currency": "ARS",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Argentina.html",
+      "guidePage": 15
+    },
+    {
+      "country": "Australia",
+      "capital": "Canberra",
+      "currency": "AUD",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Australia.html",
+      "guidePage": 19
+    },
+    {
+      "country": "Austria",
+      "capital": "Vienna",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Austria.html",
+      "guidePage": 30
+    },
+    {
+      "country": "Bahrain",
+      "capital": "Manama",
+      "currency": "BHD",
+      "guideCoverage": "additional",
+      "sapEcpCountryVersion": "Not verified — additional existing workbook",
+      "url": "https://nbnayak88.github.io/payroll/Bahrain.html",
+      "guidePage": null
+    },
+    {
+      "country": "Bangladesh",
+      "capital": "Dhaka",
+      "currency": "BDT",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Bangladesh.html",
+      "guidePage": 386
+    },
+    {
+      "country": "Belarus",
+      "capital": "Minsk",
+      "currency": "BYN",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Belarus.html",
+      "guidePage": 389
+    },
+    {
+      "country": "Belgium",
+      "capital": "Brussels",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Belgium.html",
+      "guidePage": 35
+    },
+    {
+      "country": "Bolivia",
+      "capital": "Sucre / La Paz",
+      "currency": "BOB",
+      "guideCoverage": "additional",
+      "sapEcpCountryVersion": "Not verified — additional existing workbook",
+      "url": "https://nbnayak88.github.io/payroll/Bolivia.html",
+      "guidePage": null
+    },
+    {
+      "country": "Botswana",
+      "capital": "Gaborone",
+      "currency": "BWP",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Botswana.html",
+      "guidePage": 391
+    },
+    {
+      "country": "Brazil",
+      "capital": "Brasília",
+      "currency": "BRL",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Brazil.html",
+      "guidePage": 40
+    },
+    {
+      "country": "Bulgaria",
+      "capital": "Sofia",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Bulgaria.html",
+      "guidePage": 55
+    },
+    {
+      "country": "Cambodia",
+      "capital": "Phnom Penh",
+      "currency": "KHR",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Cambodia.html",
+      "guidePage": 393
+    },
+    {
+      "country": "Canada",
+      "capital": "Ottawa",
+      "currency": "CAD",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Canada.html",
+      "guidePage": 60
+    },
+    {
+      "country": "Chile",
+      "capital": "Santiago",
+      "currency": "CLP",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Chile.html",
+      "guidePage": 84
+    },
+    {
+      "country": "China",
+      "capital": "Beijing",
+      "currency": "CNY",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/China.html",
+      "guidePage": 93
+    },
+    {
+      "country": "Colombia",
+      "capital": "Bogotá",
+      "currency": "COP",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Colombia.html",
+      "guidePage": 98
+    },
+    {
+      "country": "Costa Rica",
+      "capital": "San José",
+      "currency": "CRC",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Costa_Rica.html",
+      "guidePage": 395
+    },
+    {
+      "country": "Croatia",
+      "capital": "Zagreb",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Croatia.html",
+      "guidePage": 104
+    },
+    {
+      "country": "Czech Republic",
+      "capital": "Prague",
+      "currency": "CZK",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Czech_Republic.html",
+      "guidePage": 109
+    },
+    {
+      "country": "Denmark",
+      "capital": "Copenhagen",
+      "currency": "DKK",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Denmark.html",
+      "guidePage": 398
+    },
+    {
+      "country": "Dominican Republic",
+      "capital": "Santo Domingo",
+      "currency": "DOP",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Dominican_Republic.html",
+      "guidePage": 400
+    },
+    {
+      "country": "Ecuador",
+      "capital": "Quito",
+      "currency": "USD",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Ecuador.html",
+      "guidePage": 402
+    },
+    {
+      "country": "Egypt",
+      "capital": "Cairo",
+      "currency": "EGP",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Egypt.html",
+      "guidePage": 114
+    },
+    {
+      "country": "El Salvador",
+      "capital": "San Salvador",
+      "currency": "USD",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/El_Salvador.html",
+      "guidePage": 404
+    },
+    {
+      "country": "Estonia",
+      "capital": "Tallinn",
+      "currency": "EUR",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Estonia.html",
+      "guidePage": 406
+    },
+    {
+      "country": "Finland",
+      "capital": "Helsinki",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Finland.html",
+      "guidePage": 120
+    },
+    {
+      "country": "France",
+      "capital": "Paris",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/France.html",
+      "guidePage": 122
+    },
+    {
+      "country": "Germany",
+      "capital": "Berlin",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Germany.html",
+      "guidePage": 127
+    },
+    {
+      "country": "Ghana",
+      "capital": "Accra",
+      "currency": "GHS",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Ghana.html",
+      "guidePage": 408
+    },
+    {
+      "country": "Greece",
+      "capital": "Athens",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Greece.html",
+      "guidePage": 137
+    },
+    {
+      "country": "Guatemala",
+      "capital": "Guatemala City",
+      "currency": "GTQ",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Guatemala.html",
+      "guidePage": 410
+    },
+    {
+      "country": "Guyana",
+      "capital": "Georgetown",
+      "currency": "GYD",
+      "guideCoverage": "additional",
+      "sapEcpCountryVersion": "Not verified — additional existing workbook",
+      "url": "https://nbnayak88.github.io/payroll/Guyana.html",
+      "guidePage": null
+    },
+    {
+      "country": "Honduras",
+      "capital": "Tegucigalpa",
+      "currency": "HNL",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Honduras.html",
+      "guidePage": 412
+    },
+    {
+      "country": "Hong Kong",
+      "capital": "Hong Kong",
+      "currency": "HKD",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Hong_Kong.html",
+      "guidePage": 141
+    },
+    {
+      "country": "Hungary",
+      "capital": "Budapest",
+      "currency": "HUF",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Hungary.html",
+      "guidePage": 152
+    },
+    {
+      "country": "Iceland",
+      "capital": "Reykjavík",
+      "currency": "ISK",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Iceland.html",
+      "guidePage": 414
+    },
+    {
+      "country": "India",
+      "capital": "New Delhi",
+      "currency": "INR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/India.html",
+      "guidePage": 158
+    },
+    {
+      "country": "Indonesia",
+      "capital": "Jakarta",
+      "currency": "IDR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Indonesia.html",
+      "guidePage": 169
+    },
+    {
+      "country": "Iraq",
+      "capital": "Baghdad",
+      "currency": "IQD",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Iraq.html",
+      "guidePage": 416
+    },
+    {
+      "country": "Ireland",
+      "capital": "Dublin",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Ireland.html",
+      "guidePage": 174
+    },
+    {
+      "country": "Isle of Man",
+      "capital": "Douglas",
+      "currency": "GBP",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Isle_of_Man.html",
+      "guidePage": 418
+    },
+    {
+      "country": "Israel",
+      "capital": "Jerusalem",
+      "currency": "ILS",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Israel.html",
+      "guidePage": 420
+    },
+    {
+      "country": "Italy",
+      "capital": "Rome",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Italy.html",
+      "guidePage": 177
+    },
+    {
+      "country": "Japan",
+      "capital": "Tokyo",
+      "currency": "JPY",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Japan.html",
+      "guidePage": 184
+    },
+    {
+      "country": "Jordan",
+      "capital": "Amman",
+      "currency": "JOD",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Jordan.html",
+      "guidePage": 422
+    },
+    {
+      "country": "Kazakhstan",
+      "capital": "Astana",
+      "currency": "KZT",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Kazakhstan.html",
+      "guidePage": 425
+    },
+    {
+      "country": "Kenya",
+      "capital": "Nairobi",
+      "currency": "KES",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Kenya.html",
+      "guidePage": 427
+    },
+    {
+      "country": "Kosovo",
+      "capital": "Pristina",
+      "currency": "EUR",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Kosovo.html",
+      "guidePage": 429
+    },
+    {
+      "country": "Kuwait",
+      "capital": "Kuwait City",
+      "currency": "KWD",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Kuwait.html",
+      "guidePage": 192
+    },
+    {
+      "country": "Latvia",
+      "capital": "Riga",
+      "currency": "EUR",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Latvia.html",
+      "guidePage": 431
+    },
+    {
+      "country": "Lebanon",
+      "capital": "Beirut",
+      "currency": "LBP",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Lebanon.html",
+      "guidePage": 434
+    },
+    {
+      "country": "Lithuania",
+      "capital": "Vilnius",
+      "currency": "EUR",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Lithuania.html",
+      "guidePage": 436
+    },
+    {
+      "country": "Luxembourg",
+      "capital": "Luxembourg",
+      "currency": "EUR",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Luxembourg.html",
+      "guidePage": 438
+    },
+    {
+      "country": "Malawi",
+      "capital": "Lilongwe",
+      "currency": "MWK",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Malawi.html",
+      "guidePage": 440
+    },
+    {
+      "country": "Malaysia",
+      "capital": "Kuala Lumpur",
+      "currency": "MYR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Malaysia.html",
+      "guidePage": 198
+    },
+    {
+      "country": "Malta",
+      "capital": "Valletta",
+      "currency": "EUR",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Malta.html",
+      "guidePage": 442
+    },
+    {
+      "country": "Mexico",
+      "capital": "Mexico City",
+      "currency": "MXN",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Mexico.html",
+      "guidePage": 202
+    },
+    {
+      "country": "Morocco",
+      "capital": "Rabat",
+      "currency": "MAD",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Morocco.html",
+      "guidePage": 444
+    },
+    {
+      "country": "Mozambique",
+      "capital": "Maputo",
+      "currency": "MZN",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Mozambique.html",
+      "guidePage": 446
+    },
+    {
+      "country": "Myanmar",
+      "capital": "Naypyidaw",
+      "currency": "MMK",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Myanmar.html",
+      "guidePage": 449
+    },
+    {
+      "country": "Namibia",
+      "capital": "Windhoek",
+      "currency": "NAD",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Namibia.html",
+      "guidePage": 450
+    },
+    {
+      "country": "Netherlands",
+      "capital": "Amsterdam",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Netherlands.html",
+      "guidePage": 211
+    },
+    {
+      "country": "New Zealand",
+      "capital": "Wellington",
+      "currency": "NZD",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/New_Zealand.html",
+      "guidePage": 215
+    },
+    {
+      "country": "Nicaragua",
+      "capital": "Managua",
+      "currency": "NIO",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Nicaragua.html",
+      "guidePage": 453
+    },
+    {
+      "country": "Nigeria",
+      "capital": "Abuja",
+      "currency": "NGN",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Nigeria.html",
+      "guidePage": 457
+    },
+    {
+      "country": "North Macedonia",
+      "capital": "Skopje",
+      "currency": "MKD",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/North_Macedonia.html",
+      "guidePage": 455
+    },
+    {
+      "country": "Norway",
+      "capital": "Oslo",
+      "currency": "NOK",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Norway.html",
+      "guidePage": 221
+    },
+    {
+      "country": "Oman",
+      "capital": "Muscat",
+      "currency": "OMR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Oman.html",
+      "guidePage": 226
+    },
+    {
+      "country": "Pakistan",
+      "capital": "Islamabad",
+      "currency": "PKR",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Pakistan.html",
+      "guidePage": 459
+    },
+    {
+      "country": "Panama",
+      "capital": "Panama City",
+      "currency": "PAB / USD",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Panama.html",
+      "guidePage": 462
+    },
+    {
+      "country": "Paraguay",
+      "capital": "Asunción",
+      "currency": "PYG",
+      "guideCoverage": "additional",
+      "sapEcpCountryVersion": "Not verified — additional existing workbook",
+      "url": "https://nbnayak88.github.io/payroll/Paraguay.html",
+      "guidePage": null
+    },
+    {
+      "country": "Peru",
+      "capital": "Lima",
+      "currency": "PEN",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Peru.html",
+      "guidePage": 464
+    },
+    {
+      "country": "Philippines",
+      "capital": "Manila",
+      "currency": "PHP",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Philippines.html",
+      "guidePage": 232
+    },
+    {
+      "country": "Poland",
+      "capital": "Warsaw",
+      "currency": "PLN",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Poland.html",
+      "guidePage": 236
+    },
+    {
+      "country": "Portugal",
+      "capital": "Lisbon",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Portugal.html",
+      "guidePage": 245
+    },
+    {
+      "country": "Puerto Rico",
+      "capital": "San Juan",
+      "currency": "USD",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Puerto_Rico.html",
+      "guidePage": 466
+    },
+    {
+      "country": "Qatar",
+      "capital": "Doha",
+      "currency": "QAR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Qatar.html",
+      "guidePage": 251
+    },
+    {
+      "country": "Romania",
+      "capital": "Bucharest",
+      "currency": "RON",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Romania.html",
+      "guidePage": 256
+    },
+    {
+      "country": "Russia",
+      "capital": "Moscow",
+      "currency": "RUB",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Russia.html",
+      "guidePage": 262
+    },
+    {
+      "country": "Saudi Arabia",
+      "capital": "Riyadh",
+      "currency": "SAR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Saudi_Arabia.html",
+      "guidePage": 266
+    },
+    {
+      "country": "Serbia",
+      "capital": "Belgrade",
+      "currency": "RSD",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Serbia.html",
+      "guidePage": 468
+    },
+    {
+      "country": "Singapore",
+      "capital": "Singapore",
+      "currency": "SGD",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Singapore.html",
+      "guidePage": 274
+    },
+    {
+      "country": "Slovakia",
+      "capital": "Bratislava",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Slovakia.html",
+      "guidePage": 283
+    },
+    {
+      "country": "Slovenia",
+      "capital": "Ljubljana",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Slovenia.html",
+      "guidePage": 289
+    },
+    {
+      "country": "South Africa",
+      "capital": "Pretoria / Cape Town / Bloemfontein",
+      "currency": "ZAR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/South_Africa.html",
+      "guidePage": 293
+    },
+    {
+      "country": "South Korea",
+      "capital": "Seoul",
+      "currency": "KRW",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/South_Korea.html",
+      "guidePage": 299
+    },
+    {
+      "country": "South Sudan",
+      "capital": "Juba",
+      "currency": "SSP",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/South_Sudan.html",
+      "guidePage": 470
+    },
+    {
+      "country": "Spain",
+      "capital": "Madrid",
+      "currency": "EUR",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Spain.html",
+      "guidePage": 302
+    },
+    {
+      "country": "Sri Lanka",
+      "capital": "Sri Jayawardenepura Kotte",
+      "currency": "LKR",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Sri_Lanka.html",
+      "guidePage": 472
+    },
+    {
+      "country": "Suriname",
+      "capital": "Paramaribo",
+      "currency": "SRD",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Suriname.html",
+      "guidePage": 475
+    },
+    {
+      "country": "Sweden",
+      "capital": "Stockholm",
+      "currency": "SEK",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Sweden.html",
+      "guidePage": 310
+    },
+    {
+      "country": "Switzerland",
+      "capital": "Bern",
+      "currency": "CHF",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Switzerland.html",
+      "guidePage": 313
+    },
+    {
+      "country": "Taiwan",
+      "capital": "Taipei",
+      "currency": "TWD",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Taiwan.html",
+      "guidePage": 318
+    },
+    {
+      "country": "Tanzania",
+      "capital": "Dodoma",
+      "currency": "TZS",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Tanzania.html",
+      "guidePage": 477
+    },
+    {
+      "country": "Thailand",
+      "capital": "Bangkok",
+      "currency": "THB",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Thailand.html",
+      "guidePage": 323
+    },
+    {
+      "country": "Tunisia",
+      "capital": "Tunis",
+      "currency": "TND",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Tunisia.html",
+      "guidePage": 479
+    },
+    {
+      "country": "Turkey",
+      "capital": "Ankara",
+      "currency": "TRY",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Turkey.html",
+      "guidePage": 345
+    },
+    {
+      "country": "Uganda",
+      "capital": "Kampala",
+      "currency": "UGX",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Uganda.html",
+      "guidePage": 481
+    },
+    {
+      "country": "Ukraine",
+      "capital": "Kyiv",
+      "currency": "UAH",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Ukraine.html",
+      "guidePage": 332
+    },
+    {
+      "country": "United Arab Emirates",
+      "capital": "Abu Dhabi",
+      "currency": "AED",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/United_Arab_Emirates.html",
+      "guidePage": 338
+    },
+    {
+      "country": "United Kingdom",
+      "capital": "London",
+      "currency": "GBP",
+      "guideCoverage": "companion",
+      "sapEcpCountryVersion": "Not verified — additional existing workbook",
+      "url": "https://nbnayak88.github.io/payroll/UK_ECP_Payroll_Configurator.html",
+      "guidePage": null
+    },
+    {
+      "country": "United States",
+      "capital": "Washington, D.C.",
+      "currency": "USD",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/United_States.html",
+      "guidePage": 367
+    },
+    {
+      "country": "Uruguay",
+      "capital": "Montevideo",
+      "currency": "UYU",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Uruguay.html",
+      "guidePage": 483
+    },
+    {
+      "country": "Venezuela",
+      "capital": "Caracas",
+      "currency": "VES",
+      "guideCoverage": "main",
+      "sapEcpCountryVersion": "Not independently verified — SAP main country chapter",
+      "url": "https://nbnayak88.github.io/payroll/Venezuela.html",
+      "guidePage": 379
+    },
+    {
+      "country": "Vietnam",
+      "capital": "Hanoi",
+      "currency": "VND",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Vietnam.html",
+      "guidePage": 485
+    },
+    {
+      "country": "Zambia",
+      "capital": "Lusaka",
+      "currency": "ZMW",
+      "guideCoverage": "not-listed",
+      "sapEcpCountryVersion": "Not verified — not found in pinned 2H 2026 guide coverage",
+      "url": "https://nbnayak88.github.io/payroll/Zambia.html",
+      "guidePage": null
+    },
+    {
+      "country": "Zimbabwe",
+      "capital": "Harare",
+      "currency": "ZWG",
+      "guideCoverage": "appendix",
+      "sapEcpCountryVersion": "Not verified — SAP appendix replication coverage",
+      "url": "https://nbnayak88.github.io/payroll/Zimbabwe.html",
+      "guidePage": 487
+    }
+  ]
+}
