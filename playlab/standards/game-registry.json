@@ -1,0 +1,979 @@
+{
+  "schemaVersion": "1.0.0",
+  "status": "specified-not-implemented",
+  "templateCount": 108,
+  "templates": [
+    {
+      "templateId": "PL108-001",
+      "family": "Quiz Arena",
+      "name": "Rapid Fire Quiz",
+      "playerAction": "Answer questions against a countdown",
+      "winCondition": "Meet the streak and score threshold",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-002",
+      "family": "Quiz Arena",
+      "name": "Millionaire Challenge",
+      "playerAction": "Choose answers while managing lifelines and prize levels",
+      "winCondition": "Clear the final level",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-003",
+      "family": "Quiz Arena",
+      "name": "Jeopardy Board",
+      "playerAction": "Choose a category and stake, then answer",
+      "winCondition": "Earn the target points before rounds expire",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-004",
+      "family": "Quiz Arena",
+      "name": "Quiz Wheel",
+      "playerAction": "Spin a wheel and answer the selected challenge",
+      "winCondition": "Complete the required spins and score target",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-005",
+      "family": "Quiz Arena",
+      "name": "True-or-False Blitz",
+      "playerAction": "Classify time-limited statements",
+      "winCondition": "Reach the accuracy threshold",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-006",
+      "family": "Quiz Arena",
+      "name": "Last Learner Standing",
+      "playerAction": "Survive successive elimination questions",
+      "winCondition": "Survive the final round",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-007",
+      "family": "Quiz Arena",
+      "name": "Risk Your Points",
+      "playerAction": "Wager earned points before answering",
+      "winCondition": "Reach the final points threshold",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-008",
+      "family": "Quiz Arena",
+      "name": "Trivia Bingo",
+      "playerAction": "Answer clues to mark grid cells",
+      "winCondition": "Complete a valid bingo line",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-009",
+      "family": "Quiz Arena",
+      "name": "Quiz Boss Battle",
+      "playerAction": "Defeat escalating question bosses with limited lives",
+      "winCondition": "Defeat the final boss",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-010",
+      "family": "Word Arena",
+      "name": "Crossword Challenge",
+      "playerAction": "Fill intersecting clue answers on a letter grid",
+      "winCondition": "Complete the crossword correctly",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-011",
+      "family": "Word Arena",
+      "name": "Word Search Hunt",
+      "playerAction": "Find hidden terms in a letter matrix",
+      "winCondition": "Find all required terms",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-012",
+      "family": "Word Arena",
+      "name": "Hangman Rescue",
+      "playerAction": "Guess letters while managing limited mistakes",
+      "winCondition": "Reveal the phrase before attempts run out",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-013",
+      "family": "Word Arena",
+      "name": "Word Scramble",
+      "playerAction": "Reorder letter tiles into terms",
+      "winCondition": "Solve the required scrambled terms",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-014",
+      "family": "Word Arena",
+      "name": "Anagram Race",
+      "playerAction": "Discover valid anagrams under time pressure",
+      "winCondition": "Clear the target number of rounds",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-015",
+      "family": "Word Arena",
+      "name": "Word Ladder",
+      "playerAction": "Change one letter per move to reach the target word",
+      "winCondition": "Reach the destination using legal words",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-016",
+      "family": "Word Arena",
+      "name": "Missing Letters",
+      "playerAction": "Fill gaps in partially hidden terms",
+      "winCondition": "Complete the set within the error budget",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-017",
+      "family": "Word Arena",
+      "name": "Cryptogram Decoder",
+      "playerAction": "Crack a substitution cipher using clues",
+      "winCondition": "Decode the complete message",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-018",
+      "family": "Word Arena",
+      "name": "Codeword Puzzle",
+      "playerAction": "Deduce numbered letter substitutions across a grid",
+      "winCondition": "Fill every numbered cell correctly",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-019",
+      "family": "Board Arena",
+      "name": "Snakes & Ladders",
+      "playerAction": "Roll a die and move after challenge outcomes",
+      "winCondition": "Reach the finish square",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-020",
+      "family": "Board Arena",
+      "name": "Knowledge Ludo",
+      "playerAction": "Move tokens through turns and challenge gates",
+      "winCondition": "Bring required tokens home",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-021",
+      "family": "Board Arena",
+      "name": "Monopoly Simulation",
+      "playerAction": "Buy, trade and budget through a turn-based board",
+      "winCondition": "Achieve a declared asset or score target",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-022",
+      "family": "Board Arena",
+      "name": "Trivia Tic-Tac-Toe",
+      "playerAction": "Claim cells by solving challenges",
+      "winCondition": "Complete three consecutive cells",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-023",
+      "family": "Board Arena",
+      "name": "Knowledge Connect Four",
+      "playerAction": "Claim column slots after a correct response",
+      "winCondition": "Connect four tokens",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-024",
+      "family": "Board Arena",
+      "name": "Checkers Challenge",
+      "playerAction": "Advance and capture pieces on a turn board",
+      "winCondition": "Capture or immobilize the opponent",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-025",
+      "family": "Board Arena",
+      "name": "Chess Puzzle Duel",
+      "playerAction": "Choose tactical chess moves against puzzle states",
+      "winCondition": "Resolve the assigned tactical positions",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-026",
+      "family": "Board Arena",
+      "name": "Dice Decision Derby",
+      "playerAction": "Roll dice and play scenario decision cards",
+      "winCondition": "Reach the finish or target score",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-027",
+      "family": "Board Arena",
+      "name": "Board Race 100",
+      "playerAction": "Move across a 100-square challenge board",
+      "winCondition": "Reach square 100",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-028",
+      "family": "Memory Arena",
+      "name": "Memory Flip",
+      "playerAction": "Reveal concealed cards to discover matches",
+      "winCondition": "Match every pair",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-029",
+      "family": "Memory Arena",
+      "name": "Concept Match",
+      "playerAction": "Pair related cards under a time limit",
+      "winCondition": "Match all required relationships",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-030",
+      "family": "Memory Arena",
+      "name": "System Match-Up",
+      "playerAction": "Connect two groups of matched concept cards",
+      "winCondition": "Complete all unique matches",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-031",
+      "family": "Memory Arena",
+      "name": "Context Match",
+      "playerAction": "Connect a context card with its fitting response",
+      "winCondition": "Match the target number of contexts",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-032",
+      "family": "Memory Arena",
+      "name": "Picture Pair Hunt",
+      "playerAction": "Reveal and match visual cards",
+      "winCondition": "Clear the picture deck",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-033",
+      "family": "Memory Arena",
+      "name": "Triple Match",
+      "playerAction": "Connect three mutually related cards",
+      "winCondition": "Complete every triple",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-034",
+      "family": "Memory Arena",
+      "name": "Memory Chain",
+      "playerAction": "Reproduce an increasing item sequence",
+      "winCondition": "Survive the target number of chains",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-035",
+      "family": "Memory Arena",
+      "name": "Odd One Out",
+      "playerAction": "Select anomalous items from sets",
+      "winCondition": "Find all anomalies within the mistake limit",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-036",
+      "family": "Memory Arena",
+      "name": "Matching Marathon",
+      "playerAction": "Clear consecutive matching boards",
+      "winCondition": "Finish every stage",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-037",
+      "family": "Logic Arena",
+      "name": "Sudoku Challenge",
+      "playerAction": "Fill a constrained number or symbol grid",
+      "winCondition": "Satisfy all row, column and box rules",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-038",
+      "family": "Logic Arena",
+      "name": "Logic Grid Detective",
+      "playerAction": "Eliminate possibilities using clue statements",
+      "winCondition": "Derive one valid full assignment",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-039",
+      "family": "Logic Arena",
+      "name": "Mastermind Codebreaker",
+      "playerAction": "Guess a hidden sequence and interpret feedback",
+      "winCondition": "Crack the secret within allowed guesses",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-040",
+      "family": "Logic Arena",
+      "name": "Minesweeper",
+      "playerAction": "Reveal safe cells using adjacency clues",
+      "winCondition": "Reveal all safe cells",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-041",
+      "family": "Logic Arena",
+      "name": "Nonogram Puzzle",
+      "playerAction": "Shade cells from row and column number clues",
+      "winCondition": "Complete the intended pixel grid",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-042",
+      "family": "Logic Arena",
+      "name": "Pattern Predictor",
+      "playerAction": "Choose the next item in a pattern series",
+      "winCondition": "Solve required pattern rounds",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-043",
+      "family": "Logic Arena",
+      "name": "Logic Gates",
+      "playerAction": "Join gates and signals to reach desired outputs",
+      "winCondition": "Match all target outputs",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-044",
+      "family": "Logic Arena",
+      "name": "Einstein Riddle",
+      "playerAction": "Resolve a complex multi-attribute deduction problem",
+      "winCondition": "Find the complete consistent solution",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-045",
+      "family": "Logic Arena",
+      "name": "Binary Puzzle",
+      "playerAction": "Fill a grid with binary symbols under constraints",
+      "winCondition": "Validate the entire grid",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-046",
+      "family": "Adventure Arena",
+      "name": "Escape Room",
+      "playerAction": "Solve sequential room puzzles to unlock doors",
+      "winCondition": "Escape the final room",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-047",
+      "family": "Adventure Arena",
+      "name": "Treasure Hunt",
+      "playerAction": "Follow clues between hidden locations",
+      "winCondition": "Discover the final treasure",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-048",
+      "family": "Adventure Arena",
+      "name": "Mission Quest",
+      "playerAction": "Explore stages and complete mandatory objectives",
+      "winCondition": "Finish the final mission objective",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-049",
+      "family": "Adventure Arena",
+      "name": "Mystery Mansion",
+      "playerAction": "Investigate rooms and unlock hidden paths",
+      "winCondition": "Unlock the final chamber",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-050",
+      "family": "Adventure Arena",
+      "name": "Labyrinth Escape",
+      "playerAction": "Navigate passages and challenge gates",
+      "winCondition": "Reach the maze exit",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-051",
+      "family": "Adventure Arena",
+      "name": "Lost Data Expedition",
+      "playerAction": "Recover scattered items through challenge stages",
+      "winCondition": "Collect all required fragments",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-052",
+      "family": "Adventure Arena",
+      "name": "Secret Vault",
+      "playerAction": "Solve nested locks and coded combinations",
+      "winCondition": "Open the final vault",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-053",
+      "family": "Adventure Arena",
+      "name": "Island Survival",
+      "playerAction": "Choose actions and manage dwindling resources",
+      "winCondition": "Reach rescue with resources above zero",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-054",
+      "family": "Adventure Arena",
+      "name": "Time Travel Rescue",
+      "playerAction": "Resolve linked puzzles in branching time periods",
+      "winCondition": "Restore the complete timeline",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-055",
+      "family": "Arcade Arena",
+      "name": "Whack-a-Target",
+      "playerAction": "Hit valid moving targets while avoiding decoys",
+      "winCondition": "Reach the required hit score",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-056",
+      "family": "Arcade Arena",
+      "name": "Falling Answers",
+      "playerAction": "Catch correct falling objects and dodge wrong ones",
+      "winCondition": "Meet the target while lives remain",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-057",
+      "family": "Arcade Arena",
+      "name": "Knowledge Runner",
+      "playerAction": "Run, jump and enter valid challenge lanes",
+      "winCondition": "Complete the course",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-058",
+      "family": "Arcade Arena",
+      "name": "Space Invaders Quiz",
+      "playerAction": "Shoot targets that match the prompt",
+      "winCondition": "Clear enemy waves",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-059",
+      "family": "Arcade Arena",
+      "name": "Balloon Pop",
+      "playerAction": "Pop correct balloons under a timer",
+      "winCondition": "Clear the required balloon rounds",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-060",
+      "family": "Arcade Arena",
+      "name": "Brick Breaker",
+      "playerAction": "Bounce a ball to break rule-driven blocks",
+      "winCondition": "Clear all required blocks",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-061",
+      "family": "Arcade Arena",
+      "name": "Target Shooter",
+      "playerAction": "Aim and select correct moving target symbols",
+      "winCondition": "Reach the target score",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-062",
+      "family": "Arcade Arena",
+      "name": "Reaction Racer",
+      "playerAction": "Steer through moving decision gates",
+      "winCondition": "Finish all laps",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-063",
+      "family": "Arcade Arena",
+      "name": "Asteroid Defender",
+      "playerAction": "Intercept hazardous objects before impact",
+      "winCondition": "Defend through the final wave",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-064",
+      "family": "Sequence Arena",
+      "name": "Sequence Sprint",
+      "playerAction": "Reorder shuffled cards into a valid sequence",
+      "winCondition": "Submit the complete correct order",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-065",
+      "family": "Sequence Arena",
+      "name": "Workflow Maze",
+      "playerAction": "Choose branches at process decision nodes",
+      "winCondition": "Reach a valid workflow end state",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-066",
+      "family": "Sequence Arena",
+      "name": "Pipeline Builder",
+      "playerAction": "Connect components with valid directed edges",
+      "winCondition": "Produce a valid end-to-end pipeline",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-067",
+      "family": "Sequence Arena",
+      "name": "Dependency Dominoes",
+      "playerAction": "Place pieces according to prerequisite constraints",
+      "winCondition": "Place all pieces legally",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-068",
+      "family": "Sequence Arena",
+      "name": "Process Jigsaw",
+      "playerAction": "Assemble disjointed process segments",
+      "winCondition": "Reconstruct the complete flow",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-069",
+      "family": "Sequence Arena",
+      "name": "Critical Path Race",
+      "playerAction": "Sequence tasks under time and dependency constraints",
+      "winCondition": "Finish within the simulated deadline",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-070",
+      "family": "Sequence Arena",
+      "name": "Flowchart Fixer",
+      "playerAction": "Repair missing or incorrect routing nodes",
+      "winCondition": "Pass all flow validation tests",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-071",
+      "family": "Sequence Arena",
+      "name": "Bottleneck Buster",
+      "playerAction": "Change capacity or sequence to relieve constraints",
+      "winCondition": "Meet the throughput target",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-072",
+      "family": "Sequence Arena",
+      "name": "Approval Relay",
+      "playerAction": "Route cases to eligible approving roles",
+      "winCondition": "Complete all cases without invalid approval",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-073",
+      "family": "Strategy Arena",
+      "name": "Operations Tycoon",
+      "playerAction": "Manage demand, capacity and quality across rounds",
+      "winCondition": "Reach the performance target",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-074",
+      "family": "Strategy Arena",
+      "name": "Budget Battle",
+      "playerAction": "Allocate a limited budget across competing choices",
+      "winCondition": "Achieve the objective under budget",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-075",
+      "family": "Strategy Arena",
+      "name": "Resource Rescue",
+      "playerAction": "Assign scarce resources to tasks",
+      "winCondition": "Cover all critical tasks within constraints",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-076",
+      "family": "Strategy Arena",
+      "name": "Network Commander",
+      "playerAction": "Move resources through an evolving network",
+      "winCondition": "Meet delivery targets over rounds",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-077",
+      "family": "Strategy Arena",
+      "name": "Factory Scheduler",
+      "playerAction": "Schedule jobs and machines to avoid conflicts",
+      "winCondition": "Complete required jobs by deadline",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-078",
+      "family": "Strategy Arena",
+      "name": "Talent Rush",
+      "playerAction": "Select characters with balanced abilities for tasks",
+      "winCondition": "Build a team that passes the challenge",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-079",
+      "family": "Strategy Arena",
+      "name": "Compliance Commander",
+      "playerAction": "Place controls against evolving risk events",
+      "winCondition": "Finish with risk below the threshold",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-080",
+      "family": "Strategy Arena",
+      "name": "Market Strategy Duel",
+      "playerAction": "Select competitive moves over simulated rounds",
+      "winCondition": "Outperform the rival score",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-081",
+      "family": "Strategy Arena",
+      "name": "Crisis Control",
+      "playerAction": "Contain escalating hazards with action costs",
+      "winCondition": "Restore safe operating conditions",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-082",
+      "family": "Mystery Arena",
+      "name": "Error Detective",
+      "playerAction": "Examine clues and select a root cause",
+      "winCondition": "Identify and resolve the correct fault",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-083",
+      "family": "Mystery Arena",
+      "name": "Log File Hunt",
+      "playerAction": "Search timestamped event trails for decisive clues",
+      "winCondition": "Identify the failing event chain",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-084",
+      "family": "Mystery Arena",
+      "name": "Bug Bounty",
+      "playerAction": "Inspect a simulated system and fix hidden defects",
+      "winCondition": "Resolve the required defects",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-085",
+      "family": "Mystery Arena",
+      "name": "Data Reconciliation Race",
+      "playerAction": "Compare paired records and correct mismatches",
+      "winCondition": "Reconcile all target records",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-086",
+      "family": "Mystery Arena",
+      "name": "Configuration Spotter",
+      "playerAction": "Find invalid values inside a mock setup",
+      "winCondition": "Locate every required anomaly",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-087",
+      "family": "Mystery Arena",
+      "name": "Root Cause Ladder",
+      "playerAction": "Link evidence into a defensible causal chain",
+      "winCondition": "Construct the valid causal path",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-088",
+      "family": "Mystery Arena",
+      "name": "Fraud Investigator",
+      "playerAction": "Examine transactions and evidence for suspicious patterns",
+      "winCondition": "Identify the supported case",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-089",
+      "family": "Mystery Arena",
+      "name": "Integration Rescue",
+      "playerAction": "Repair broken simulated data exchanges",
+      "winCondition": "Pass the integration test suite",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-090",
+      "family": "Mystery Arena",
+      "name": "Audit Evidence Hunt",
+      "playerAction": "Locate missing evidence in a document collection",
+      "winCondition": "Meet the audit evidence checklist",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-091",
+      "family": "Visual Arena",
+      "name": "Spot the Difference",
+      "playerAction": "Compare two images to locate discrepancies",
+      "winCondition": "Identify the required differences",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-092",
+      "family": "Visual Arena",
+      "name": "Architecture Jigsaw",
+      "playerAction": "Fit visual fragments into a coherent diagram",
+      "winCondition": "Assemble the correct picture",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-093",
+      "family": "Visual Arena",
+      "name": "Drag-and-Drop Builder",
+      "playerAction": "Place labeled objects into valid locations",
+      "winCondition": "Complete a constraint-valid layout",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-094",
+      "family": "Visual Arena",
+      "name": "Map Explorer",
+      "playerAction": "Follow location clues across a map",
+      "winCondition": "Locate the final destination",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-095",
+      "family": "Visual Arena",
+      "name": "Visual Memory Grid",
+      "playerAction": "Study briefly shown symbols and reconstruct them",
+      "winCondition": "Recreate the target pattern",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-096",
+      "family": "Visual Arena",
+      "name": "Circuit Connector",
+      "playerAction": "Rotate and join connectors into a continuous route",
+      "winCondition": "Complete the valid circuit",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-097",
+      "family": "Visual Arena",
+      "name": "Tile Slider",
+      "playerAction": "Slide adjacent tiles to restore a target arrangement",
+      "winCondition": "Solve the sliding puzzle",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-098",
+      "family": "Visual Arena",
+      "name": "Network Path Finder",
+      "playerAction": "Explore a node graph to identify valid routes",
+      "winCondition": "Reach target nodes under path rules",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-099",
+      "family": "Visual Arena",
+      "name": "Blueprint Repair",
+      "playerAction": "Diagnose gaps in a visual blueprint and place corrections",
+      "winCondition": "Restore a validated blueprint",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-100",
+      "family": "Numbers Arena",
+      "name": "Calculation Race",
+      "playerAction": "Solve quantitative prompts against the clock",
+      "winCondition": "Reach the accuracy and time target",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-101",
+      "family": "Numbers Arena",
+      "name": "Numbers Puzzle",
+      "playerAction": "Combine provided values under explicit rules",
+      "winCondition": "Reach the numeric goal",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-102",
+      "family": "Numbers Arena",
+      "name": "Equation Escape",
+      "playerAction": "Solve equations to open sequential locks",
+      "winCondition": "Unlock the final door",
+      "defaultMinutes": 30,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-103",
+      "family": "Numbers Arena",
+      "name": "Number Bingo",
+      "playerAction": "Calculate results and mark matching board cells",
+      "winCondition": "Complete a bingo line",
+      "defaultMinutes": 5,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-104",
+      "family": "Numbers Arena",
+      "name": "Cost Optimizer",
+      "playerAction": "Adjust parameters under spending constraints",
+      "winCondition": "Find a valid low-cost solution",
+      "defaultMinutes": 10,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-105",
+      "family": "Numbers Arena",
+      "name": "Forecast Challenge",
+      "playerAction": "Predict values from a presented sequence or data set",
+      "winCondition": "Meet the forecast-error threshold",
+      "defaultMinutes": 15,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-106",
+      "family": "Numbers Arena",
+      "name": "Percentage Duel",
+      "playerAction": "Compute changes, ratios and percentages across rounds",
+      "winCondition": "Win the required rounds",
+      "defaultMinutes": 20,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-107",
+      "family": "Numbers Arena",
+      "name": "Break-Even Battle",
+      "playerAction": "Adjust price, costs and quantities in a simulation",
+      "winCondition": "Reach the break-even objective",
+      "defaultMinutes": 25,
+      "status": "specified"
+    },
+    {
+      "templateId": "PL108-108",
+      "family": "Numbers Arena",
+      "name": "Profit Quest",
+      "playerAction": "Manage trade-offs through financial rounds",
+      "winCondition": "Achieve the final target surplus",
+      "defaultMinutes": 30,
+      "status": "specified"
+    }
+  ]
+}
