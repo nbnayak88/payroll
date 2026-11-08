@@ -1,0 +1,765 @@
+[
+  {
+    "path": "Angola.html",
+    "bytes": 260318,
+    "sha256": "30582900a5823012367036d5b32b91f63979160ec7ad544cde34f44ca921ffc5",
+    "gitBlobSha": "15339e67b5dacb91071e3273a9726a1e9b62371f",
+    "source": "Angola.html"
+  },
+  {
+    "path": "Argentina.html",
+    "bytes": 344851,
+    "sha256": "15c5901f30d2830ef0b58487b18ef6087563ce2a734934dbd13a03aa34dc4d9e",
+    "gitBlobSha": "af2a645d3b017c56c2194094e9abf970e4d08d54",
+    "source": "Argentina.html"
+  },
+  {
+    "path": "Australia.html",
+    "bytes": 340764,
+    "sha256": "52c4581b380ae286ac1e057418b537dda714700c9e3f6cfc3af7a934c4832005",
+    "gitBlobSha": "74d3f64531a02b249880408d81c85b67cfdad1be",
+    "source": "Australia.html"
+  },
+  {
+    "path": "Austria.html",
+    "bytes": 314019,
+    "sha256": "3df2fc493b91fd34c90cc7f81d0679a50fb2d47cc828114f75290897c36496bf",
+    "gitBlobSha": "b2ba96aafff3971f1130c6f816f21dfa3dbcb03a",
+    "source": "Austria.html"
+  },
+  {
+    "path": "Bahrain.html",
+    "bytes": 339032,
+    "sha256": "7dcdaf2826524d006d4a9f1c92174f1e488be524adc071c31ea9a1a13fad7650",
+    "gitBlobSha": "8db00a8f4cd78531e49d67a88fd46d24bc7d4d94",
+    "source": "Bahrain.html"
+  },
+  {
+    "path": "Bangladesh.html",
+    "bytes": 260685,
+    "sha256": "7a24ecbdc767f0dff03c150d968cf7d43947ef1f4eb35864c53e3b2b810e71fa",
+    "gitBlobSha": "aa2809076e391536570b528c28a2d29dc60f29db",
+    "source": "Bangladesh.html"
+  },
+  {
+    "path": "Belarus.html",
+    "bytes": 260457,
+    "sha256": "2c4f51be849e7f9e8ee59f64e54759f4b0ac1db18955976e3862ff62ce25c5e6",
+    "gitBlobSha": "ccfaadd7eef64482431a5558fce17cf1c4270637",
+    "source": "Belarus.html"
+  },
+  {
+    "path": "Belgium.html",
+    "bytes": 314595,
+    "sha256": "1493129dc7c3178d911d9ca754292425bbc276500ee498afa18efcb74fa20d2f",
+    "gitBlobSha": "321ad7927abc9af0bedf8aa377baf8f3ad4132a4",
+    "source": "Belgium.html"
+  },
+  {
+    "path": "Bolivia.html",
+    "bytes": 473594,
+    "sha256": "23b15755659bf392ab656c4f900a8287fc8c9eb3e16f928c6baa85c042b58ed9",
+    "gitBlobSha": "f9af02b5dc4bce83a289292906a44a8de392a36b",
+    "source": "Bolivia.html"
+  },
+  {
+    "path": "Botswana.html",
+    "bytes": 260450,
+    "sha256": "0c0270dedd3113e22cf69b5cec24f3f3a26351069b90d2773ae62597a7169dae",
+    "gitBlobSha": "6e45efb5b0ccda0e21521b830d44796a50470026",
+    "source": "Botswana.html"
+  },
+  {
+    "path": "Brazil.html",
+    "bytes": 346029,
+    "sha256": "5836c64593db18116477c401ecafc79ab3d6af36cfa1ebfdc85ba5cd8abe6d0f",
+    "gitBlobSha": "dd921163b7b575227ebec74199fea1e689e1d98a",
+    "source": "Brazil.html"
+  },
+  {
+    "path": "Bulgaria.html",
+    "bytes": 314454,
+    "sha256": "0f9d9418a7276db41f08f9b203fb4a10beae49a42c4e1e716196221ea29802b7",
+    "gitBlobSha": "4507daa4f430725069e38bb87a88bdbe3fa7d1d3",
+    "source": "Bulgaria.html"
+  },
+  {
+    "path": "Cambodia.html",
+    "bytes": 260563,
+    "sha256": "0ba8059ab956b12ff2012cc957156696d9d24a6c5a2cb8a7f5ac25990403606e",
+    "gitBlobSha": "813568b2225594ba1731377a7191f6cc3d9232a2",
+    "source": "Cambodia.html"
+  },
+  {
+    "path": "Canada.html",
+    "bytes": 339180,
+    "sha256": "c772393bd4235167a08fb8bf93decc13f519443a511830e9dff01e195e4b0cf9",
+    "gitBlobSha": "2a2c8f3cd21b77b1b8095706fffea61810b08ca5",
+    "source": "Canada.html"
+  },
+  {
+    "path": "Chile.html",
+    "bytes": 338738,
+    "sha256": "e7021873399db897d6ad4dd07e5ec58a532fe935a94093df11c064b407c04f25",
+    "gitBlobSha": "edf80bc7084edbb666fa4f658ebe2473a7bb5fa3",
+    "source": "Chile.html"
+  },
+  {
+    "path": "China.html",
+    "bytes": 339026,
+    "sha256": "a1d33b56dac262995b961549e359d2e5cc154d81173aa8e9d69bb8ed0cf52b2e",
+    "gitBlobSha": "ff115bd3ab9d443221b977e27b02da7c0d8ff629",
+    "source": "China.html"
+  },
+  {
+    "path": "Colombia.html",
+    "bytes": 337748,
+    "sha256": "5849f4413e87ae7ef1ebb1859808dd114f6312d71547c9ccb87263cca0c29457",
+    "gitBlobSha": "c384e6ffa7963e0987cde4d84fb1b81596b91287",
+    "source": "Colombia.html"
+  },
+  {
+    "path": "Costa_Rica.html",
+    "bytes": 260809,
+    "sha256": "717ba2ab9c3d548f5aaea97d264035f7add96956d64cb40b6d061c30c1609a77",
+    "gitBlobSha": "1ab63044be693cbb53492f921a90418fdcb4dfd0",
+    "source": "Costa_Rica.html"
+  },
+  {
+    "path": "Croatia.html",
+    "bytes": 352878,
+    "sha256": "a98505d7a1f0b01e1dbd9ba92e46c1ca8a54406ec84657379ecade0774c1c399",
+    "gitBlobSha": "d554f3a2ae181f993f374b06521de7453963496a",
+    "source": "Croatia.html"
+  },
+  {
+    "path": "Czech_Republic.html",
+    "bytes": 315002,
+    "sha256": "547974d4ee19ce3dd7a6a0751c923890c4012d2afae83d56aa8234224a0a8490",
+    "gitBlobSha": "1690faa6ab0dc8c12a96adc386971eec2fdea653",
+    "source": "Czech_Republic.html"
+  },
+  {
+    "path": "Denmark.html",
+    "bytes": 313548,
+    "sha256": "c2f291019367879cb60aa00b088beea7d99d3e7812d898121be496012156fd9a",
+    "gitBlobSha": "4550ea90376468fec51ea33839e035a4db7e9488",
+    "source": "Denmark.html"
+  },
+  {
+    "path": "Dominican_Republic.html",
+    "bytes": 261468,
+    "sha256": "06af8315541c1c141a3ed157d0cd9d50dc79a96b5dbbdf17939b7a12b8f688cd",
+    "gitBlobSha": "f096efaa3c34e87c8b1743848bc18e2b0fcae2b1",
+    "source": "Dominican_Republic.html"
+  },
+  {
+    "path": "Ecuador.html",
+    "bytes": 374120,
+    "sha256": "4d8ba8b62ad55a736b691d4d81700b708f44db97fb35425fd407082690a1b5d9",
+    "gitBlobSha": "4ae7edb9062d84f52860de572d7a7509f54bab52",
+    "source": "Ecuador.html"
+  },
+  {
+    "path": "Egypt.html",
+    "bytes": 349570,
+    "sha256": "9d9ac2b2961104dbd4af414b661222f955f88315f60dd0a3910683df805e0995",
+    "gitBlobSha": "7bc3709c39b79520dd7ef99ceaa148cf89d7030b",
+    "source": "Egypt.html"
+  },
+  {
+    "path": "El_Salvador.html",
+    "bytes": 260989,
+    "sha256": "1e4b4b4a2903f3033f4393cb80b79e606af2525c756a7b0ae5000181a5cc4820",
+    "gitBlobSha": "62e811d913f55849963a75dd2d16224186f82275",
+    "source": "El_Salvador.html"
+  },
+  {
+    "path": "Estonia.html",
+    "bytes": 260310,
+    "sha256": "d1428afcb3084a7b5e8723fe41bf1cdebdb58c7069ac5ee5004afbf82c06a077",
+    "gitBlobSha": "67a844562949601de94dcaabd1866d38faad0eb9",
+    "source": "Estonia.html"
+  },
+  {
+    "path": "Finland.html",
+    "bytes": 313810,
+    "sha256": "22813e6c6117bf2f8fe4ff0da79e450095cfe9a77ca16698105c587d55593324",
+    "gitBlobSha": "69525fe76efc8cc95c31a8c0eebdf62509e2ec2f",
+    "source": "Finland.html"
+  },
+  {
+    "path": "France.html",
+    "bytes": 313339,
+    "sha256": "7279582f6825c1b7cb6f587d7d3b4cfd2f0786c178e124f1356d3ec5e6bb3b3c",
+    "gitBlobSha": "800e466423b3d8d07b30af0a93b5f77b811591fc",
+    "source": "France.html"
+  },
+  {
+    "path": "Germany.html",
+    "bytes": 314450,
+    "sha256": "d9888529f01144992ba5db2e9512e334a0bad231b84341d9ef5ac6367445f544",
+    "gitBlobSha": "c31f452da2ab47fa9c38d8fe14bacbfb200f1e21",
+    "source": "Germany.html"
+  },
+  {
+    "path": "Ghana.html",
+    "bytes": 260178,
+    "sha256": "aedc1dd651a694cbcbbba5f75664d93eb42cfd48066b0fec143a08d896e3306c",
+    "gitBlobSha": "a4d71a6040a9585943a18c100c286e3ae871eb4d",
+    "source": "Ghana.html"
+  },
+  {
+    "path": "Greece.html",
+    "bytes": 315302,
+    "sha256": "36881eedc223e2496fc60e33b86dd2b1d953078c844dd27963edddafdbb0553b",
+    "gitBlobSha": "19e860d40c0f6062ac59c12c7b35f16962c35479",
+    "source": "Greece.html"
+  },
+  {
+    "path": "Guatemala.html",
+    "bytes": 260774,
+    "sha256": "50c341c579bc0c6496a1da4b650a069f34dff7baba37e06b36faaeb12a8839ed",
+    "gitBlobSha": "3fc8305786b4f41fc14b856c4a564dedb2a13a03",
+    "source": "Guatemala.html"
+  },
+  {
+    "path": "Guyana.html",
+    "bytes": 335986,
+    "sha256": "efbf348d3065f0aa151603a66d0adba07ef78c4e5f62c7e29115d2b32832c2d8",
+    "gitBlobSha": "0f48d7e03ece3107db47d59533db1935e62e784d",
+    "source": "Guyana.html"
+  },
+  {
+    "path": "Honduras.html",
+    "bytes": 260604,
+    "sha256": "c74b18fb2984d0b82c74fa7c8fc2943a7a60a98261744ad27e594759ab452cc8",
+    "gitBlobSha": "d05262d0bd959da3b9d35910ba6689686f508dcb",
+    "source": "Honduras.html"
+  },
+  {
+    "path": "Hong_Kong.html",
+    "bytes": 341626,
+    "sha256": "bea091041a6ba4085b30701817458204755e5590634cd06970b5dff3cde8b4c2",
+    "gitBlobSha": "a7ef06755225cecedb671c3fa0066f1d9594067b",
+    "source": "Hong_Kong.html"
+  },
+  {
+    "path": "Hungary.html",
+    "bytes": 313572,
+    "sha256": "9759f474d972a3d6b76a8b5b9f1bf3e31a30604d2d8951586f32246baeeab4b6",
+    "gitBlobSha": "a78d2e8ef820527e07135979c9e5b04b2d49e54c",
+    "source": "Hungary.html"
+  },
+  {
+    "path": "Iceland.html",
+    "bytes": 260685,
+    "sha256": "5b9bbbf518490b2fb4ab949cac38adac60f98c8bfc2a54238e464a175b22ceae",
+    "gitBlobSha": "bdf31c182440d1068f0ab41bda7f17fe6e6ac383",
+    "source": "Iceland.html"
+  },
+  {
+    "path": "India.html",
+    "bytes": 345212,
+    "sha256": "0f2e1466a0bc9cc9de80f61f5ab7266bdec731ad009633799511713f3408149a",
+    "gitBlobSha": "2ca24e48acadab51468ea539accbc2033ca2f40b",
+    "source": "India.html"
+  },
+  {
+    "path": "Indonesia.html",
+    "bytes": 338512,
+    "sha256": "95d84192d8f351e7b9735a444240360e5a5ca226005b0d55c76af82fbb2f76b6",
+    "gitBlobSha": "f0003b0be2d235aaf4c7f81dbbd2e4feb28b313f",
+    "source": "Indonesia.html"
+  },
+  {
+    "path": "Iraq.html",
+    "bytes": 340309,
+    "sha256": "339b105e4f9ff38ef91acc96b744fc7bb0e10c67638656f6dca6871779e47ee4",
+    "gitBlobSha": "d72e8d66bfac32c52ec4541f1b68104565a6b631",
+    "source": "Iraq.html"
+  },
+  {
+    "path": "Ireland.html",
+    "bytes": 313632,
+    "sha256": "5f74765435ba78bcf4635855095ef03a1ad1d71b8bdf6c4ae5aa97a84c1d4e39",
+    "gitBlobSha": "39f1ebcfa457295d049d4fe27104637f57f0e633",
+    "source": "Ireland.html"
+  },
+  {
+    "path": "Isle_of_Man.html",
+    "bytes": 260714,
+    "sha256": "69e245b75030973fbd704a7d9e9517d522f64060c400c69c1525fb44c90dedca",
+    "gitBlobSha": "40cca1e02138c714648c4ce36b1822413f8085d6",
+    "source": "Isle_of_Man.html"
+  },
+  {
+    "path": "Israel.html",
+    "bytes": 260270,
+    "sha256": "dffff1041ade78a81170cd1feea00584b4db09bd6fb82023943459bccc1430f7",
+    "gitBlobSha": "3ebfa173f8d5e4dc8f1b1f3c38f78eb627c750e3",
+    "source": "Israel.html"
+  },
+  {
+    "path": "Italy.html",
+    "bytes": 313490,
+    "sha256": "51643a6fe7f8c19bd4c6b0b563f47bf273a9ec5b9c669767898df17c97840dde",
+    "gitBlobSha": "48467b113d79cd36b493e550c20850723e61c574",
+    "source": "Italy.html"
+  },
+  {
+    "path": "Japan.html",
+    "bytes": 342629,
+    "sha256": "7230fedfe278e607c4da7333fbff2feb54c83cd6e2844178a180f3741f388f61",
+    "gitBlobSha": "80faa58977066fbddbe6fdc76b3f209eb67c6f0d",
+    "source": "Japan.html"
+  },
+  {
+    "path": "Jordan.html",
+    "bytes": 260318,
+    "sha256": "b303dbeeed20355c5f4642b6e96b2e5e58dff5e5aa9bf02adde6a9482c9076d3",
+    "gitBlobSha": "1e19d8f5f7bbd92d8d20b2aab323980ed956d9e0",
+    "source": "Jordan.html"
+  },
+  {
+    "path": "Kazakhstan.html",
+    "bytes": 260873,
+    "sha256": "9960c06a33aea41fa0f5f747e8f368702d9853b3df10dc5f2355dca6325fd6a0",
+    "gitBlobSha": "818f4c3593c1f6f759587a29bdc8c41085a4820c",
+    "source": "Kazakhstan.html"
+  },
+  {
+    "path": "Kenya.html",
+    "bytes": 260294,
+    "sha256": "db3c549ad218ac019e36d055806e33d529ee486f1436c8463716ada1b118b19f",
+    "gitBlobSha": "888f74fd52f1e9a10ce5399705a93d4e009d98a1",
+    "source": "Kenya.html"
+  },
+  {
+    "path": "Kosovo.html",
+    "bytes": 260435,
+    "sha256": "0e6b48c3d6901081b3db010e0390ee5f76501b725121b1354e726cafafb52e41",
+    "gitBlobSha": "004cd63e8a4270d2cedda8c56eec577bfd91b7f1",
+    "source": "Kosovo.html"
+  },
+  {
+    "path": "Kuwait.html",
+    "bytes": 338616,
+    "sha256": "0e2435d15ae05ec96ac816c0061cc39ed56a9ffb376c67dd00af6e3c7ed8a69c",
+    "gitBlobSha": "819812e064019afa6d0c9ec1256fcae36429d209",
+    "source": "Kuwait.html"
+  },
+  {
+    "path": "Latvia.html",
+    "bytes": 260281,
+    "sha256": "272787e4e60cc0edcc7baf057bfdf23bee0315957eafd23a2c6c9bea6471bf82",
+    "gitBlobSha": "a35a294dcd981f1b15c56ac4f87b214ea085d23b",
+    "source": "Latvia.html"
+  },
+  {
+    "path": "Lebanon.html",
+    "bytes": 260381,
+    "sha256": "560f15e847b2f11197fdddc86b513f3da661e1b8f2eaa99678fbfe771c74b1dd",
+    "gitBlobSha": "d380c26d920e30b34115a4413a6fcfbaa956c86e",
+    "source": "Lebanon.html"
+  },
+  {
+    "path": "Lithuania.html",
+    "bytes": 260821,
+    "sha256": "366ab0070313c68dcf1e1d90a81d5e546161968210c14ab2eaba74bd9564222b",
+    "gitBlobSha": "d0bb0c4b402ce5f10f680d2047f794452567cf50",
+    "source": "Lithuania.html"
+  },
+  {
+    "path": "Luxembourg.html",
+    "bytes": 260771,
+    "sha256": "23f5718995a23c3606ab3350e8d19a43ed106480df811e2b70816b1654b29acb",
+    "gitBlobSha": "159de84778d6ef010f7e00b15d40f000da95cb81",
+    "source": "Luxembourg.html"
+  },
+  {
+    "path": "Malawi.html",
+    "bytes": 260363,
+    "sha256": "a330608197369fdc62ad715ccefde415c728b9a0b5762bc59d3da4c8820d7589",
+    "gitBlobSha": "36e0da4520b1fac0b3e9c3a08871dd782a2eb385",
+    "source": "Malawi.html"
+  },
+  {
+    "path": "Malaysia.html",
+    "bytes": 342820,
+    "sha256": "94d68bb87c8af5853818e3bd8fffa7383c186a73d05172146619e11ae28174f1",
+    "gitBlobSha": "91a3e9c7038ed057dc2699b5308452e546bbf108",
+    "source": "Malaysia.html"
+  },
+  {
+    "path": "Malta.html",
+    "bytes": 260208,
+    "sha256": "c9936411a41ccd4278abf99f8593e806aa21c6a8ae19e2dfba5444d06e54cdbb",
+    "gitBlobSha": "f180b81b6643f791e8893c196251b66a2a657e78",
+    "source": "Malta.html"
+  },
+  {
+    "path": "Mexico.html",
+    "bytes": 370990,
+    "sha256": "49df7660a9d005a48a966d6408a8527e034cbfde8c041dc254ed706174e88483",
+    "gitBlobSha": "76121301de368c2d68a98ac81fe3b7a553e0aecb",
+    "source": "Mexico.html"
+  },
+  {
+    "path": "Morocco.html",
+    "bytes": 260547,
+    "sha256": "50e99e6adb17dba46b773737d50c13812cf6021135ee84cfa6f9be42a0f8fafd",
+    "gitBlobSha": "40ca1e6fc818eabf03b9b0e912e9ce9f1df72f93",
+    "source": "Morocco.html"
+  },
+  {
+    "path": "Mozambique.html",
+    "bytes": 260693,
+    "sha256": "5afa060c19a488afc1bf187bac0442e662e63c352878cbea1a8e199e57ac5877",
+    "gitBlobSha": "20b2b6899d818522392509804f174bac9dae64c0",
+    "source": "Mozambique.html"
+  },
+  {
+    "path": "Myanmar.html",
+    "bytes": 260381,
+    "sha256": "dad111c10a7e3f98e5217d8074022302cd81e5184059905bb5514339d3ac0372",
+    "gitBlobSha": "1be8dac086389a52c91ae14c13be84926a740a94",
+    "source": "Myanmar.html"
+  },
+  {
+    "path": "Namibia.html",
+    "bytes": 260575,
+    "sha256": "efe6430a338eeb6a1c112b624d72abea056285f00320edfd3bc8fbdaef98b296",
+    "gitBlobSha": "9c0703da5e34f738eb66c543579beb70aea90e64",
+    "source": "Namibia.html"
+  },
+  {
+    "path": "Netherlands.html",
+    "bytes": 314363,
+    "sha256": "bfdec6feaf579a1226a1823e42c908ed4fdd784a7544e07f8e08c1211053adbc",
+    "gitBlobSha": "6bc7c2f326ee7df9d2bb7ccc38707790e40f49d7",
+    "source": "Netherlands.html"
+  },
+  {
+    "path": "New_Zealand.html",
+    "bytes": 340577,
+    "sha256": "41788a894914b49bdcd0a716ef014ad91ea85b4633958c22022ce4ec89d1719c",
+    "gitBlobSha": "daec8257f871741990ff9dcd66c6f5b423213ecd",
+    "source": "New_Zealand.html"
+  },
+  {
+    "path": "Nicaragua.html",
+    "bytes": 260641,
+    "sha256": "bb4350104d0eb8365e19b43ee95c958a9e2d003f55c2b84cbd4a634320e0869a",
+    "gitBlobSha": "3ff33db7a8880009f23a77f22a5619a65b845a88",
+    "source": "Nicaragua.html"
+  },
+  {
+    "path": "Nigeria.html",
+    "bytes": 260365,
+    "sha256": "83f8cf8250924b123af68cb3e05224d005309db8d0c29c1837c4c9b5cdebf224",
+    "gitBlobSha": "3dd321a3b3048dc99361454532842229d49af034",
+    "source": "Nigeria.html"
+  },
+  {
+    "path": "North_Macedonia.html",
+    "bytes": 261168,
+    "sha256": "0b9a99fa0de26866d6f2edf7fff14ebf42719e2ec6db558fc3a538a74b06f709",
+    "gitBlobSha": "0dab51e48dc9de010226ff21c59af833b468a324",
+    "source": "North_Macedonia.html"
+  },
+  {
+    "path": "Norway.html",
+    "bytes": 312654,
+    "sha256": "5fc1494a86299afabc9d94e649174a842467cbc583142d7eaddb2c6c650eaef1",
+    "gitBlobSha": "1133e7222f27cf1790db526721e54b0a880f3dd5",
+    "source": "Norway.html"
+  },
+  {
+    "path": "Oman.html",
+    "bytes": 367922,
+    "sha256": "2f0df053b77d4f6c980c8854b9aa9775c65ba81d324baec12d57518ff877c661",
+    "gitBlobSha": "dc081c0953607195429c3c76fc1751203ddbcf81",
+    "source": "Oman.html"
+  },
+  {
+    "path": "Pakistan.html",
+    "bytes": 260486,
+    "sha256": "39739a4b4ce16cadf5e1b0be5d3053db7491f6f16df965c622d831115f7a1804",
+    "gitBlobSha": "928507643d188fb450372f11172b6e5dd1f9245f",
+    "source": "Pakistan.html"
+  },
+  {
+    "path": "Panama.html",
+    "bytes": 260573,
+    "sha256": "03ff37e67afed368c571e984c982f8c73dfd5bce1de25038a46f3c2ae796142b",
+    "gitBlobSha": "34952b77c3caac31ae6c543d75185fdfa737bda7",
+    "source": "Panama.html"
+  },
+  {
+    "path": "Paraguay.html",
+    "bytes": 359394,
+    "sha256": "5964e8d327397c290a71057388e1a8934ed69f5cc37b8090d027d26866fb395d",
+    "gitBlobSha": "239bb89526e69ac4a507d262daca26b431dfb879",
+    "source": "Paraguay.html"
+  },
+  {
+    "path": "Peru.html",
+    "bytes": 338102,
+    "sha256": "c1a5a384a6372d80442561c870d888bf769d07d371748b11d4043b6fdccf6f3c",
+    "gitBlobSha": "1ef72571e554e897f6750b2aff152b0b9538e534",
+    "source": "Peru.html"
+  },
+  {
+    "path": "Philippines.html",
+    "bytes": 344334,
+    "sha256": "60bc1d509d51e2173b6be0f4e4e4a180498fbe18b75147d16655332ce339e506",
+    "gitBlobSha": "0a322ae07cd94d11fd88324add814782cdbda1c7",
+    "source": "Philippines.html"
+  },
+  {
+    "path": "Poland.html",
+    "bytes": 312958,
+    "sha256": "24c97e3d3c0ed174c407c17a05f7a2303d42afc5961dd3a0b0724c134239abe2",
+    "gitBlobSha": "d4b0a693823cc2ade6e0678fae64e9fe269c8f49",
+    "source": "Poland.html"
+  },
+  {
+    "path": "Portugal.html",
+    "bytes": 324863,
+    "sha256": "fc406704a81e68f57a4b0cd68ddbbf55a9289ace61a4523e45a91bac538f995c",
+    "gitBlobSha": "b318f9f7d4fa1b3341da06c640323889828f84ee",
+    "source": "Portugal.html"
+  },
+  {
+    "path": "Puerto_Rico.html",
+    "bytes": 260829,
+    "sha256": "07d1595280fd61253d7f1e1189ae6ca0a067bea13a4f5e20fa58f10ec43539e8",
+    "gitBlobSha": "2fd31fff12553c4030ea8c76cffb586124e86658",
+    "source": "Puerto_Rico.html"
+  },
+  {
+    "path": "Qatar.html",
+    "bytes": 338148,
+    "sha256": "6fdcd9539cd6a453ecc11c67b9512d711f4c99dcacdad842162b6344fdc9ccf5",
+    "gitBlobSha": "f18282a1f782ee9b7488f1f83897e4f6eb0a8863",
+    "source": "Qatar.html"
+  },
+  {
+    "path": "Romania.html",
+    "bytes": 312928,
+    "sha256": "192e2e7b29ba34ef900d611c5d22f71a63806190fb6657458150c20f0d4c915a",
+    "gitBlobSha": "c73ef0fe72759f880518588c523c06c3958ba958",
+    "source": "Romania.html"
+  },
+  {
+    "path": "Russia.html",
+    "bytes": 313032,
+    "sha256": "dfbbd440243490f1af7299fb95ce34170ad5207d8c8dc7626041dc43c9789fc4",
+    "gitBlobSha": "3579a71e26e3518a3cda1a4adacbb266d1675537",
+    "source": "Russia.html"
+  },
+  {
+    "path": "Saudi_Arabia.html",
+    "bytes": 353417,
+    "sha256": "2a5a0c5c90f4c5100fd89476ea270a2d9af1834360d53b2679bb477e5ffebef3",
+    "gitBlobSha": "af8802ed13009b55463a62b776a8c7f67824b402",
+    "source": "Saudi_Arabia.html"
+  },
+  {
+    "path": "Serbia.html",
+    "bytes": 260450,
+    "sha256": "0a80943e3605ea1fcfc3e4286ba6775918d9c3a3ce78069f9b2cd72adc6ca7ec",
+    "gitBlobSha": "348671bc9df1bfc7e951a3a28788114b2aeaf727",
+    "source": "Serbia.html"
+  },
+  {
+    "path": "Singapore.html",
+    "bytes": 343589,
+    "sha256": "478faf07c313fcd2b27b27585e6295931679e77c6600649396515a9695f4bed1",
+    "gitBlobSha": "4f3ee257f36d775b1652cb4b1b39d5feacecb1a1",
+    "source": "Singapore.html"
+  },
+  {
+    "path": "Slovakia.html",
+    "bytes": 314692,
+    "sha256": "ac1cb893b97ec12f21cac3369d0fd0790663b26be699de11ddebe5f3969d28a5",
+    "gitBlobSha": "cefe384e19462503810764a106d97cc200a00657",
+    "source": "Slovakia.html"
+  },
+  {
+    "path": "Slovenia.html",
+    "bytes": 316175,
+    "sha256": "cd46f2d4eae82855618a847d32a35571d51e76afd73ed6e601d12485b13e26b5",
+    "gitBlobSha": "c8a13cb5b7e3015402e8f6efe9138d317007247a",
+    "source": "Slovenia.html"
+  },
+  {
+    "path": "South_Africa.html",
+    "bytes": 372534,
+    "sha256": "18fbf7487e43e27f3c8144e8a4cb060bfd699cfede51d4feb5c30e72d452e21a",
+    "gitBlobSha": "171d8126a8cb3d731300d804a7375cdc1f619369",
+    "source": "South_Africa.html"
+  },
+  {
+    "path": "South_Korea.html",
+    "bytes": 341374,
+    "sha256": "ab48b9876a531d242fe9c89d7b5d9dd0bac14393935167ed7dea506ae3004883",
+    "gitBlobSha": "cccc02502760eea2cee81a4e6d0d640c86ce2f4a",
+    "source": "South_Korea.html"
+  },
+  {
+    "path": "South_Sudan.html",
+    "bytes": 260720,
+    "sha256": "d6d64041484c0c2d95e521776b377b2fba4793ac5c7915d883d4972fdbbf9bd9",
+    "gitBlobSha": "591790f5c48caf51ba4c1e67693aeff36c194abd",
+    "source": "South_Sudan.html"
+  },
+  {
+    "path": "Spain.html",
+    "bytes": 420935,
+    "sha256": "37a08af18fda80b75b096bb9c8ce01a1672bf5dee71df124ca280ae9966e170b",
+    "gitBlobSha": "d9eaa52f84b9b6e9ee07da0872835e294acf9c72",
+    "source": "Spain.html"
+  },
+  {
+    "path": "Sri_Lanka.html",
+    "bytes": 355204,
+    "sha256": "7f30ebfe09416558da5d868e322ca11ce45981f68d4403d980d3f9bd1c1ce1b7",
+    "gitBlobSha": "98076895b326e05782014eb3b8db1f3737e8c4d7",
+    "source": "Sri_Lanka.html"
+  },
+  {
+    "path": "Suriname.html",
+    "bytes": 337743,
+    "sha256": "50043ec02b4e7d3d7998c72de340fb27e3ac0f3ecb52ce6adcd74578a3459c43",
+    "gitBlobSha": "aa394efb1784fc02a3b899ca23d9ebf6771464f3",
+    "source": "Suriname.html"
+  },
+  {
+    "path": "Sweden.html",
+    "bytes": 314601,
+    "sha256": "9803004fec3d7c6866423cc4a1565aae27bd399d56ef24afb520ccfe0d889243",
+    "gitBlobSha": "43e1d50862acb328f345f94b06490623ababced9",
+    "source": "Sweden.html"
+  },
+  {
+    "path": "Switzerland.html",
+    "bytes": 314742,
+    "sha256": "d876aaa6a63647f3aafbe04d8b948aaa361ef1b418aa6ca9dff18ab071914a70",
+    "gitBlobSha": "3300b8ec133df3f5c4dedd41e925fcfb767d84ac",
+    "source": "Switzerland.html"
+  },
+  {
+    "path": "Taiwan.html",
+    "bytes": 345333,
+    "sha256": "4dd515fb5f85892597cbf3c296127748dae1d269272d013710e24a9e913e41b8",
+    "gitBlobSha": "94676a10ecb5740bb1f006376cdcc7c6eca6be75",
+    "source": "Taiwan.html"
+  },
+  {
+    "path": "Tanzania.html",
+    "bytes": 260681,
+    "sha256": "07b3a70f1b573b7e76ecf48ea14ab43f33f4774ee24eda5f1a1fb5bab20ff4ee",
+    "gitBlobSha": "df23ae446eace73b52b6abede51719c2a5076d95",
+    "source": "Tanzania.html"
+  },
+  {
+    "path": "Thailand.html",
+    "bytes": 337974,
+    "sha256": "a28a6948b8ef8d37e192f79bdd37bb253deab9842255087c177d392eb4eff99e",
+    "gitBlobSha": "632d6b204d49c577c81fd75c3d6bb1da3146a67c",
+    "source": "Thailand.html"
+  },
+  {
+    "path": "Tunisia.html",
+    "bytes": 260473,
+    "sha256": "0ee079e286e43f6918c0b60156c5c4aec5ececab3d20f2a420211dbc7fdcc1a3",
+    "gitBlobSha": "81b0128cc7d9c81b63c92c7da6ab98774fe7948f",
+    "source": "Tunisia.html"
+  },
+  {
+    "path": "Turkey.html",
+    "bytes": 314230,
+    "sha256": "ede936fb7f4b5a2269afb0e11f7f39c3eab805fd73db54c18bfe2794392d800e",
+    "gitBlobSha": "b0a5f04ac6d87ffaabbab01c945888dc3d573840",
+    "source": "Turkey.html"
+  },
+  {
+    "path": "Uganda.html",
+    "bytes": 260407,
+    "sha256": "bd52b09553d4ff2b11f2e19c7993acad5acbcb706fe94a95d9eda6aaa47d900b",
+    "gitBlobSha": "e05c84ef84e79914fb3e8cf1fd7f921291805219",
+    "source": "Uganda.html"
+  },
+  {
+    "path": "Ukraine.html",
+    "bytes": 314079,
+    "sha256": "0580e6115dbc4ffbcab87a177d18af354a19d5b91b5a1d7b2fa77b3611df5625",
+    "gitBlobSha": "9381db5c3d0828ce82fd84271f2a7de0bd38843e",
+    "source": "Ukraine.html"
+  },
+  {
+    "path": "United_Arab_Emirates.html",
+    "bytes": 342312,
+    "sha256": "c85e2870f4aa6d2082c4868902725aa169f538d410a70e117e1fc2f51b415d3b",
+    "gitBlobSha": "9dbe129411c952c47a7a94f8ea10fb595fedd078",
+    "source": "United_Arab_Emirates.html"
+  },
+  {
+    "path": "UK_ECP_Payroll_Configurator.html",
+    "bytes": 259498,
+    "sha256": "89952967d4d5240c452e486e25501a103a91edcc108b1b270e6e17f57cf426d4",
+    "gitBlobSha": "7ac392b4721b032028d781f0fc337247cc8500c9",
+    "source": "UK_ECP_Payroll_Configurator.html"
+  },
+  {
+    "path": "United_Kingdom.html",
+    "bytes": 372569,
+    "sha256": "e44d563cd309e7a263ef0b80a6b7e6b817148d91e3c160c2987ff4d382868c5c",
+    "gitBlobSha": "f0676f101213ab57ef70844ab085dc1031865277",
+    "source": "United_Kingdom.html"
+  },
+  {
+    "path": "United_States.html",
+    "bytes": 338927,
+    "sha256": "96ad33da9ddcee8dfa64a30ae4cf490a5d61bcf1332cbb70f8639c59c69ef8e9",
+    "gitBlobSha": "79015ab549072f0bf598a8b205a408ab826d87ec",
+    "source": "United_States.html"
+  },
+  {
+    "path": "Uruguay.html",
+    "bytes": 339087,
+    "sha256": "d95a08155970f76dffec467112014f4692cf45b49916dd2b1e854dc71ebcb527",
+    "gitBlobSha": "dad851d3099884b2cd778339929751b43ae743fe",
+    "source": "Uruguay.html"
+  },
+  {
+    "path": "Venezuela.html",
+    "bytes": 338842,
+    "sha256": "e99813dec8d2b47aa2bf34b1cc1aa559aceb51ef10d5f2eddb66e6ea7411e92a",
+    "gitBlobSha": "febc5c1f3d35c0640bc85aeed015dfcdea549894",
+    "source": "Venezuela.html"
+  },
+  {
+    "path": "Vietnam.html",
+    "bytes": 260694,
+    "sha256": "fe9ce0755fabb7765efae323e734f3eadd5d072121ecf681e7cea8437ea96184",
+    "gitBlobSha": "b65032d1ba2dc36586cf404eff93979202668362",
+    "source": "Vietnam.html"
+  },
+  {
+    "path": "Zimbabwe.html",
+    "bytes": 260485,
+    "sha256": "cdbb0ef7da174575e9c242218c434e314e5b56d73380b804ec8d9e43a463d3f6",
+    "gitBlobSha": "96c2e8a094e5e0ecb7ceecaec7d1d7a854060ee9",
+    "source": "Zimbabwe.html"
+  },
+  {
+    "path": "index.html",
+    "bytes": 157183,
+    "sha256": "feca36d6fa408e14df8b92d97170973be9caf355b75bd96906901d5664ca1cf4",
+    "gitBlobSha": "94dd49308f9bd5ea87eb5947d5c7a92e70af2e17",
+    "source": "index.html"
+  }
+]
