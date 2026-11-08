@@ -193,6 +193,9 @@ def build():
   count=len(data['modules']);js=base_js.replace("done+' / 48'","done+' / '+M.length").replace('done/48*100','done/M.length*100').replace("'+m.n+' of 48</div>","'+m.n+' of '+M.length+'</div>").replace('m.n<48?','m.n<M.length?')
   js=js.replace('48 detailed sections form a complete country learning journey.','48 learning and design sections connect the country source material to an evidence-based implementation journey.').replace('Published statutory reference','Published guide / authority reference')
   if is_app:
+   js=js.replace('data-go="39">Open the test scenarios','data-go="8">Open validation experiments')
+   js=js.replace('Statutory links support the country reference facts.','The guide link identifies the country replication reference.')
+   js=js.replace("+' Payroll Workbook</h1>","+' Replication Workbook</h1>")
    # These declarations replace the generic overview/evidence/lab functions before route() executes.
    js=js.replace('route();if(!storageOK)',APPENDIX_JS+'\nroute();if(!storageOK)')
    js=js.replace("P.name+' payroll, made tangible.'","P.name+' replication, made tangible.'").replace("P.currency+' · Country-specific design'","'SAP appendix · Replication practice'").replace("['lab','∑','Gross-to-net practice lab']","['lab','∑','Mapping experiment lab']")
