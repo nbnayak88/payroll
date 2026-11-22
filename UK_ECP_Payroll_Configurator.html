@@ -28,6 +28,28 @@ html,body{width:100%;max-width:100%;overflow-x:hidden}
 :root{--header-h:114px}
 #hdr{min-height:0!important;height:var(--header-h)!important;overflow:hidden!important}
 @media(max-width:760px){:root{--header-h:96px;--nav-w:0px}#main{width:100%!important;margin-left:0!important;padding:18px 14px 36px!important}#sidebar{width:min(280px,85vw);transform:translateX(-100%)}#sidebar.open{transform:translateX(0)}#main .kv-grid{grid-template-columns:1fr}}
+</style><style id="sla-uk-contrast-v2">
+/* Theme consistency across all dynamically rendered UK configurator tabs. */
+:root:not([data-theme="dark"]){color-scheme:light!important;--bg:#f4f6fa!important;--bg-card:#fff!important;--fg:#17253a!important;--fg-mid:#33445e!important;--fg-dim:#53647c!important;--border:#cbd5e1!important;--sap-light:#dceafa!important}
+:root:not([data-theme="dark"]) #main{background:#f4f6fa!important;color:#17253a!important}
+:root:not([data-theme="dark"]) #main .info-item,:root:not([data-theme="dark"]) #main .card{background:#fff!important;color:#17253a!important;border-color:#cbd5e1!important}
+:root:not([data-theme="dark"]) #main .page-header h1,:root:not([data-theme="dark"]) #main .page-header h2,:root:not([data-theme="dark"]) #main .info-value,:root:not([data-theme="dark"]) #main .card-title{color:#17253a!important;opacity:1!important}
+:root:not([data-theme="dark"]) #main .info-label,:root:not([data-theme="dark"]) #main .page-header .meta,:root:not([data-theme="dark"]) #main .kv-k{color:#4c5f79!important;opacity:1!important}
+:root:not([data-theme="dark"]) #main .kv-v,:root:not([data-theme="dark"]) #main td{color:#33445e!important;opacity:1!important}
+:root[data-theme="dark"]{color-scheme:dark!important;--bg:#101827!important;--bg-card:#1b2639!important;--fg:#f1f5fb!important;--fg-mid:#d3ddeb!important;--fg-dim:#b3c3d8!important;--border:#41516a!important}
+:root[data-theme="dark"] body,:root[data-theme="dark"] #main{background:#101827!important;color:#f1f5fb!important}
+:root[data-theme="dark"] #main .card,:root[data-theme="dark"] #main .info-item{background:#1b2639!important;border-color:#41516a!important;color:#f1f5fb!important}
+:root[data-theme="dark"] #main .page-header h1,:root[data-theme="dark"] #main .page-header h2,:root[data-theme="dark"] #main .card-title,:root[data-theme="dark"] #main .info-value,:root[data-theme="dark"] #main .kv-v{color:#f1f5fb!important;opacity:1!important}
+:root[data-theme="dark"] #main .info-label,:root[data-theme="dark"] #main .page-header .meta,:root[data-theme="dark"] #main .kv-k,:root[data-theme="dark"] #main td{color:#d3ddeb!important;opacity:1!important}
+#main .page-header h1{font-size:clamp(20px,2vw,28px)!important;line-height:1.4!important;overflow-wrap:anywhere!important}
+#main .page-header .meta{line-height:1.7!important}
+#main .info-item{min-width:0!important}
+#main .info-label{line-height:1.5!important}
+#main .info-value{line-height:1.5!important;overflow-wrap:anywhere!important}
+#main .card-title{line-height:1.6!important}
+#main .badge{opacity:1!important}
+#main th{background:#24436e!important;color:#fff!important}
+#main .cta-banner,#main .cta-banner h3,#main .cta-banner p{color:#fff!important}
 </style></head><body>
 <title>UK ECP Payroll Configurator</title>
 <meta name="claude:viewport-fit-sides" content="cover">
