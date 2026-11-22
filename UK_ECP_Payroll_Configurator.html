@@ -4,7 +4,31 @@
 #sla-reading-progress-fill{display:block;width:100%;height:100%;background:var(--sla-reading-progress-color);transform:scaleX(0);transform-origin:left center}
 @media print{#sla-reading-progress{display:none}}
 </style>
-</head><body>
+<style id="sla-uk-readability-fix-20261122">
+/* Prevent the fixed sidebar from collapsing the flex content column. */
+html,body{width:100%;max-width:100%;overflow-x:hidden}
+#shell{display:block!important;width:100%!important;min-width:0!important;padding-top:var(--header-h)}
+#main{display:block!important;box-sizing:border-box!important;width:calc(100% - var(--nav-w))!important;max-width:none!important;min-width:0!important;margin-left:var(--nav-w)!important;flex:none!important;padding:24px clamp(16px,2.2vw,36px) 48px!important}
+#main .view.active{display:block!important;width:100%!important;min-width:0!important;max-width:none!important}
+#main .page-header,#main .card,#main .info-grid,#main .cta-banner{max-width:100%;min-width:0}
+#main .card{width:100%;overflow-wrap:break-word}
+#main .tbl-wrap{max-width:100%;overflow-x:auto}
+#main .page-header h1{line-height:1.45;overflow-wrap:break-word}
+#main .kv-grid{grid-template-columns:minmax(120px,max-content) minmax(0,1fr)}
+#main .kv-v{overflow-wrap:anywhere}
+#main .info-grid{grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr))}
+#main .card-title{flex-wrap:wrap;line-height:1.6}
+#main .cta-banner{min-width:0}
+:root:not([data-theme="dark"]){--bg:#f4f6fa;--bg-card:#fff;--fg:#1a2030;--fg-mid:#3d4f6e;--fg-dim:#536581;--border:#d0d9ec;--sap-light:#d6e4f0;--tag-bg:#eff6ff;color-scheme:light}
+:root:not([data-theme="dark"]) body{background:#f4f6fa!important;color:#1a2030!important}
+:root:not([data-theme="dark"]) #main .page-header,:root:not([data-theme="dark"]) #main .card{color:#1a2030}
+:root:not([data-theme="dark"]) #main .card{background:#fff;border-color:#d0d9ec}
+:root:not([data-theme="dark"]) #main .card-title,:root:not([data-theme="dark"]) #main .info-value,:root:not([data-theme="dark"]) #main .kv-v{color:#1a2030}
+:root:not([data-theme="dark"]) #main td,:root:not([data-theme="dark"]) #main .meta{color:#3d4f6e}
+:root{--header-h:114px}
+#hdr{min-height:0!important;height:var(--header-h)!important;overflow:hidden!important}
+@media(max-width:760px){:root{--header-h:96px;--nav-w:0px}#main{width:100%!important;margin-left:0!important;padding:18px 14px 36px!important}#sidebar{width:min(280px,85vw);transform:translateX(-100%)}#sidebar.open{transform:translateX(0)}#main .kv-grid{grid-template-columns:1fr}}
+</style></head><body>
 <title>UK ECP Payroll Configurator</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
