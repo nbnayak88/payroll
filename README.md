@@ -44,3 +44,9 @@ Payroll arithmetic examples are teaching inputs, not wage benchmarks, legal pror
 Maintain the case content and page-specific prompts in `workbook-system/enrich_workbooks.py`; maintain shared behavior and appearance in `learning-enhancements.js` and `learning-enhancements.css`. Run `python3 workbook-system/enrich_workbooks.py` after editing these sources. Both main builders also run the enrichment step automatically. The operation is idempotent, embeds its assets in the standalone pages and preserves learner storage keys, source section numbering and existing learning records.
 
 Focus music is disabled by project policy. The main hub, all 108 catalogued HTML resources (107 countries/regions plus the UK configurator), and the shared enhancement and workbook template sources were checked on 8 November 2026. No active YouTube embeds, HTML audio/iframe players, or Web Audio playback functionality remained in the checked HTML resources. The enrichment source removes legacy sound controls during regeneration. This is a repository-source verification; GitHub Pages deployment and browser-cache propagation should be checked separately.
+
+## SAP UK Payroll learning pathway
+
+[Open the comprehensive UK curriculum](https://nbnayak88.github.io/payroll/uk-payroll-curriculum/) · [Read the curriculum source](uk-payroll-curriculum/CURRICULUM.md)
+
+36 detailed modules across Origin, Pre-Foundation, Foundation, Essentials, Advanced and Ultimate; 288 module hours plus 72 portfolio hours. Includes SAP HCM Payroll/ECP distinctions, statutory controls, configuration experiments, integration, migration, testing, cutover, AMS and architecture. The web edition provides module search, local review tracking, progress export and print support. Published 24 November 2026; statutory sources require ongoing review.
