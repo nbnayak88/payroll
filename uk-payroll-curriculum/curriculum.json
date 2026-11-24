@@ -1,0 +1,660 @@
+[
+  {
+    "id": "UK01",
+    "title": "Payroll purpose and professional identity",
+    "level": "Origin",
+    "hours": 2,
+    "prerequisite": "Learning charter",
+    "topics": [
+      "Employee trust",
+      "payroll as a service",
+      "gross-to-net",
+      "employer cost",
+      "payroll analyst, consultant and architect roles"
+    ],
+    "lab": "Interview a fictional payroll manager and trace a late salary complaint from symptom to business impact",
+    "evidence": "Personal learning charter and payroll service canvas",
+    "acceptance": "Explain employee net pay versus employer total cost and name the accountable process owners"
+  },
+  {
+    "id": "UK02",
+    "title": "UK institutions and jurisdiction",
+    "level": "Origin",
+    "hours": 2,
+    "prerequisite": "UK01 or demonstrated equivalent",
+    "topics": [
+      "HMRC, The Pensions Regulator, employment policy, devolved income tax, Northern Ireland distinctions, UK versus Crown Dependencies"
+    ],
+    "lab": "Build a responsibility map for England, Scotland, Wales and Northern Ireland; keep Ireland and Isle of Man outside the UK scope",
+    "evidence": "Jurisdiction and regulator map with source register",
+    "acceptance": "Separate tax jurisdiction, work location, residence and employing entity without assuming they are equivalent"
+  },
+  {
+    "id": "UK03",
+    "title": "Payslip and gross-to-net literacy",
+    "level": "Origin",
+    "hours": 2,
+    "prerequisite": "UK02 or demonstrated equivalent",
+    "topics": [
+      "Contractual earnings",
+      "taxable pay",
+      "NI-able pay",
+      "pensionable pay",
+      "deductions",
+      "year-to-date balances"
+    ],
+    "lab": "Annotate a synthetic payslip and reconcile each line to a source event",
+    "evidence": "Payslip explanation and arithmetic bridge",
+    "acceptance": "Reconcile gross less deductions to net and explain why the calculation bases differ"
+  },
+  {
+    "id": "UK04",
+    "title": "Calendar and service rhythm",
+    "level": "Origin",
+    "hours": 2,
+    "prerequisite": "UK03 or demonstrated equivalent",
+    "topics": [
+      "Tax year 6 April\u20135 April",
+      "tax months",
+      "weekly, fortnightly, four-weekly and monthly frequencies",
+      "cut-offs and approvals"
+    ],
+    "lab": "Design a calendar spanning a bank holiday and tax-year boundary",
+    "evidence": "Payroll calendar and responsibility matrix",
+    "acceptance": "Distinguish contractual payday, processing date, bank deadline and reporting deadline"
+  },
+  {
+    "id": "UK05",
+    "title": "Evidence and responsible experimentation",
+    "level": "Origin",
+    "hours": 2,
+    "prerequisite": "UK04 or demonstrated equivalent",
+    "topics": [
+      "Primary sources",
+      "tax-year applicability",
+      "approved employer policy",
+      "assumptions",
+      "synthetic data",
+      "version history"
+    ],
+    "lab": "Compare an old training slide with current guidance and record a corrected learning hypothesis",
+    "evidence": "Evidence log and uncertainty register",
+    "acceptance": "Every statutory claim has a URL, effective date, review date and owner"
+  },
+  {
+    "id": "UK06",
+    "title": "Payroll discovery and experience",
+    "level": "Origin",
+    "hours": 2,
+    "prerequisite": "UK05 or demonstrated equivalent",
+    "topics": [
+      "Employee journeys",
+      "HR, Finance, Treasury and payroll handoffs",
+      "accessibility",
+      "complaints",
+      "service outcomes"
+    ],
+    "lab": "Role-play a joiner, payroll analyst and CFO discovering failure points",
+    "evidence": "Stakeholder interview guide and current-state journey",
+    "acceptance": "Show at least five failure points with an owner, control and measurable outcome"
+  },
+  {
+    "id": "UK07",
+    "title": "SAP landscape and product choices",
+    "level": "Pre-Foundation",
+    "hours": 4,
+    "prerequisite": "UK06 or demonstrated equivalent",
+    "topics": [
+      "SAP HCM Payroll, SAP HCM for SAP S/4HANA, SuccessFactors Employee Central Payroll",
+      "EC as HR master",
+      "backend versus employee experience"
+    ],
+    "lab": "Compare two target landscapes and identify licences, access, release and responsibility boundaries",
+    "evidence": "Product decision record and environment readiness checklist",
+    "acceptance": "No assumption that EC, ECP, PCC or middleware is automatically licensed or activated"
+  },
+  {
+    "id": "UK08",
+    "title": "Organisation and payroll structures",
+    "level": "Pre-Foundation",
+    "hours": 4,
+    "prerequisite": "UK07 or demonstrated equivalent",
+    "topics": [
+      "Company codes",
+      "personnel areas/subareas",
+      "employee groups/subgroups",
+      "country grouping",
+      "payroll areas",
+      "cost centres"
+    ],
+    "lab": "Design monthly salaried and weekly operational populations for OmniWorks UK",
+    "evidence": "Organisation-to-payroll mapping and configuration workbook",
+    "acceptance": "Explain grouping choices, reporting needs and transport dependencies before changing configuration"
+  },
+  {
+    "id": "UK09",
+    "title": "Employee lifecycle and master data",
+    "level": "Pre-Foundation",
+    "hours": 4,
+    "prerequisite": "UK08 or demonstrated equivalent",
+    "topics": [
+      "Effective dating",
+      "hiring",
+      "transfers",
+      "leavers",
+      "rehires",
+      "bank data",
+      "basic pay",
+      "recurring and one-time payments",
+      "UK statutory data"
+    ],
+    "lab": "Create synthetic joiner and leaver records, then introduce a backdated transfer",
+    "evidence": "Data dictionary, lifecycle timeline and validation rules",
+    "acceptance": "Distinguish business-effective date, replication date and payroll impact date"
+  },
+  {
+    "id": "UK10",
+    "title": "Time, absence and valuation",
+    "level": "Pre-Foundation",
+    "hours": 4,
+    "prerequisite": "UK09 or demonstrated equivalent",
+    "topics": [
+      "Planned working time",
+      "absence records",
+      "time evaluation boundaries",
+      "overtime inputs",
+      "public holidays",
+      "approved holiday-pay policy"
+    ],
+    "lab": "Trace a shift worker's approved time and absence to proposed payroll inputs",
+    "evidence": "Time-to-pay interface map and valuation examples",
+    "acceptance": "Identify missing approvals, duplicate hours and policy assumptions without inventing a universal overtime rule"
+  },
+  {
+    "id": "UK11",
+    "title": "Payroll execution and control records",
+    "level": "Pre-Foundation",
+    "hours": 4,
+    "prerequisite": "UK10 or demonstrated equivalent",
+    "topics": [
+      "Simulation",
+      "release",
+      "correction",
+      "exit",
+      "payroll logs",
+      "result inspection",
+      "employee-level errors",
+      "controlled reruns"
+    ],
+    "lab": "Run or storyboard a payroll cycle containing one rejected employee",
+    "evidence": "Cycle runbook and error triage log",
+    "acceptance": "Show who can change data at each state and how failed employees are recovered"
+  },
+  {
+    "id": "UK12",
+    "title": "Reading results and reconciliation",
+    "level": "Pre-Foundation",
+    "hours": 4,
+    "prerequisite": "UK11 or demonstrated equivalent",
+    "topics": [
+      "Earnings, deductions, employer costs, cumulative balances",
+      "wage-type totals",
+      "variance analysis",
+      "result lineage"
+    ],
+    "lab": "Explain two successive results with a salary change and compare totals",
+    "evidence": "Result walkthrough and first reconciliation pack",
+    "acceptance": "Every material variance links to an approved event or a documented defect"
+  },
+  {
+    "id": "UK13",
+    "title": "Wage-type engineering",
+    "level": "Foundation",
+    "hours": 8,
+    "prerequisite": "UK12 or demonstrated equivalent",
+    "topics": [
+      "Copying suitable model wage types",
+      "permissibility",
+      "valuation",
+      "processing, cumulation and evaluation classes",
+      "tax/NI/pension treatment"
+    ],
+    "lab": "Design salary, overtime, bonus, deduction and benefit wage types in a sandbox",
+    "evidence": "Wage-type catalogue and treatment decision table",
+    "acceptance": "For each wage type, demonstrate expected bases and posting outcomes with positive and negative tests"
+  },
+  {
+    "id": "UK14",
+    "title": "Schemas and personnel calculation rules",
+    "level": "Foundation",
+    "hours": 8,
+    "prerequisite": "UK13 or demonstrated equivalent",
+    "topics": [
+      "Schema flow",
+      "functions and operations",
+      "PCR branching",
+      "employee subgroup groupings",
+      "custom namespace",
+      "logs and transport discipline"
+    ],
+    "lab": "Trace a delivered calculation, then prototype one controlled allowance rule",
+    "evidence": "Annotated schema trace, PCR specification and rollback plan",
+    "acceptance": "Explain input, decision and output; compare standard behaviour before proposing a custom rule"
+  },
+  {
+    "id": "UK15",
+    "title": "PAYE and tax-code lifecycle",
+    "level": "Foundation",
+    "hours": 8,
+    "prerequisite": "UK14 or demonstrated equivalent",
+    "topics": [
+      "Cumulative and non-cumulative operation",
+      "tax-code notices",
+      "Scottish and Welsh prefixes",
+      "starter information",
+      "tax refunds",
+      "tax-year boundaries"
+    ],
+    "lab": "Test a starter without P45, a new tax code and an in-year correction",
+    "evidence": "PAYE scenario matrix and independently calculated expected results",
+    "acceptance": "Use tax-year-specific guidance and preserve notice/source lineage; avoid treating a sample code as universal"
+  },
+  {
+    "id": "UK16",
+    "title": "National Insurance and directors",
+    "level": "Foundation",
+    "hours": 8,
+    "prerequisite": "UK15 or demonstrated equivalent",
+    "topics": [
+      "Employee and employer Class 1",
+      "category selection",
+      "thresholds",
+      "directors' methods",
+      "category changes",
+      "relief eligibility"
+    ],
+    "lab": "Compare an ordinary employee, director and apprentice using controlled test inputs",
+    "evidence": "NI decision table and boundary-test pack",
+    "acceptance": "Test just below, at and above relevant thresholds and separate employee from employer calculations"
+  },
+  {
+    "id": "UK17",
+    "title": "Loans and ordered deductions",
+    "level": "Foundation",
+    "hours": 8,
+    "prerequisite": "UK16 or demonstrated equivalent",
+    "topics": [
+      "Student and postgraduate loans",
+      "start/stop notices",
+      "simultaneous deductions",
+      "attachment orders",
+      "priority",
+      "protected earnings",
+      "jurisdiction"
+    ],
+    "lab": "Simulate a loan plan change and multiple ordered deductions with a low-net-pay case",
+    "evidence": "Deduction priority design and remittance reconciliation",
+    "acceptance": "Document the legal basis per order type and prevent unsupported generic priority assumptions"
+  },
+  {
+    "id": "UK18",
+    "title": "Regular, retroactive and exceptional pay",
+    "level": "Foundation",
+    "hours": 8,
+    "prerequisite": "UK17 or demonstrated equivalent",
+    "topics": [
+      "Retro limits",
+      "earliest changes",
+      "splits",
+      "backdated pay awards",
+      "off-cycle applicability",
+      "reversals",
+      "overpayments",
+      "negative net"
+    ],
+    "lab": "Process a backdated salary increase and an emergency payment without duplicating payment or reporting",
+    "evidence": "Retro explanation, exceptional-payment runbook and reconciliation",
+    "acceptance": "Tie original and replacement results to net payment, statutory reporting and FI effects"
+  },
+  {
+    "id": "UK19",
+    "title": "Sickness and statutory family pay",
+    "level": "Essentials",
+    "hours": 10,
+    "prerequisite": "UK18 or demonstrated equivalent",
+    "topics": [
+      "SSP",
+      "maternity, paternity, adoption, shared parental, parental bereavement and neonatal care pay",
+      "eligibility, average earnings, overlaps and recovery"
+    ],
+    "lab": "Test a sickness case crossing April 2026 and a neonatal-care case alongside another family-pay entitlement",
+    "evidence": "Statutory-pay decision trees, eligibility evidence and effective-date tests",
+    "acceptance": "Keep SSP non-recoverable; distinguish parental-pay recovery; test transitional rules and installed SAP legal changes"
+  },
+  {
+    "id": "UK20",
+    "title": "Pensions and automatic enrolment",
+    "level": "Essentials",
+    "hours": 10,
+    "prerequisite": "UK19 or demonstrated equivalent",
+    "topics": [
+      "Worker assessment",
+      "eligible jobholders",
+      "opt-in/joining",
+      "postponement",
+      "opt-out/refunds",
+      "re-enrolment",
+      "contribution bases",
+      "net pay versus relief at source"
+    ],
+    "lab": "Process age and earnings changes, an opt-out and a backdated contribution correction",
+    "evidence": "Assessment timeline, pension interface and contribution reconciliation",
+    "acceptance": "Evidence assessment decisions, communications, contribution basis and provider acknowledgement"
+  },
+  {
+    "id": "UK21",
+    "title": "Benefits, expenses and salary sacrifice",
+    "level": "Essentials",
+    "hours": 10,
+    "prerequisite": "UK20 or demonstrated equivalent",
+    "topics": [
+      "Cash versus benefits in kind",
+      "payrolling benefits",
+      "P11D/P11D(b)",
+      "Class 1A",
+      "salary sacrifice",
+      "optional remuneration",
+      "mileage"
+    ],
+    "lab": "Compare a pension sacrifice, company car and taxable expense using current guidance",
+    "evidence": "Benefit-treatment matrix and year-end responsibility map",
+    "acceptance": "Separate current rules from announced future changes and test minimum-wage implications where applicable"
+  },
+  {
+    "id": "UK22",
+    "title": "Minimum wage, holiday and termination",
+    "level": "Essentials",
+    "hours": 10,
+    "prerequisite": "UK21 or demonstrated equivalent",
+    "topics": [
+      "National Minimum/Living Wage",
+      "pay-reference periods",
+      "deductions",
+      "holiday pay policy",
+      "PILON/PENP",
+      "redundancy and termination awards"
+    ],
+    "lab": "Investigate a low-paid worker's deduction and a leaver with multiple termination elements",
+    "evidence": "Minimum-wage review and termination treatment specification",
+    "acceptance": "Break termination components into their individual treatments rather than applying a blanket exemption"
+  },
+  {
+    "id": "UK23",
+    "title": "RTI and HMRC reconciliation",
+    "level": "Essentials",
+    "hours": 10,
+    "prerequisite": "UK22 or demonstrated equivalent",
+    "topics": [
+      "FPS",
+      "EPS",
+      "reporting timing",
+      "identifiers",
+      "acknowledgements",
+      "rejected submissions",
+      "corrections",
+      "balances and HMRC account reconciliation"
+    ],
+    "lab": "Create a mock submission, reject an identifier and demonstrate controlled resubmission",
+    "evidence": "RTI field lineage, submission register and correction playbook",
+    "acceptance": "Evidence accepted acknowledgement as well as transmission; prevent duplicate reporting; use current SAP RTI documentation"
+  },
+  {
+    "id": "UK24",
+    "title": "Year-end and tax-year transition",
+    "level": "Essentials",
+    "hours": 10,
+    "prerequisite": "UK23 or demonstrated equivalent",
+    "topics": [
+      "Final reporting",
+      "P60",
+      "P45 on leaving",
+      "benefits reporting",
+      "opening balances",
+      "rates and thresholds",
+      "SAP legal change delivery"
+    ],
+    "lab": "Rehearse a March/April transition with a leaver and benefit reconciliation",
+    "evidence": "Year-end checklist and tax-year change regression pack",
+    "acceptance": "Reconcile year-to-date values, employee outputs and statutory liabilities before sign-off"
+  },
+  {
+    "id": "UK25",
+    "title": "EC-to-payroll replication architecture",
+    "level": "Advanced",
+    "hours": 12,
+    "prerequisite": "UK24 or demonstrated equivalent",
+    "topics": [
+      "Effective-dated employee data",
+      "mapping",
+      "replication monitoring",
+      "error recovery",
+      "source ownership",
+      "identifiers",
+      "EC Payroll integration options"
+    ],
+    "lab": "Inject a missing mapping, duplicate event and out-of-order effective date",
+    "evidence": "Field mapping, sequence diagram and recovery evidence",
+    "acceptance": "Choose the supported integration pattern for the actual release; do not assume CPI is mandatory for every EC-to-ECP integration"
+  },
+  {
+    "id": "UK26",
+    "title": "Finance, Treasury and payment integration",
+    "level": "Advanced",
+    "hours": 12,
+    "prerequisite": "UK25 or demonstrated equivalent",
+    "topics": [
+      "Symbolic accounts",
+      "cost assignment",
+      "posting runs",
+      "liabilities",
+      "balancing",
+      "bank files",
+      "Bacs and bank-channel responsibilities"
+    ],
+    "lab": "Reconcile payroll totals to an FI journal and synthetic payment file; then reject one bank record",
+    "evidence": "Posting specification, bank interface and four-way reconciliation",
+    "acceptance": "Reconcile gross-to-net, bank net, FI balances and liabilities; payment format and Faster Payments depend on bank and service design"
+  },
+  {
+    "id": "UK27",
+    "title": "Security, privacy and resilient operations",
+    "level": "Advanced",
+    "hours": 12,
+    "prerequisite": "UK26 or demonstrated equivalent",
+    "topics": [
+      "Least privilege",
+      "segregation of duties",
+      "backend authorisations",
+      "EC RBP",
+      "privileged access",
+      "encryption",
+      "retention",
+      "audit",
+      "recovery"
+    ],
+    "lab": "Threat-model a bank-account change and rehearse a failed payroll batch",
+    "evidence": "Access matrix, threat model and recovery runbook",
+    "acceptance": "Separate HR master-data access, payroll processing, payment release and technical administration"
+  },
+  {
+    "id": "UK28",
+    "title": "Migration, testing and parallel runs",
+    "level": "Advanced",
+    "hours": 12,
+    "prerequisite": "UK27 or demonstrated equivalent",
+    "topics": [
+      "Data cleansing",
+      "balances",
+      "history scope",
+      "identifiers",
+      "mock loads",
+      "unit, integration, regression and UAT",
+      "parallel reconciliation"
+    ],
+    "lab": "Migrate a synthetic mid-year population and explain every difference against a controlled baseline",
+    "evidence": "Migration reconciliation, defect log and signed test pack",
+    "acceptance": "Zero unexplained critical differences; business-approved rounding tolerances; no balancing totals that conceal employee errors"
+  },
+  {
+    "id": "UK29",
+    "title": "Cutover and operational transition",
+    "level": "Advanced",
+    "hours": 12,
+    "prerequisite": "UK28 or demonstrated equivalent",
+    "topics": [
+      "SAP Activate delivery gates",
+      "run sequence",
+      "freeze windows",
+      "go/no-go",
+      "rollback constraints",
+      "first live payroll",
+      "hypercare"
+    ],
+    "lab": "Run a tabletop cutover with a replication outage near the payment deadline",
+    "evidence": "Timed cutover plan, decision log and support handover",
+    "acceptance": "Named owners approve payroll, bank release, RTI and FI; recovery feasibility is assessed after external submission"
+  },
+  {
+    "id": "UK30",
+    "title": "Payroll Control Center and AMS",
+    "level": "Advanced",
+    "hours": 12,
+    "prerequisite": "UK29 or demonstrated equivalent",
+    "topics": [
+      "PCC availability and configuration",
+      "validation rules",
+      "alerts",
+      "root-cause analysis",
+      "SLA",
+      "incident/problem/change management"
+    ],
+    "lab": "Design alerts for abnormal net pay and missing tax data; role-play an urgent payroll incident",
+    "evidence": "Control catalogue, incident evidence pack and AMS acceptance criteria",
+    "acceptance": "Alert thresholds have owners and false-positive review; distinguish business rule defects from technical outages"
+  },
+  {
+    "id": "UK31",
+    "title": "Enterprise payroll architecture",
+    "level": "Ultimate",
+    "hours": 12,
+    "prerequisite": "UK30 or demonstrated equivalent",
+    "topics": [
+      "Capabilities",
+      "value streams",
+      "service boundaries",
+      "integration contracts",
+      "data lineage",
+      "non-functional requirements",
+      "deployment options"
+    ],
+    "lab": "Defend a UK payroll target architecture to a fictional CHRO, CFO and security lead",
+    "evidence": "Architecture dossier with alternatives, constraints and decisions",
+    "acceptance": "Explain service ownership, data authority, failure handling, observability and product-specific limits"
+  },
+  {
+    "id": "UK32",
+    "title": "Specialist and sector pathways",
+    "level": "Ultimate",
+    "hours": 12,
+    "prerequisite": "UK31 or demonstrated equivalent",
+    "topics": [
+      "Public-sector pensions and retro awards",
+      "utilities shift pay",
+      "industrial overtime",
+      "financial-services bonuses",
+      "expatriates",
+      "shadow payroll",
+      "CIS boundary"
+    ],
+    "lab": "Choose one sector and identify specialist advice and integration dependencies",
+    "evidence": "Sector extension backlog and applicability assessment",
+    "acceptance": "Treat CIS subcontractor processing and maritime/expatriate rules as specialist scope requiring verified product support"
+  },
+  {
+    "id": "UK33",
+    "title": "Analytics and service improvement",
+    "level": "Ultimate",
+    "hours": 12,
+    "prerequisite": "UK32 or demonstrated equivalent",
+    "topics": [
+      "Accuracy",
+      "timeliness",
+      "first-time-right",
+      "cost per payslip",
+      "exception rate",
+      "case ageing",
+      "observability",
+      "privacy-preserving analytics"
+    ],
+    "lab": "Build a synthetic KPI dashboard and investigate a rising retro-adjustment rate",
+    "evidence": "Metrics dictionary and improvement experiment",
+    "acceptance": "Define numerator, denominator, owner and data lineage; measure effects before and after a controlled change"
+  },
+  {
+    "id": "UK34",
+    "title": "AI-assisted payroll with human control",
+    "level": "Ultimate",
+    "hours": 12,
+    "prerequisite": "UK33 or demonstrated equivalent",
+    "topics": [
+      "Retrieval over approved guidance",
+      "source citations",
+      "policy explanation",
+      "anomaly triage",
+      "access controls",
+      "model evaluation",
+      "human approvals"
+    ],
+    "lab": "Prototype a payroll-policy assistant using synthetic questions and test misleading or outdated prompts",
+    "evidence": "Evaluation dataset, failure log and approval workflow",
+    "acceptance": "No autonomous changes to pay, bank files or HMRC submissions; demonstrate correct escalation when evidence is missing"
+  },
+  {
+    "id": "UK35",
+    "title": "Legal-change and release engineering",
+    "level": "Ultimate",
+    "hours": 12,
+    "prerequisite": "UK34 or demonstrated equivalent",
+    "topics": [
+      "HMRC updates",
+      "SAP Notes applicability",
+      "support-package dependencies",
+      "regression scope",
+      "effective dates",
+      "transport and rollback strategy"
+    ],
+    "lab": "Build a change-impact analysis for a new tax year and a statutory-pay update",
+    "evidence": "Legal-change register and release evidence pack",
+    "acceptance": "Every rule change links to authority, applicable SAP delivery, test cases and approval; announced changes remain flagged until effective"
+  },
+  {
+    "id": "UK36",
+    "title": "Practice leadership and professional portfolio",
+    "level": "Ultimate",
+    "hours": 12,
+    "prerequisite": "UK35 or demonstrated equivalent",
+    "topics": [
+      "Discovery facilitation",
+      "estimation",
+      "presales",
+      "ethical claims",
+      "reusable accelerators",
+      "coaching",
+      "career narrative",
+      "continuous learning"
+    ],
+    "lab": "Present a ten-minute payroll transformation proposal and teach a difficult concept to a peer",
+    "evidence": "Portfolio index, demonstration recording and personal development roadmap",
+    "acceptance": "Defend assumptions, show original evidence and explain limitations without claiming SAP certification"
+  }
+]
