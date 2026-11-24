@@ -67,7 +67,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply employee trust.
+- Explain and apply Employee trust.
 - Explain and apply payroll as a service.
 - Explain and apply gross-to-net.
 - Explain and apply employer cost.
@@ -87,7 +87,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply hMRC, The Pensions Regulator, employment policy, devolved income tax, Northern Ireland distinctions, UK versus Crown Dependencies.
+- Explain and apply HMRC, The Pensions Regulator, employment policy, devolved income tax, Northern Ireland distinctions, UK versus Crown Dependencies.
 
 **Experiment:** Build a responsibility map for England, Scotland, Wales and Northern Ireland; keep Ireland and Isle of Man outside the UK scope.
 
@@ -103,9 +103,9 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply contractual earnings.
+- Explain and apply Contractual earnings.
 - Explain and apply taxable pay.
-- Explain and apply nI-able pay.
+- Explain and apply NI-able pay.
 - Explain and apply pensionable pay.
 - Explain and apply deductions.
 - Explain and apply year-to-date balances.
@@ -124,7 +124,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply tax year 6 April–5 April.
+- Explain and apply Tax year 6 April–5 April.
 - Explain and apply tax months.
 - Explain and apply weekly, fortnightly, four-weekly and monthly frequencies.
 - Explain and apply cut-offs and approvals.
@@ -143,7 +143,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply primary sources.
+- Explain and apply Primary sources.
 - Explain and apply tax-year applicability.
 - Explain and apply approved employer policy.
 - Explain and apply assumptions.
@@ -164,8 +164,8 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply employee journeys.
-- Explain and apply hR, Finance, Treasury and payroll handoffs.
+- Explain and apply Employee journeys.
+- Explain and apply HR, Finance, Treasury and payroll handoffs.
 - Explain and apply accessibility.
 - Explain and apply complaints.
 - Explain and apply service outcomes.
@@ -184,8 +184,8 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply sAP HCM Payroll, SAP HCM for SAP S/4HANA, SuccessFactors Employee Central Payroll.
-- Explain and apply eC as HR master.
+- Explain and apply SAP HCM Payroll, SAP HCM for SAP S/4HANA, SuccessFactors Employee Central Payroll.
+- Explain and apply EC as HR master.
 - Explain and apply backend versus employee experience.
 
 **Experiment:** Compare two target landscapes and identify licences, access, release and responsibility boundaries.
@@ -202,7 +202,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply company codes.
+- Explain and apply Company codes.
 - Explain and apply personnel areas/subareas.
 - Explain and apply employee groups/subgroups.
 - Explain and apply country grouping.
@@ -223,7 +223,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply effective dating.
+- Explain and apply Effective dating.
 - Explain and apply hiring.
 - Explain and apply transfers.
 - Explain and apply leavers.
@@ -231,7 +231,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 - Explain and apply bank data.
 - Explain and apply basic pay.
 - Explain and apply recurring and one-time payments.
-- Explain and apply uK statutory data.
+- Explain and apply UK statutory data.
 
 **Experiment:** Create synthetic joiner and leaver records, then introduce a backdated transfer.
 
@@ -247,7 +247,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply planned working time.
+- Explain and apply Planned working time.
 - Explain and apply absence records.
 - Explain and apply time evaluation boundaries.
 - Explain and apply overtime inputs.
@@ -268,7 +268,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply simulation.
+- Explain and apply Simulation.
 - Explain and apply release.
 - Explain and apply correction.
 - Explain and apply exit.
@@ -291,7 +291,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply earnings, deductions, employer costs, cumulative balances.
+- Explain and apply Earnings, deductions, employer costs, cumulative balances.
 - Explain and apply wage-type totals.
 - Explain and apply variance analysis.
 - Explain and apply result lineage.
@@ -310,7 +310,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply copying suitable model wage types.
+- Explain and apply Copying suitable model wage types.
 - Explain and apply permissibility.
 - Explain and apply valuation.
 - Explain and apply processing, cumulation and evaluation classes.
@@ -330,9 +330,9 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply schema flow.
+- Explain and apply Schema flow.
 - Explain and apply functions and operations.
-- Explain and apply pCR branching.
+- Explain and apply PCR branching.
 - Explain and apply employee subgroup groupings.
 - Explain and apply custom namespace.
 - Explain and apply logs and transport discipline.
@@ -351,9 +351,9 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply cumulative and non-cumulative operation.
+- Explain and apply Cumulative and non-cumulative operation.
 - Explain and apply tax-code notices.
-- Explain and apply scottish and Welsh prefixes.
+- Explain and apply Scottish and Welsh prefixes.
 - Explain and apply starter information.
 - Explain and apply tax refunds.
 - Explain and apply tax-year boundaries.
@@ -372,7 +372,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply employee and employer Class 1.
+- Explain and apply Employee and employer Class 1.
 - Explain and apply category selection.
 - Explain and apply thresholds.
 - Explain and apply directors' methods.
@@ -393,7 +393,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply student and postgraduate loans.
+- Explain and apply Student and postgraduate loans.
 - Explain and apply start/stop notices.
 - Explain and apply simultaneous deductions.
 - Explain and apply attachment orders.
@@ -415,7 +415,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply retro limits.
+- Explain and apply Retro limits.
 - Explain and apply earliest changes.
 - Explain and apply splits.
 - Explain and apply backdated pay awards.
@@ -438,7 +438,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply sSP.
+- Explain and apply SSP.
 - Explain and apply maternity, paternity, adoption, shared parental, parental bereavement and neonatal care pay.
 - Explain and apply eligibility, average earnings, overlaps and recovery.
 
@@ -456,7 +456,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply worker assessment.
+- Explain and apply Worker assessment.
 - Explain and apply eligible jobholders.
 - Explain and apply opt-in/joining.
 - Explain and apply postponement.
@@ -479,10 +479,10 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply cash versus benefits in kind.
+- Explain and apply Cash versus benefits in kind.
 - Explain and apply payrolling benefits.
-- Explain and apply p11D/P11D(b).
-- Explain and apply class 1A.
+- Explain and apply P11D/P11D(b).
+- Explain and apply Class 1A.
 - Explain and apply salary sacrifice.
 - Explain and apply optional remuneration.
 - Explain and apply mileage.
@@ -501,11 +501,11 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply national Minimum/Living Wage.
+- Explain and apply National Minimum/Living Wage.
 - Explain and apply pay-reference periods.
 - Explain and apply deductions.
 - Explain and apply holiday pay policy.
-- Explain and apply pILON/PENP.
+- Explain and apply PILON/PENP.
 - Explain and apply redundancy and termination awards.
 
 **Experiment:** Investigate a low-paid worker's deduction and a leaver with multiple termination elements.
@@ -522,8 +522,8 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply fPS.
-- Explain and apply ePS.
+- Explain and apply FPS.
+- Explain and apply EPS.
 - Explain and apply reporting timing.
 - Explain and apply identifiers.
 - Explain and apply acknowledgements.
@@ -545,13 +545,13 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply final reporting.
-- Explain and apply p60.
-- Explain and apply p45 on leaving.
+- Explain and apply Final reporting.
+- Explain and apply P60.
+- Explain and apply P45 on leaving.
 - Explain and apply benefits reporting.
 - Explain and apply opening balances.
 - Explain and apply rates and thresholds.
-- Explain and apply sAP legal change delivery.
+- Explain and apply SAP legal change delivery.
 
 **Experiment:** Rehearse a March/April transition with a leaver and benefit reconciliation.
 
@@ -567,13 +567,13 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply effective-dated employee data.
+- Explain and apply Effective-dated employee data.
 - Explain and apply mapping.
 - Explain and apply replication monitoring.
 - Explain and apply error recovery.
 - Explain and apply source ownership.
 - Explain and apply identifiers.
-- Explain and apply eC Payroll integration options.
+- Explain and apply EC Payroll integration options.
 
 **Experiment:** Inject a missing mapping, duplicate event and out-of-order effective date.
 
@@ -589,13 +589,13 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply symbolic accounts.
+- Explain and apply Symbolic accounts.
 - Explain and apply cost assignment.
 - Explain and apply posting runs.
 - Explain and apply liabilities.
 - Explain and apply balancing.
 - Explain and apply bank files.
-- Explain and apply bacs and bank-channel responsibilities.
+- Explain and apply Bacs and bank-channel responsibilities.
 
 **Experiment:** Reconcile payroll totals to an FI journal and synthetic payment file; then reject one bank record.
 
@@ -611,10 +611,10 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply least privilege.
+- Explain and apply Least privilege.
 - Explain and apply segregation of duties.
 - Explain and apply backend authorisations.
-- Explain and apply eC RBP.
+- Explain and apply EC RBP.
 - Explain and apply privileged access.
 - Explain and apply encryption.
 - Explain and apply retention.
@@ -635,7 +635,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply data cleansing.
+- Explain and apply Data cleansing.
 - Explain and apply balances.
 - Explain and apply history scope.
 - Explain and apply identifiers.
@@ -657,7 +657,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply sAP Activate delivery gates.
+- Explain and apply SAP Activate delivery gates.
 - Explain and apply run sequence.
 - Explain and apply freeze windows.
 - Explain and apply go/no-go.
@@ -679,11 +679,11 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply pCC availability and configuration.
+- Explain and apply PCC availability and configuration.
 - Explain and apply validation rules.
 - Explain and apply alerts.
 - Explain and apply root-cause analysis.
-- Explain and apply sLA.
+- Explain and apply SLA.
 - Explain and apply incident/problem/change management.
 
 **Experiment:** Design alerts for abnormal net pay and missing tax data; role-play an urgent payroll incident.
@@ -700,7 +700,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply capabilities.
+- Explain and apply Capabilities.
 - Explain and apply value streams.
 - Explain and apply service boundaries.
 - Explain and apply integration contracts.
@@ -722,13 +722,13 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply public-sector pensions and retro awards.
+- Explain and apply Public-sector pensions and retro awards.
 - Explain and apply utilities shift pay.
 - Explain and apply industrial overtime.
 - Explain and apply financial-services bonuses.
 - Explain and apply expatriates.
 - Explain and apply shadow payroll.
-- Explain and apply cIS boundary.
+- Explain and apply CIS boundary.
 
 **Experiment:** Choose one sector and identify specialist advice and integration dependencies.
 
@@ -744,7 +744,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply accuracy.
+- Explain and apply Accuracy.
 - Explain and apply timeliness.
 - Explain and apply first-time-right.
 - Explain and apply cost per payslip.
@@ -767,7 +767,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply retrieval over approved guidance.
+- Explain and apply Retrieval over approved guidance.
 - Explain and apply source citations.
 - Explain and apply policy explanation.
 - Explain and apply anomaly triage.
@@ -789,8 +789,8 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply hMRC updates.
-- Explain and apply sAP Notes applicability.
+- Explain and apply HMRC updates.
+- Explain and apply SAP Notes applicability.
 - Explain and apply support-package dependencies.
 - Explain and apply regression scope.
 - Explain and apply effective dates.
@@ -810,7 +810,7 @@ Each module produces a reusable portfolio artefact. Prerequisites are a default 
 
 **Learning scope and outcomes**
 
-- Explain and apply discovery facilitation.
+- Explain and apply Discovery facilitation.
 - Explain and apply estimation.
 - Explain and apply presales.
 - Explain and apply ethical claims.
